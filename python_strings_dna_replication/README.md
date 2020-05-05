@@ -19,39 +19,4 @@ max_k = 6
 This was one of my assignments at upwork and I am just showing how I implemented this.
 Its no way, the only way. Please share your inputs - happy to be corrected and learn :).
 
-Lets get started !!
 
-Lets make the min_k, max_k values configurable outside the main code file.
-Its a fairly simple thing to do and helps avoid changes to the code unnecessarily
-
-Lets test the code with the sample input that we had discussed earlier:
-- For Example:
-source_input = 'gactctcagc'
-min_k = 2
-max_k = 6
-
-Output should be 'ctc' and 2
-
-I found the issue ... silly mistake ... I named the method input param using a keyword/reserved 'len'
-lets fix it
-
-So its works now :)
-
-
-Lets test this with another realistic example that clint shared with me.
-There is a dna sequence of length 6000+ that has the substring cttt getting repeated 52 times ... lets test the code for that sample
-
-Also for this example, the min_k and max_k values to be used are 4 and 9, as per the client
-Lets update the config file
-
-Lets test now
-
-
-So we got the output we expected.
-The code is working !
-
-I will now be working on optimizing this further.
-Please share suggestions, if any.
-Eager to learn :)
-
-Thanks for watching !!
