@@ -7,6 +7,11 @@ from time import time
 from time import sleep
 from random import randint
 import matplotlib.pyplot as plt
+import os
+
+# setup the default file lookup location to cwd
+__location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
+
 
 def generate_url(iter):
     # base url
@@ -152,7 +157,7 @@ if __name__ == "__main__":
     df_master = data_cleaning(df_master)
 
     # extract the master data to a csv file in the cwd
-    df_master.to_csv("scrapedData.csv")
+    df_master.to_csv(path_or_buf=os.path.join(__location__, 'scrapedData.csv'))
 
     # plotting and analyzing the data
     plot_and_analyze(df_master)
