@@ -1,0 +1,333 @@
+,IMDB,Metascore,Name,Votes,Year,Metascore_10
+0,8.5,59.0,Joker,775861,2019,5.9
+1,8.4,78.0,Avengers: Endgame,709750,2019,7.8
+2,7.7,83.0,Once Upon a Time... in Hollywood,456220,2019,8.3
+3,6.9,64.0,Captain Marvel,409316,2019,6.4
+4,8.6,96.0,Gisaengchung,392766,2019,9.6
+5,6.7,53.0,Star Wars: Episode IX - The Rise of Skywalker,312294,2019,5.3
+6,8.3,78.0,1917,298324,2019,7.8
+7,7.9,82.0,Knives Out,291506,2019,8.2
+8,7.5,69.0,Spider-Man: Far from Home,286804,2019,6.9
+9,7.9,94.0,The Irishman,284793,2019,9.4
+10,7.5,73.0,John Wick: Chapter 3 - Parabellum,242946,2019,7.3
+11,7.1,71.0,Shazam!,228389,2019,7.1
+12,8.1,81.0,Ford v. Ferrari,209306,2019,8.1
+13,8.0,94.0,Marriage Story,208948,2019,9.4
+14,7.9,58.0,Jojo Rabbit,205952,2019,5.8
+15,7.3,53.0,Alita: Battle Angel,204612,2019,5.3
+16,7.0,53.0,Aladdin,203568,2019,5.3
+17,6.9,81.0,Us,197060,2019,8.1
+18,6.7,43.0,Glass,189988,2019,4.3
+19,6.9,55.0,The Lion King,188497,2019,5.5
+20,7.8,84.0,Toy Story 4,177044,2019,8.4
+21,6.6,58.0,It Chapter Two,174149,2019,5.8
+22,6.6,80.0,Ad Astra,161701,2019,8.0
+23,7.4,72.0,El Camino: A Breaking Bad Movie,161387,2019,7.2
+24,7.5,90.0,Uncut Gems,158358,2019,9.0
+25,7.1,72.0,Midsommar,148324,2019,7.2
+26,6.5,60.0,Fast & Furious Presents: Hobbs & Shaw,147660,2019,6.0
+27,6.7,58.0,Jumanji: The Next Level,140514,2019,5.8
+28,5.8,43.0,Dark Phoenix,136752,2019,4.3
+29,7.9,51.0,The Gentlemen,124266,2019,5.1
+30,6.6,53.0,Pokémon Detective Pikachu,123872,2019,5.3
+31,6.1,48.0,Godzilla: King of the Monsters,118507,2019,4.8
+32,6.1,41.0,6 Underground,118401,2019,4.1
+33,6.3,54.0,Terminator: Dark Fate,117902,2019,5.4
+34,7.0,73.0,El hoyo,111449,2019,7.3
+35,7.3,69.0,Rocketman,111094,2019,6.9
+36,6.8,55.0,Zombieland: Double Tap,106471,2019,5.5
+37,7.0,64.0,Frozen 2,106228,2019,6.4
+38,6.2,60.0,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,103993,2020,6.0
+39,7.4,59.0,Doctor Sleep,100104,2019,5.9
+40,7.9,91.0,Little Women,99836,2019,9.1
+41,7.6,83.0,The Lighthouse,99088,2019,8.3
+42,6.4,61.0,Triple Frontier,96120,2019,6.1
+43,5.7,38.0,Men in Black: International,96020,2019,3.8
+44,6.8,55.0,Yesterday,93647,2019,5.5
+45,7.5,71.0,How to Train Your Dragon: The Hidden World,92021,2019,7.1
+46,7.6,75.0,The Two Popes,90026,2019,7.5
+47,7.2,72.0,The Invisible Man,89627,2020,7.2
+48,6.0,38.0,Murder Mystery,87977,2019,3.8
+49,6.7,59.0,Bad Boys for Life,85604,2020,5.9
+50,6.8,56.0,Extraction,85166,2020,5.6
+51,6.8,67.0,Long Shot,80802,2019,6.7
+52,6.8,64.0,Ready or Not,76931,2019,6.4
+53,7.2,84.0,Booksmart,75098,2019,8.4
+54,6.3,48.0,Escape Room,72998,2019,4.8
+55,5.7,57.0,Pet Sematary,72669,2019,5.7
+56,7.3,62.0,The King,71682,2019,6.2
+57,5.2,31.0,Hellboy,70873,2019,3.1
+58,6.1,44.0,Brightburn,69154,2019,4.4
+59,6.6,52.0,"Extremely Wicked, Shockingly Evil and Vile",68366,2019,5.2
+60,6.3,19.0,Polar,67745,2019,1.9
+61,8.2,65.0,Klaus,67354,2019,6.5
+62,6.2,26.0,Rambo: Last Blood,66554,2019,2.6
+63,6.3,79.0,Hustlers,65896,2019,7.9
+64,6.7,64.0,I Am Mother,64898,2019,6.4
+65,6.4,45.0,Angel Has Fallen,64857,2019,4.5
+66,6.9,58.0,The Highwaymen,64574,2019,5.8
+67,6.7,43.0,Maleficent: Mistress of Evil,64507,2019,4.3
+68,5.7,38.0,Gemini Man,62920,2019,3.8
+69,6.3,51.0,Dumbo,59444,2019,5.1
+70,7.1,68.0,Fighting with My Family,57869,2019,6.8
+71,5.9,60.0,Isn't It Romantic,57465,2019,6.0
+72,6.8,64.0,Bombshell,56761,2019,6.4
+73,6.6,47.0,Sonic the Hedgehog,55763,2020,4.7
+74,6.2,60.0,Crawl,52380,2019,6.0
+75,7.5,61.0,Onward,52252,2020,6.1
+76,6.2,49.0,Spenser Confidential,50986,2020,4.9
+77,6.2,57.0,Cold Pursuit,50918,2019,5.7
+78,5.7,61.0,Velvet Buzzsaw,49496,2019,6.1
+79,5.9,53.0,Annabelle Comes Home,49154,2019,5.3
+80,6.2,57.0,Happy Death Day 2U,49013,2019,5.7
+81,6.6,65.0,The LEGO Movie 2: The Second Part,48777,2019,6.5
+82,6.7,60.0,Good Boys,48453,2019,6.0
+83,6.2,61.0,Scary Stories to Tell in the Dark,48037,2019,6.1
+84,6.6,40.0,Anna,47619,2019,4.0
+85,7.3,76.0,Dolemite Is My Name,44421,2019,7.6
+86,6.0,54.0,Captive State,44391,2019,5.4
+87,6.7,47.0,Midway,44229,2019,4.7
+88,6.4,36.0,Fractured,43992,2019,3.6
+89,6.5,55.0,The Secret Life of Pets 2,42584,2019,5.5
+90,5.5,53.0,The Dead Don't Die,41507,2019,5.3
+91,6.8,64.0,Always Be My Maybe,40398,2019,6.4
+92,7.6,70.0,The Peanut Butter Falcon,40363,2019,7.0
+93,7.6,87.0,Dolor y gloria,39920,2019,8.7
+94,7.3,80.0,A Beautiful Day in the Neighborhood,39900,2019,8.0
+95,4.6,52.0,Charlie's Angels,39780,2019,5.2
+96,6.4,40.0,Shaft,39227,2019,4.0
+97,5.4,46.0,In the Tall Grass,38892,2019,4.6
+98,5.4,35.0,The Hustle,38288,2019,3.5
+99,7.6,89.0,The Farewell,37857,2019,8.9
+100,6.3,57.0,The Laundromat,37302,2019,5.7
+101,7.5,68.0,Richard Jewell,37222,2019,6.8
+102,5.8,48.0,Child's Play,37144,2019,4.8
+103,5.9,48.0,Underwater,35634,2020,4.8
+104,7.0,39.0,The Dirt,35043,2019,3.9
+105,8.2,95.0,Portrait de la jeune fille en feu,34928,2019,9.5
+106,7.6,73.0,Dark Waters,34254,2019,7.3
+107,5.7,44.0,Bloodshot,34082,2020,4.4
+108,7.2,53.0,Five Feet Apart,33593,2019,5.3
+109,6.5,50.0,Last Christmas,33330,2019,5.0
+110,6.2,48.0,In the Shadow of the Moon,33296,2019,4.8
+111,7.2,75.0,Fyre,33062,2019,7.5
+112,5.3,25.0,The Silence,32591,2019,2.5
+113,5.3,41.0,The Curse of la Llorona,32335,2019,4.1
+114,2.7,32.0,Cats,32235,2019,3.2
+115,6.1,42.0,Stuber,32182,2019,4.2
+116,5.6,53.0,Ma,32147,2019,5.3
+117,5.3,37.0,Serenity,31247,2019,3.7
+118,5.6,26.0,Dolittle,31240,2020,2.6
+119,7.4,64.0,Downton Abbey,31110,2019,6.4
+120,6.4,50.0,The Hunt,30498,2020,5.0
+121,6.9,66.0,Judy,29906,2019,6.6
+122,4.7,40.0,IO,28708,2019,4.0
+123,6.8,60.0,Motherless Brooklyn,28416,2019,6.0
+124,6.6,51.0,21 Bridges,27698,2019,5.1
+125,5.4,30.0,After,27149,2019,3.0
+126,8.2,65.0,Gully Boy,26671,2019,6.5
+127,6.8,48.0,Tolkien,26493,2019,4.8
+128,7.3,25.0,The Professor and the Madman,25781,2019,2.5
+129,8.1,69.0,Togo,25655,2019,6.9
+130,7.2,66.0,The Report,24421,2019,6.6
+131,6.1,48.0,Code 8,24196,2019,4.8
+132,7.5,68.0,Just Mercy,24140,2019,6.8
+133,6.0,57.0,Liu lang di qiu,24074,2019,5.7
+134,6.1,59.0,Between Two Ferns: The Movie,23135,2019,5.9
+135,7.0,61.0,Abominable,22231,2019,6.1
+136,6.5,70.0,Late Night,21782,2019,7.0
+137,6.7,65.0,The Art of Self-Defense,21778,2019,6.5
+138,6.8,54.0,Spies in Disguise,21749,2019,5.4
+139,6.6,60.0,The Aeronauts,20777,2019,6.0
+140,7.6,80.0,J'ai perdu mon corps,20711,2019,8.0
+141,5.8,45.0,The Prodigy,20605,2019,4.5
+142,7.6,68.0,The Boy Who Harnessed the Wind,20505,2019,6.8
+143,6.3,42.0,Guns Akimbo,20233,2019,4.2
+144,5.8,46.0,The Addams Family,19691,2019,4.6
+145,6.6,48.0,A Rainy Day in New York,19634,2019,4.8
+146,7.3,63.0,Official Secrets,19550,2019,6.3
+147,5.7,51.0,Close,18877,2019,5.1
+148,6.8,47.0,The Call of the Wild,18805,2020,4.7
+149,6.7,68.0,Missing Link,18178,2019,6.8
+150,5.2,49.0,What Men Want,17999,2019,4.9
+151,8.2,88.0,Apollo 11,17942,2019,8.8
+152,6.0,63.0,Dora and the Lost City of Gold,17875,2019,6.3
+153,7.5,43.0,The Art of Racing in the Rain,17777,2019,4.3
+154,6.0,54.0,To All the Boys: P.S. I Still Love You,17199,2020,5.4
+155,6.2,70.0,Color Out of Space,17158,2019,7.0
+156,7.3,73.0,Honey Boy,17027,2019,7.3
+157,5.4,31.0,Countdown,17014,2019,3.1
+158,6.4,60.0,The Angry Birds Movie 2,16857,2019,6.0
+159,5.4,56.0,Wine Country,16668,2019,5.6
+160,7.0,67.0,The Great Hack,16567,2019,6.7
+161,5.8,64.0,Vivarium,15931,2019,6.4
+162,4.8,22.0,Fantasy Island,15890,2020,2.2
+163,5.5,55.0,The Beach Bum,15612,2019,5.5
+164,6.6,55.0,The Good Liar,15522,2019,5.5
+165,5.0,43.0,47 Meters Down: Uncaged,15505,2019,4.3
+166,6.9,71.0,Blinded by the Light,15454,2019,7.1
+167,6.2,63.0,Someone Great,15270,2019,6.3
+168,7.1,62.0,Yip Man 4,15082,2019,6.2
+169,7.4,43.0,A Dog's Journey,14878,2019,4.3
+170,6.8,68.0,The Way Back,14844,2020,6.8
+171,5.8,51.0,Let It Snow,14697,2019,5.1
+172,6.3,43.0,The Aftermath,14565,2019,4.3
+173,5.8,46.0,Jay and Silent Bob Reboot,14322,2019,4.6
+174,6.1,39.0,Jexi,14142,2019,3.9
+175,7.0,74.0,Queen & Slim,14009,2019,7.4
+176,7.4,86.0,American Factory,13891,2019,8.6
+177,6.3,69.0,Haunt,13857,2019,6.9
+178,4.2,41.0,The Grudge,13683,2020,4.1
+179,6.4,66.0,Harriet,13436,2019,6.6
+180,6.5,61.0,All the Bright Places,13343,2020,6.1
+181,6.0,66.0,The Kid Who Would Be King,13309,2019,6.6
+182,5.7,63.0,The Hole in the Ground,13111,2019,6.3
+183,4.0,51.0,Wounds,13082,2019,5.1
+184,6.8,71.0,Emma.,12947,2020,7.1
+185,7.4,65.0,Miss Americana,12627,2020,6.5
+186,6.7,50.0,A Dog's Way Home,12617,2019,5.0
+187,7.6,82.0,Bacurau,12311,2019,8.2
+188,6.5,61.0,The Informer,12124,2019,6.1
+189,6.3,48.0,Lady and the Tramp,12117,2019,4.8
+190,6.8,72.0,Brittany Runs a Marathon,12044,2019,7.2
+191,7.1,81.0,The Edge of Democracy,11990,2019,8.1
+192,5.3,64.0,Gretel & Hansel,11838,2020,6.4
+193,5.5,41.0,Love Wedding Repeat,11665,2020,4.1
+194,5.8,10.0,Unplanned,11658,2019,1.0
+195,6.5,51.0,"Where'd You Go, Bernadette",11641,2019,5.1
+196,6.1,67.0,Lost Girls,11460,2020,6.7
+197,5.4,35.0,The Kitchen,11409,2019,3.5
+198,7.4,78.0,A Hidden Life,11348,2019,7.8
+199,5.6,39.0,The Intruder,10836,2019,3.9
+200,7.6,80.0,Waves,10747,2019,8.0
+201,5.9,51.0,Earthquake Bird,10746,2019,5.1
+202,6.2,40.0,The Goldfinch,10674,2019,4.0
+203,5.9,61.0,Horse Girl,10633,2020,6.1
+204,7.3,83.0,The Last Black Man in San Francisco,10538,2019,8.3
+205,6.3,54.0,Black and Blue,10380,2019,5.4
+206,5.7,37.0,Point Blank,10209,2019,3.7
+207,5.7,50.0,Paradise Hills,10012,2019,5.0
+208,7.6,78.0,Les Misérables,9910,2019,7.8
+209,8.0,86.0,Honeyland,9896,2019,8.6
+210,7.6,82.0,Sorry We Missed You,9861,2019,8.2
+211,6.2,48.0,Noelle,9728,2019,4.8
+212,7.6,72.0,Tenki no ko,9698,2019,7.2
+213,4.2,35.0,The Last Thing He Wanted,9671,2020,3.5
+214,6.3,59.0,Little Monsters,9590,2019,5.9
+215,6.7,65.0,I See You,9570,2019,6.5
+216,6.8,56.0,Escape from Pretoria,9519,2020,5.6
+217,6.9,80.0,Knock Down the House,9398,2019,8.0
+218,7.1,78.0,Monos,9275,2019,7.8
+219,7.2,70.0,Paddleton,9185,2019,7.0
+220,5.6,50.0,3 from Hell,9181,2019,5.0
+221,5.4,49.0,Little,9080,2019,4.9
+222,7.2,59.0,The Banker,8880,2020,5.9
+223,5.8,34.0,A Fall from Grace,8828,2020,3.4
+224,7.2,79.0,Bad Education,8807,2019,7.9
+225,6.5,63.0,Avengement,8698,2019,6.3
+226,5.8,45.0,Wonder Park,8567,2019,4.5
+227,6.1,64.0,The Lodge,8489,2019,6.4
+228,7.6,69.0,Tell Me Who I Am,8487,2019,6.9
+229,7.7,78.0,Diego Maradona,8417,2019,7.8
+230,5.1,35.0,Coffee & Kareem,8309,2020,3.5
+231,5.5,60.0,Triple Threat,8277,2019,6.0
+232,6.0,38.0,Otherhood,8139,2019,3.8
+233,6.9,77.0,The Mustang,7997,2019,7.7
+234,6.6,67.0,Light of My Life,7801,2019,6.7
+235,5.1,74.0,See You Yesterday,7779,2019,7.4
+236,4.9,24.0,Playing with Fire,7506,2019,2.4
+237,3.2,49.0,Black Christmas,7465,2019,4.9
+238,7.2,56.0,J'accuse,7375,2019,5.6
+239,7.1,49.0,The Best of Enemies,7149,2019,4.9
+240,6.1,46.0,Breakthrough,7107,2019,4.6
+241,6.5,47.0,Angel of Mine,7014,2019,4.7
+242,6.7,38.0,Der goldene Handschuh,6999,2019,3.8
+243,5.7,41.0,Miss Bala,6980,2019,4.1
+244,6.5,91.0,The Souvenir,6959,2019,9.1
+245,7.1,66.0,The Inventor: Out for Blood in Silicon Valley,6873,2019,6.6
+246,6.7,72.0,Luce,6806,2019,7.2
+247,6.2,78.0,High Flying Bird,6770,2019,7.8
+248,5.3,22.0,Killers Anonymous,6759,2019,2.2
+249,5.3,35.0,Can You Keep a Secret?,6728,2019,3.5
+250,6.1,51.0,Trolls World Tour,6633,2020,5.1
+251,6.0,64.0,Come to Daddy,6559,2019,6.4
+252,7.7,77.0,Boze Cialo,6557,2019,7.7
+253,6.9,79.0,A Shaun the Sheep Movie: Farmageddon,6495,2019,7.9
+254,4.4,21.0,Sextuplets,6354,2019,2.1
+255,7.2,73.0,The Half of It,6310,2020,7.3
+256,4.6,65.0,Girl on the Third Floor,6127,2019,6.5
+257,6.2,42.0,My Spy,6036,2020,4.2
+258,4.3,18.0,The Fanatic,6012,2019,1.8
+259,8.5,89.0,For Sama,5966,2019,8.9
+260,6.8,85.0,Atlantique,5946,2019,8.5
+261,5.2,45.0,The Rhythm Section,5940,2020,4.5
+262,7.9,68.0,And Then We Danced,5821,2019,6.8
+263,6.5,67.0,The Willoughbys,5774,2020,6.7
+264,5.9,51.0,The Kid,5757,2019,5.1
+265,5.6,40.0,Cuck,5743,2019,4.0
+266,7.9,90.0,Systemsprenger,5730,2019,9.0
+267,6.3,65.0,Swallow,5727,2019,6.5
+268,6.9,59.0,Troop Zero,5692,2019,5.9
+269,6.6,65.0,Plus One,5638,2019,6.5
+270,3.8,35.0,The Turning,5576,2020,3.5
+271,7.1,64.0,Il traditore,5561,2019,6.4
+272,7.2,67.0,Dronningen,5445,2019,6.7
+273,4.4,33.0,Like a Boss,5392,2020,3.3
+274,7.5,55.0,The Sky Is Pink,5357,2019,5.5
+275,4.5,29.0,Brahms: The Boy II,5349,2020,2.9
+276,7.5,75.0,La Belle Époque,5318,2019,7.5
+277,6.9,65.0,Akinjeon,5295,2019,6.5
+278,6.2,63.0,Villains,5227,2019,6.3
+279,5.2,49.0,Dangerous Lies,5105,2020,4.9
+280,5.6,34.0,American Son,5067,2019,3.4
+281,4.6,30.0,The Poison Rose,4889,2019,3.0
+282,5.4,42.0,Running with the Devil,4848,2019,4.2
+283,6.2,53.0,Sergio,4711,2020,5.3
+284,5.8,52.0,The Sun Is Also a Star,4703,2019,5.2
+285,4.9,39.0,Uglydolls,4671,2019,3.9
+286,7.1,84.0,Dylda,4647,2019,8.4
+287,5.3,36.0,Daughter of the Wolf,4527,2019,3.6
+288,7.7,86.0,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,4460,2019,8.6
+289,7.3,76.0,Hail Satan?,4460,2019,7.6
+290,5.6,31.0,The Last Laugh,4445,2019,3.1
+291,6.7,68.0,"Bikram: Yogi, Guru, Predator",4355,2019,6.8
+292,6.4,72.0,Extra Ordinary,4129,2019,7.2
+293,7.5,54.0,Ne Zha zhi mo tong jiang shi,4041,2019,5.4
+294,5.1,15.0,The Courier,4037,2019,1.5
+295,6.5,84.0,Synonymes,3937,2019,8.4
+296,6.7,65.0,Mine 9,3878,2019,6.5
+297,6.2,50.0,After the Wedding,3849,2019,5.0
+298,6.8,65.0,Le daim,3828,2019,6.5
+299,4.8,49.0,Downhill,3762,2020,4.9
+300,7.9,81.0,A Vida Invisível,3686,2019,8.1
+301,7.0,55.0,Mientras dure la guerra,3671,2019,5.5
+302,6.1,49.0,Don't Let Go,3546,2019,4.9
+303,6.1,61.0,Daniel Isn't Real,3518,2019,6.1
+304,6.6,52.0,The Last Full Measure,3493,2019,5.2
+305,4.4,40.0,Domino,3445,2019,4.0
+306,7.5,85.0,Born in China,3422,2019,8.5
+307,4.4,39.0,A Madea Family Funeral,3387,2019,3.9
+308,5.9,60.0,Little Joe,3360,2019,6.0
+309,6.4,41.0,I Still Believe,3345,2020,4.1
+310,4.8,32.0,Primal,3316,2019,3.2
+311,5.8,36.0,Poms,3304,2019,3.6
+312,6.2,56.0,Finding Steve McQueen,3285,2019,5.6
+313,4.7,36.0,Lucy in the Sky,3273,2019,3.6
+314,5.6,42.0,Killerman,3251,2019,4.2
+315,6.8,65.0,Photograph,3243,2019,6.5
+316,6.4,72.0,Blow the Man Down,3222,2019,7.2
+317,5.3,50.0,Lying and Stealing,3182,2019,5.0
+318,6.3,51.0,Human Capital,3151,2019,5.1
+319,6.9,77.0,Hatsukoi,3149,2019,7.7
+320,6.1,75.0,True History of the Kelly Gang,3142,2019,7.5
+321,6.6,75.0,The Personal History of David Copperfield,3140,2019,7.5
+322,5.6,51.0,Satanic Panic,3069,2019,5.1
+323,6.3,69.0,The Death of Dick Long,3068,2019,6.9
+324,4.6,25.0,Cold Blood Legacy,3065,2019,2.5
+325,4.6,37.0,A Score to Settle,3039,2019,3.7
+326,5.7,55.0,Nancy Drew and the Hidden Staircase,3034,2019,5.5
+327,6.5,17.0,Overcomer,3030,2019,1.7
+328,6.8,64.0,Mr. Jones,3006,2019,6.4
+329,6.4,57.0,La paranza dei bambini,2965,2019,5.7
+330,5.6,47.0,The Operative,2957,2019,4.7
+331,2.8,8.0,The Haunting of Sharon Tate,2952,2019,0.8
