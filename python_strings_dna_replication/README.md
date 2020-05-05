@@ -1,3 +1,7 @@
+Technology-stack
+---------------- 
+Python String Manipulation, Optimized Code
+
 Problem Statement
 -----------------
 
@@ -15,8 +19,5 @@ max_k = 6
 
 - This would return 'ctc'(frequency of occourance: 2), 'ct' (frequency: 2), 'tc' (frequency: 2) are the most repeating ones.
 - Hence 'ctc' which has the maximum length, must be chosen as the answer.
-
-This was one of my assignments at upwork and I am just showing how I implemented this.
-Its no way, the only way. Please share your inputs - happy to be corrected and learn :).
 
 
