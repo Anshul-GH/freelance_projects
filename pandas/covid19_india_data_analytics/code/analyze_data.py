@@ -18,10 +18,23 @@ source_data = pd.read_csv(source_file)
 # plt.legend()
 # plt.show()
 
-x_axis = source_data[source_data['State/UnionTerritory'] == 'Kerala']['Date']
-y_axis = source_data[source_data['State/UnionTerritory'] == 'Kerala']['Confirmed']
+# cases that were active on a given day
+active_cases = source_data[source_data['State/UnionTerritory'] == 'Kerala']['Confirmed'] - source_data[source_data['State/UnionTerritory'] == 'Kerala']['Cured']
 
+# date - delete year info
+raw_date = source_data[source_data['State/UnionTerritory'] == 'Kerala']['Date']
+split_date = [dt.split('/') for dt in  raw_date]
+req_date = [str(dt[0]+'-'+dt[1]) for dt in split_date]
+
+x_axis = req_date
+y_axis = active_cases
+
+# barchart
 sea.barplot(x_axis, y_axis)
+
+# heatmap
+sea.lineplot(x_axis, y_axis)
+
 plt.show()
 
 # print(source_data[source_data['State/UnionTerritory'] == 'Kerala']['Date'])
