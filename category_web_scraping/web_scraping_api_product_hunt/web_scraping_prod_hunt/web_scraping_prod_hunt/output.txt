@@ -1,0 +1,64 @@
+Welcome to the Product Hunt API 2.0
+The goal of this API is to provide access to Product Hunt data via a simple
+GraphQL   interface.
+If you have any ideas for improvements or just wanna chat about queries or mutations
+let us know on GitHub.   Remember to add   v2   label to the issue.
+Not familiar with GraphQL?
+Here are some resources that can help you get started with GraphQL.
+GraphQL   home page.
+How To GraphQL   - a free and open-source tutorial to learn all around GraphQL to go from zero to production.
+Privileges
+There are 3 types of scopes that an application can request on behalf of the user:
+Public :   Access public information on Product Hunt.
+Private :   Access Product Hunt on behalf of the authenticated user. For e.g application will be able to read goals of the user.
+Write :   Take actions on Product Hunt on behalf of the user. For e.g application will be able to mark user's goals as complete/incomplete.
+For example, if you are building an application in which you need to know if a user has followed a topic, or commented on a post, you would need to request   `public private`   scope.
+By default   all apps are read-only   i.e they have   `public`   scope.
+As part of API 2.0 we have decided to give   partial write access   to third party applications depending on the use-case. If your application needs it
+feel free to get in touch with us at   hello@producthunt.com  . Remember you would also need to request   `public private write`   scope
+for write functions to work.
+The Product Hunt API must not be used for commercial purposes. If you would like to use it for
+your business, please contact us at   hello@producthunt.com  .
+Accessing Endpoints
+The API is reachable at   https://api.producthunt.com/v2/api/graphql
+Currently the API is only accessible with a provided   access_token  .
+We reserve the right to rate-limit any application if we feel you are not following   fair-use  .
+If you require faster access without rate limit please contact us.
+Get started: Getting an OAuth2 token
+Get a token on behalf of a user:
+Follow the steps in   OAuth User Authentication   oauth#authorize to receive an access_grant
+Use the access_grant in oauth#token
+Add the   Authorization   http header with the token to all requests. E.g   Authorization: Bearer {token}
+Test this and troubleshoot according to the examples in oauth#test
+Get a token without user context. (eg before a user logs in)
+Follow the steps explained in   OAuth Client Only Authentication   oauth#token
+Please remember that this tokens limit you to public endpoints that don't require user context.
+But… i just wanted to run a simple script?
+The oauth2 flow is a bit of a overkill if you just want to run a few scripts
+We provide a developer_token (does not expire, linked to your account) in the
+app dashboard
+May I use the API for my business?
+By default the Product Hunt API must not be used for commercial purposes.
+If you would like to use it for your business, please contact us at
+hello@producthunt.com  .
+Done building? Get featured!
+We’re excited to see what all you creative folks build and happy to feature your product on the site.
+Contact us at   hello@producthunt.com   with its name,
+a couple sentence description, and link to the project.
+Do I have to attribute Product Hunt?
+We kindly ask that you include attribution in your project, linking back to
+Product Hunt  .
+We’d also appreciate those that include a Product Hunt logo (it’s helpful for us!).
+You can   download the goodies here  .
+Are there any other ways to do Product Hunt Integrations?
+Yes! There is quite a bunch of third party APIs. Blazin' fast fulltext search,
+SDKs with callbacks for real-time like interaction, web-hooks, etc etc.
+Go here for the   full list  .
+Btw there is also a lot of Open Source software out there.
+Take a look  .
+Maybe there is something you can reuse.
+But…?
+If you have any more questions, feedback, ideas or problems don’t hesitate to contact us!
+Also, let us know what you’re working on! Drop us a line at
+hello@producthunt.com  .
+Happy Hacking!
