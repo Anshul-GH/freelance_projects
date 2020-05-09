@@ -1,0 +1,1 @@
+Contains projects categorized under core python applications.
