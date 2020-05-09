@@ -1,0 +1,166 @@
+Final Query Split -1
+--------------------
+
+# id
+{
+    collections (first: 1)
+    {
+        edges
+        {
+            node
+            {
+                posts
+                {
+                    edges
+                    {
+                        node
+                        {
+                            # Category_ID	Comments_Count	Created_at	Discussion_URL	Exclusive	Featured	Product_ID
+                            id
+                            # commentsCount
+                            # createdAt
+                            # url
+                            # description # additional
+                            # makers
+                            # {
+                            #     #  Maker_Name_1	Maker_ProfileURL_1	Maker_CreatedAt_1	Maker_ID_1	Username_1	Maker_Twitter_username_1	Maker_website_1	Maker_Headline_1
+                            #     name
+                            #     url
+                            #     createdAt
+                            #     id
+                            #     username
+                            #     twitterUsername
+                            #     websiteUrl
+                            #     headline
+                            # }
+                            # productLinks
+                            # {
+                            #     type
+                            #     url
+                            # }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+{
+    "data": {
+        "collections": {
+            "edges": [
+                {
+                    "node": {
+                        "posts": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "14717"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "76"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "141420"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "22121"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "9917"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "19454"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "57801"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "89635"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "596"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "28256"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "100183"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "107220"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "53552"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "14874"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "66"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "114732"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "108509"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "92640"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "102899"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "89805"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

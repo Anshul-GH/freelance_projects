@@ -1,0 +1,47 @@
+Final Query
+-----------
+
+
+{
+    collections
+    {
+        edges
+        {
+            node
+            {
+                posts
+                {
+                    edges
+                    {
+                        node
+                        {
+                            # Category_ID	Comments_Count	Created_at	Discussion_URL	Exclusive	Featured	Product_ID
+                            id
+                            commentsCount
+                            createdAt
+                            url
+                            description # additional
+                            makers
+                            {
+                                #  Maker_Name_1	Maker_ProfileURL_1	Maker_CreatedAt_1	Maker_ID_1	Username_1	Maker_Twitter_username_1	Maker_website_1	Maker_Headline_1
+                                name
+                                url
+                                createdAt
+                                id
+                                username
+                                twitterUsername
+                                websiteUrl
+                                headline
+                            }
+                            productLinks
+                            {
+                                type
+                                url
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
