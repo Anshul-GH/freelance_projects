@@ -1,0 +1,163 @@
+Final Query Split-3
+
+# url
+{
+    collections (first: 1)
+    {
+        edges
+        {
+            node
+            {
+                posts
+                {
+                    edges
+                    {
+                        node
+                        {
+                            # Category_ID	Comments_Count	Created_at	Discussion_URL	Exclusive	Featured	Product_ID
+                            # id
+                            # commentsCount
+                            # createdAt
+                            url
+                            # description # additional
+                            # makers
+                            # {
+                            #     #  Maker_Name_1	Maker_ProfileURL_1	Maker_CreatedAt_1	Maker_ID_1	Username_1	Maker_Twitter_username_1	Maker_website_1	Maker_Headline_1
+                            #     name
+                            #     url
+                            #     createdAt
+                            #     id
+                            #     username
+                            #     twitterUsername
+                            #     websiteUrl
+                            #     headline
+                            # }
+                            # productLinks
+                            # {
+                            #     type
+                            #     url
+                            # }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+{
+    "data": {
+        "collections": {
+            "edges": [
+                {
+                    "node": {
+                        "posts": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/startup-stash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/slack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/remove-bg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/pexels-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/coolers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/hunter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/good-email-copy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/unsplash-5-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/f-lux?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/marketing-stack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/feather-icons-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/product-hunt-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/carrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/freebie-supply?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/trello-66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/first-search?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/ship-by-product-hunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/startup-school?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/muzzle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "url": "https://www.producthunt.com/posts/lottie-by-airbnb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

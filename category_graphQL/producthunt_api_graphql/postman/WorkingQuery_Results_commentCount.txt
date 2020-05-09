@@ -1,0 +1,163 @@
+Final Query Split-2
+
+# commentCount
+{
+    collections (first: 1)
+    {
+        edges
+        {
+            node
+            {
+                posts
+                {
+                    edges
+                    {
+                        node
+                        {
+                            # Category_ID	Comments_Count	Created_at	Discussion_URL	Exclusive	Featured	Product_ID
+                            # id
+                            commentsCount
+                            # createdAt
+                            # url
+                            # description # additional
+                            # makers
+                            # {
+                            #     #  Maker_Name_1	Maker_ProfileURL_1	Maker_CreatedAt_1	Maker_ID_1	Username_1	Maker_Twitter_username_1	Maker_website_1	Maker_Headline_1
+                            #     name
+                            #     url
+                            #     createdAt
+                            #     id
+                            #     username
+                            #     twitterUsername
+                            #     websiteUrl
+                            #     headline
+                            # }
+                            # productLinks
+                            # {
+                            #     type
+                            #     url
+                            # }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+{
+    "data": {
+        "collections": {
+            "edges": [
+                {
+                    "node": {
+                        "posts": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "commentsCount": 294
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 202
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 371
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 106
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 101
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 151
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 103
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 98
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 92
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 128
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 49
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 241
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 286
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 30
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 94
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 94
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 113
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 79
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 175
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "commentsCount": 45
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
