@@ -41,6 +41,29 @@ url = f'{base_url}?symbols={stock_list}&types={endpoint}&range={years}&cache={ca
 # hittng the url will send an api request automatically, storing the result in a dataframe
 stock_json = pd.read_json(url)
 
-# save the data from the dataframe in a csv file for reference
-stock_json.to_csv(os.path.join(__location__)+'/stock_data.csv')
 
+# save the data from the dataframe in a csv file for reference
+# stock_json.to_csv(os.path.join(__location__)+'/stock_data.csv')
+
+# empty list to hold the price information for the stocks extracted from json
+price_list = []
+
+# for each stock, read the closing price and append to list
+for stock in stocks:
+    price_list.append(pd.DataFrame(stock_json[stock]['chart'])['close'])
+
+
+# add an additional date column with blank data
+price_list.append(pd.DataFrame(stock_json['JPM']['chart'])['date'])
+
+# create a list of headers for the final dataframe - stocks + additional date column
+stocks.append('Date')
+
+# create the final version dataframe with columns and an index on 'Date'
+master_data = pd.concat(price_list, axis=1) #headers=column_names, set_index='Date'
+master_data.columns = stocks
+
+# set and index on the 'Date' column
+master_data.set_index('Date', inplace=True)
+
+# print(master_data.head(5))
