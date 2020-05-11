@@ -1,0 +1,342 @@
+Learning GraphQL
+----------------
+
+{
+    collections {
+        edges {
+            cursor
+            node {
+                # posts {
+                #     totalCount
+                #     pageInfo {
+                #         startCursor
+                #         endCursor
+                #         hasNextPage
+                #         hasPreviousPage
+                #     }
+                # }
+                # topics {
+                #     totalCount
+                #     edges {
+                #         cursor
+                #         node {
+                #             createdAt
+                #             description
+                # #             # followersCount
+                #             # id
+                #             # image
+                #             # isFollowing
+                #             # name
+                #             # postsCount
+                #             # slug
+                #             # url
+                #         }
+                #     }
+                # }
+                coverImage
+                createdAt
+                description
+                featuredAt
+                followersCount
+                # id
+                isFollowing
+                name
+                tagline
+                url
+                # user
+                # userId
+            }
+        }
+    }
+}
+
+
+
+{
+    "data": {
+        "collections": {
+            "edges": [
+                {
+                    "cursor": "MQ==",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/13b32f60-8a0f-44a7-84ad-c867c6c14a64?auto=format",
+                        "createdAt": "2015-02-15T19:46:06Z",
+                        "description": "",
+                        "featuredAt": "2016-05-23T02:30:00Z",
+                        "followersCount": 4658,
+                        "isFollowing": false,
+                        "name": "Free Stuff For Startups",
+                        "tagline": "Free stuff, tools and products with free plans to help you get started.",
+                        "url": "https://www.producthunt.com/@hnshah/collections/free-stuff-for-startups?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "Mg==",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/4bd648d5-f7e6-43b0-817f-aa2fefd58333?auto=format",
+                        "createdAt": "2015-09-21T20:50:34Z",
+                        "description": "",
+                        "featuredAt": "2017-09-26T07:01:00Z",
+                        "followersCount": 3137,
+                        "isFollowing": false,
+                        "name": "Remote Apps",
+                        "tagline": "The best apps for remote work wherever you are in the world",
+                        "url": "https://www.producthunt.com/e/remote-apps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "Mw==",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/927574cf-c72c-4346-9028-2754ce7d3909?auto=format",
+                        "createdAt": "2015-09-23T13:58:46Z",
+                        "description": "",
+                        "featuredAt": "2016-05-10T07:01:00Z",
+                        "followersCount": 2571,
+                        "isFollowing": false,
+                        "name": "An API for Everything",
+                        "tagline": "With this collection, rest assured that \"there's an API for that\"",
+                        "url": "https://www.producthunt.com/e/an-api-for-everything?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "NA==",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/4102add1-5a9c-44b1-a368-8354ac1f3205?auto=format",
+                        "createdAt": "2017-05-08T23:39:21Z",
+                        "description": null,
+                        "featuredAt": "2017-11-28T08:01:00Z",
+                        "followersCount": 2432,
+                        "isFollowing": false,
+                        "name": "$0 Design Tools",
+                        "tagline": "A collection of $0 Design Tools to Help You Create Your Next Project",
+                        "url": "https://www.producthunt.com/e/0-design-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "NQ==",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/14296c10-69af-4b9a-88c3-3cb1a21bd531?auto=format",
+                        "createdAt": "2017-01-04T05:59:46Z",
+                        "description": null,
+                        "featuredAt": "2018-09-15T08:11:00Z",
+                        "followersCount": 2263,
+                        "isFollowing": false,
+                        "name": "Brain Music",
+                        "tagline": "A collection of music products that help you focus, meditate, and sleep better 🎶",
+                        "url": "https://www.producthunt.com/e/brain-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "Ng==",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/d8f1647b-536f-40e8-9f67-edff4fadc40e?auto=format",
+                        "createdAt": "2015-05-30T21:04:31Z",
+                        "description": null,
+                        "featuredAt": "2016-02-17T08:00:00Z",
+                        "followersCount": 2243,
+                        "isFollowing": false,
+                        "name": "Marvelous Mac Apps",
+                        "tagline": "Useful Mac apps you probably aren't using (but should)",
+                        "url": "https://www.producthunt.com/e/marvelous-mac-apps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "Nw==",
+                    "node": {
+                        "coverImage": null,
+                        "createdAt": "2014-08-21T11:30:41Z",
+                        "description": null,
+                        "featuredAt": "2016-08-16T00:55:55Z",
+                        "followersCount": 2172,
+                        "isFollowing": false,
+                        "name": "Lean Startup Tools",
+                        "tagline": "Tools to help you validate, build, and launch your startup 🙏",
+                        "url": "https://www.producthunt.com/e/lean-startup-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "OA==",
+                    "node": {
+                        "coverImage": null,
+                        "createdAt": "2016-03-22T00:38:40Z",
+                        "description": null,
+                        "featuredAt": "2016-08-31T18:11:11Z",
+                        "followersCount": 2119,
+                        "isFollowing": false,
+                        "name": "Without Coding 📲⌚💻",
+                        "tagline": "Build an app without writing code. It's magical.",
+                        "url": "https://www.producthunt.com/@jurica87/collections/without-coding?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "OQ==",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/90308500-e524-453b-9690-376dd9d5232d?auto=format",
+                        "createdAt": "2015-11-02T20:48:48Z",
+                        "description": "",
+                        "featuredAt": "2016-05-09T06:30:00Z",
+                        "followersCount": 2065,
+                        "isFollowing": false,
+                        "name": "The Ultimate Marketing Stack for Startups",
+                        "tagline": "All the tools you need to build your best startup marketing strategy",
+                        "url": "https://www.producthunt.com/e/the-ultimate-marketing-stack-for-startups?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTA=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/41a71d1b-b805-482f-b1da-d1703e381576?auto=format",
+                        "createdAt": "2014-12-11T18:56:47Z",
+                        "description": null,
+                        "featuredAt": "2016-05-12T22:00:00Z",
+                        "followersCount": 2038,
+                        "isFollowing": false,
+                        "name": "Apps for Product Managers",
+                        "tagline": "Tools, books and other stuff that you might find yourself using frequently as a PM. ps: send me suggestions for good stuff I might've missed @kaz",
+                        "url": "https://www.producthunt.com/@kaz/collections/apps-for-product-managers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTE=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/3745a90f-7e00-42bf-ba5c-f4fd1791d6ff?auto=format",
+                        "createdAt": "2016-01-19T05:09:16Z",
+                        "description": "",
+                        "featuredAt": "2016-07-18T07:01:00Z",
+                        "followersCount": 1910,
+                        "isFollowing": false,
+                        "name": "The 1000 Club",
+                        "tagline": "Cool products with over 1000 upvotes",
+                        "url": "https://www.producthunt.com/e/the-1000-club?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTI=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/e094026c-cece-4283-9902-947ba4b248bb?auto=format",
+                        "createdAt": "2015-02-18T03:32:52Z",
+                        "description": null,
+                        "featuredAt": "2016-06-15T06:11:11Z",
+                        "followersCount": 1857,
+                        "isFollowing": false,
+                        "name": "Tools to Build Your Next Website",
+                        "tagline": "This set of tools will help you build your next website faster and cheaper",
+                        "url": "https://www.producthunt.com/@kevin/collections/tools-to-build-your-next-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTM=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/eb7a4cf0-22f0-4461-bbf3-7d20cf77cb69?auto=format",
+                        "createdAt": "2015-02-19T08:42:21Z",
+                        "description": null,
+                        "featuredAt": "2017-10-08T07:01:00Z",
+                        "followersCount": 1853,
+                        "isFollowing": false,
+                        "name": "Books for Founders",
+                        "tagline": "Building a startup is tough. These books might help, curated by industry veterans.",
+                        "url": "https://www.producthunt.com/e/books-for-founders?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTQ=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/960fc257-4b92-4840-9621-fc02d6823bad?auto=format",
+                        "createdAt": "2018-06-06T05:08:11Z",
+                        "description": "",
+                        "featuredAt": "2018-06-05T08:02:00Z",
+                        "followersCount": 1827,
+                        "isFollowing": false,
+                        "name": "Make Finance Fun Again ✨",
+                        "tagline": "The best consumer fintech apps for your money.",
+                        "url": "https://www.producthunt.com/e/make-finance-fun-again?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTU=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/7cff6c5b-2950-4cd8-8336-4a45b378f2ac?auto=format",
+                        "createdAt": "2016-04-05T18:26:06Z",
+                        "description": null,
+                        "featuredAt": "2016-11-17T06:10:10Z",
+                        "followersCount": 1662,
+                        "isFollowing": false,
+                        "name": "Sales for Startups",
+                        "tagline": "A collection of tools to help you build the right connections and sell your product",
+                        "url": "https://www.producthunt.com/e/sales-for-startups?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTY=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/3b0a9b64-a3c3-4dcd-9af5-5160ed7c19c3?auto=format",
+                        "createdAt": "2018-06-27T02:59:08Z",
+                        "description": "",
+                        "featuredAt": "2018-06-25T07:02:02Z",
+                        "followersCount": 1632,
+                        "isFollowing": false,
+                        "name": "Meditation Tools ☺️",
+                        "tagline": "Apps, products, and hardware to help you relax when you need it most.",
+                        "url": "https://www.producthunt.com/e/meditation-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTc=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/40832a13-3fb7-4a8c-a987-74b1f530d75a?auto=format",
+                        "createdAt": "2018-06-01T04:52:46Z",
+                        "description": "",
+                        "featuredAt": "2018-05-31T07:02:02Z",
+                        "followersCount": 1624,
+                        "isFollowing": false,
+                        "name": "Build Beautiful Mockups 📱🖥️",
+                        "tagline": "Show off your hard work beautifully - build mockups for your app in seconds with this collection. ✨",
+                        "url": "https://www.producthunt.com/e/build-beautiful-mockups?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTg=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/2b5a2ef1-e9b9-4967-a0e2-4d2d03595232?auto=format",
+                        "createdAt": "2015-05-26T23:45:35Z",
+                        "description": null,
+                        "featuredAt": "2016-05-16T04:00:00Z",
+                        "followersCount": 1517,
+                        "isFollowing": false,
+                        "name": "Productivity Hacks",
+                        "tagline": "Apps that increase productivity, silence distractions, and promote sanity ;)",
+                        "url": "https://www.producthunt.com/e/productivity-hacks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MTk=",
+                    "node": {
+                        "coverImage": null,
+                        "createdAt": "2015-09-28T19:47:03Z",
+                        "description": null,
+                        "featuredAt": "2016-03-08T08:01:00Z",
+                        "followersCount": 1486,
+                        "isFollowing": false,
+                        "name": "Product Design",
+                        "tagline": "Products for Designers",
+                        "url": "https://www.producthunt.com/@eyal_zuri/collections/product-design?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                },
+                {
+                    "cursor": "MjA=",
+                    "node": {
+                        "coverImage": "https://ph-files.imgix.net/345be760-9b9a-4972-932a-637006c6e361?auto=format",
+                        "createdAt": "2015-10-19T23:33:00Z",
+                        "description": null,
+                        "featuredAt": "2015-10-26T07:00:00Z",
+                        "followersCount": 1395,
+                        "isFollowing": false,
+                        "name": "These Books Will Make You Smarter",
+                        "tagline": "Become a more effective thinker & transform how you work with these reads",
+                        "url": "https://www.producthunt.com/e/these-books-will-make-you-smarter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+TestApp+%28ID%3A+27800%29"
+                    }
+                }
+            ]
+        }
+    }
+}
