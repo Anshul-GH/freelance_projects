@@ -2,10 +2,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from config import get_config
 import os
+import boto3
 
 # setup the default file lookup location to cwd
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
+##########################################################################
+# Step 1: Gather Your Data
+##########################################################################
 
 # read the secret key from config file
 secret_key = get_config('SECRET', default='dummy')
@@ -67,3 +71,109 @@ master_data.columns = stocks
 master_data.set_index('Date', inplace=True)
 
 # print(master_data.head(5))
+
+
+
+##########################################################################
+# Step 2: Create the Chart
+##########################################################################
+
+
+# Subplot-1. Boxplots
+plt.subplot(2,2,1)
+# Data looks like this:
+'''
+              JPM    BAC      C    WFC      GS
+Date                                          
+2015-05-13  65.52  16.47  54.20  55.60  201.43
+2015-05-14  66.05  16.52  54.60  56.04  202.62
+2015-05-15  65.88  16.35  54.24  55.52  202.97
+2015-05-18  66.42  16.51  54.67  55.75  204.66
+2015-05-19  67.01  16.77  55.33  56.40  205.40
+'''
+# we need to transpose the data as we want dates as rows
+plt.boxplot(master_data.transpose())
+
+# labels to the plot
+plt.title('Boxplot of Stock Prices (5Y Lookback)')
+plt.xlabel('Stock Name', fontsize=10)
+plt.ylabel('Stock Prices', fontsize=10)
+
+# add column specific labels to x-axis using ticks
+ticks = range(1, len(master_data.columns)+1) # [1, 2, 3, 4, 5] in our sample case
+plt.xticks(ticks, master_data.columns, fontsize=10)
+
+
+
+# Subplot-2. Scatterplots - WFC
+plt.subplot(2,2,2)
+# Can be used to show a density trend over a varying x
+# In our case, lets plot it for just one stock 'WFC' against 'Date' which is our index
+
+# x-axis: collect dates as a series object
+dates = master_data.index.to_series()
+# also convert it to datetime 
+dates = [pd.to_datetime(val) for val in dates]
+
+# y-axis: WFC stock prices
+wfc_stock_prices = master_data['WFC']
+
+# generate the plot
+plt.scatter(dates, wfc_stock_prices)
+
+# add title and axes to the chart
+plt.title("Wells Fargo Stock Price (5Y Lookback)", fontsize=10)
+plt.xlabel('Date', fontsize=10)
+plt.ylabel('Stock Prices', fontsize=10)
+
+
+
+# Subplot-3. Scatterplots - BAC
+plt.subplot(2,2,3)
+# Can be used to show a density trend over a varying x
+# In our case, lets plot it for just one stock 'BAC' against 'Date' which is our index
+
+# x-axis: collect dates as a series object
+dates = master_data.index.to_series()
+# also convert it to datetime 
+dates = [pd.to_datetime(val) for val in dates]
+
+# y-axis: BAC stock prices
+bac_stock_prices = master_data['BAC']
+
+# generate the plot
+plt.scatter(dates, bac_stock_prices)
+
+# add title and axes to the chart
+plt.title("Bank of America Stock Price (5Y Lookback)", fontsize=10)
+plt.xlabel('Date', fontsize=10)
+plt.ylabel('Stock Prices', fontsize=10)
+
+
+# plt.show()
+
+
+# Subplot-4. Histogram
+plt.subplot(2,2,4)
+# simplest way to print
+# also change the bin-count that changes how many slices the dataset gets divided into
+plt.hist(master_data.transpose(), bins=50)
+
+# add a legend
+plt.legend(master_data.columns, fontsize=10)
+
+# adding titles and axes
+plt.title("Wells Fargo Stock Price (5Y Lookback)", fontsize=10)
+plt.xlabel('Stock Prices', fontsize=10)
+plt.ylabel('Observations', fontsize=10)
+
+plt.tight_layout()
+plt.show()
+
+
+##########################################################################
+# Step 3: Utilizing AWS
+##########################################################################
+
+# Setup the crdential file - add the secret key to the ./aws/credentials file
+
