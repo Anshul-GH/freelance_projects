@@ -1,0 +1,1 @@
+Learning how to use Boto3 Python library to work with AWS.
