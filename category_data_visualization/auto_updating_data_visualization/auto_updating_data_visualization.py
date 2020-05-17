@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from config import get_config
 import os
 import boto3
+import uuid
 
 # setup the default file lookup location to cwd
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
@@ -176,4 +177,25 @@ plt.show()
 ##########################################################################
 
 # Setup the crdential file - add the secret key to the ./aws/credentials file
+
+# # creating a new AWS bucket
+
+# # method to create a unique bucket name using uuid
+# def create_bucket_name(bucket_prefix):
+#     # the generated bucket must be 3 to 63 characters long
+#     return ''.join([bucket_prefix, str(uuid.uuid4())])
+
+# # method to create the bucket
+# def create_new_bucket(bucket_prefix, s3_connection):
+#     session = boto3.session.Session()
+#     current_region = session.region_name
+#     bucket_name = create_bucket_name(bucket_prefix)
+#     bucket_response = s3.connection.create_bucket(
+#         Bucket=bucket_name,
+#         CreateBucketConfiguration={
+#             'LocationConstraint': current_region
+#         }
+#     )
+
+#     return bucket_name, bucket_response
 
