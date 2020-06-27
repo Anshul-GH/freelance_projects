@@ -36,34 +36,50 @@ def gen_rev_aggr(rev_data):
     # dollar per SF calculation (XLSX - IFERROR)
     rev_data['Dollar_PSF'] = [xlsx_iferror_div(x, y) for x, y in zip(rev_data['Rent/Month'], rev_data['SF'])]
 
+    aggr_data['Agg_Dollar_PSF'] = format(float(aggr_data['Total_RPM'] / aggr_data['Avg_SF']), '.2f')
+
     # export calculated revenue data
     # rev_file_name = r'target/rev_curr_inplace_rents_op.csv'
-    rev_file_name = r'rev_curr_inplace_rents_op.csv'
-    rev_data.to_csv(rev_file_name)
+    rev_fname = r'target/rev_curr_inplace_rents_op.csv'
+    rev_fpath = get_file_path(rev_fname)
+    rev_data.to_csv(rev_fpath)
 
     # export aggregated revenue data
-    # rev_file_name = r'target/rev_curr_inplace_rents_agg_op.csv'
-    # rev_file_name = r'rev_curr_inplace_rents_agg_op.csv'
-    # df = pd.DataFrame(aggr_data) 
-    # print(df)
-    # .to_csv(rev_file_name, index=[0])
-
-    # print(rev_data)
-    print(aggr_data)
-
+    rev_fname = r'target/rev_curr_inplace_rents_agg_op.csv'
+    rev_fpath = get_file_path(rev_fname)
+    df = pd.DataFrame(aggr_data.items())
+    df.to_csv(rev_fpath)
+    
 
 def xlsx_iferror_div(a, b):
     return a / b if b else 0
 
 
-def process_rev_data(rev_file_path):
-    rev_data = pd.read_csv(rev_file_path, sep='\t')
+def process_rev_data(rev_fpath):
+    rev_data = pd.read_csv(rev_fpath, sep='\t')
     gen_rev_aggr(rev_data)
 
 
-if __name__ == "__main__":
-    # tab seperated file - hence named with .tsv extension
-    rev_file_name = 'source/rev_curr_inplace_rents_inp.tsv'
-    rev_file_path = get_file_path(rev_file_name)
+def process_post_renov_rent(renov_data_fpath):
+    rev_data = pd.read_csv(renov_data_fpath)
+    print(rev_data)
+    # gen_rev_aggr(rev_data)
 
-    process_rev_data(rev_file_path)
+
+
+if __name__ == "__main__":
+
+    # Table 1 - Current In-Place Rents #
+    # tab seperated file - hence named with .tsv extension
+    rev_fname = r'source/rev_curr_inplace_rents_inp.tsv'
+    rev_fpath = get_file_path(rev_fname)
+    # read the source data and generate the calculated fields
+    process_rev_data(rev_fpath)
+
+
+    # Table 2 - Post-Renovation Rents #
+    renov_data_fname = r'rev_curr_inplace_rents_op.csv'
+    renov_data_fpath = get_file_path(renov_data_fname)
+
+    process_post_renov_rent(renov_data_fpath)
+
