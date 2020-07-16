@@ -1,0 +1,1 @@
+My attempts/solutions to the job evaluation tests that I have appeared so far.
