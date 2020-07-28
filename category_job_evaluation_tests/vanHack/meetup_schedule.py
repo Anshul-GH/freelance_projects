@@ -6,16 +6,13 @@ import random
 import re
 import sys
 
-
-
-#
 # Complete the 'countMeetings' function below.
 #
 # The function is expected to return an INTEGER.
 # The function accepts following parameters:
 #  1. INTEGER_ARRAY firstDay
 #  2. INTEGER_ARRAY lastDay
-#
+
 
 def countMeetings(firstDay, lastDay):
 # set containing all unique days possible
@@ -26,8 +23,6 @@ def countMeetings(firstDay, lastDay):
     days_list = list(range(days_min, days_max+1))
     print(days_list)
     print(days_set)
-
-
     
     # count of possible meetings
     mtng_cnt = 0

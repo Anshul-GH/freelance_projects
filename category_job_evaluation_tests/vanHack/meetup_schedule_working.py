@@ -20,7 +20,9 @@ import sys
 def countMeetings(firstDay, lastDay):
     # set containing all unique days possible
     days_set = set(firstDay + lastDay)
+    print(days_set)
     days_list = list(range(min(days_set), max(days_set)+1))
+    print(days_list)
     
     # count of possible meetings
     mtng_cnt = 0
@@ -37,6 +39,7 @@ def countMeetings(firstDay, lastDay):
             if val in days_list:
                 days_list.remove(val)
                 mtng_cnt += 1
+                break
 
         # if firstDay[i] in days_set:
         #     days_set.remove(firstDay[i])
