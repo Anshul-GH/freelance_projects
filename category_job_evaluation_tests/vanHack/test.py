@@ -160,15 +160,20 @@
 
 
 
-data = [5,3,4,6,5,4,6,8,9,5,7]
+data = [5,6,8,4,9,10,8,3,6,4]
 dictn = {}
 
 for idx, val in enumerate(data):
-    dictn[idx] = val
-
+    if val in dictn.keys():
+        # print(val)
+        dictn[val].append(idx)
+    else:
+        dictn[val] = [idx]
+print(dictn)
+dictn = sorted(dictn)
 print(dictn)
 
-test = 9
+# test = 9
 
 # idxs = []
 
@@ -181,10 +186,10 @@ test = 9
 
 # print(idxs)
 
-keys = list(dictn.keys())
-values = list(dictn.values())
+# keys = list(dictn.keys())
+# values = list(dictn.values())
 
-print(keys, values)
+# print(keys, values)
 
-flag = values[keys.index(9)] in values
-print(flag)
+# flag = values[keys.index(9)] in values
+# print(flag)

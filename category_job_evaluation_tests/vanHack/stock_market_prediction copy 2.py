@@ -17,6 +17,29 @@ import sys
 #  2. INTEGER_ARRAY queries
 #
 
+def findSmallerValues(lys, val):
+    first = 0
+    last = len(lys)-1
+    index = -1
+    while (first <= last) and (index == -1):
+        # the value chosen is the largest value 
+        if lys[last] == val:
+            return -1
+        # the value chosen is the smallest value
+        elif lys[first] == val:
+            return 0
+        mid = (first+last)//2
+        if lys[mid]
+        if lys[mid] > val:
+            index = mid
+        else:
+            if val<lys[mid]:
+                last = mid -1
+            else:
+                first = mid +1
+    return index
+
+
 def predictAnswer(stockData, queries):
     # convert days to index
     query_idx = [val-1 for val in queries]
@@ -27,7 +50,16 @@ def predictAnswer(stockData, queries):
     stockDict = {}
 
     for idx, val in enumerate(stockData):
-        stockData[idx] = val
+        if val in stockDict.keys():
+            stockDict[val].append(idx)
+        else:
+            stockDict[val] = [idx]
+    
+    stockDict_sortedKeys = sorted(stockDict)
+
+    for day in query_idx:
+        day_price = stockData[day]
+
 
     # for day in query_idx:
     #     min_price = stockData[day]
