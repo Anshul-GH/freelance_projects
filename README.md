@@ -1,2 +1,2 @@
 # freelance_projects
-This repository contains the various projects that I have worked on as independent projects picked up from upwork or other independent implementations.
+This repository contains the various freelance projects that I have worked on - picked up from upwork or other facets.
