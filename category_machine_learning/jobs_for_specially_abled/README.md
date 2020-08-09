@@ -1,0 +1,2 @@
+This is one of the freelance initiatives that I have taken up as a side initiative in Accenture.
+This deals with creating a job portal for the specially abled people with a neural or mind related conditions.
