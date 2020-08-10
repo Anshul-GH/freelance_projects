@@ -1,31 +1,37 @@
 import timeit
 
-setup_code = "from math import factorial"
+# setup_code = "from math import factorial"
+setup_code = "import random"
 
 statement = """
-firstDay = [i for i in range(100000)]
-lastDay = [i+1 for i in range(100000)]
+# convert days to index
+# query_idx = [random.randint(1,1000000000) for i in range(100000)]
+# stockData = [random.randint(1,1000000000) for i in range(100000)]
 
-# set containing all unique days possible
-days_set = set(firstDay + lastDay)
-days_full_set = set(list(range(max(days_set), min(days_set)-1, -1)))
+query_idx = [i for i in range(100000000)] #range(99999999, 0, -1)
+stockData = [i for i in range(100000000)]
 
-# count of possible meetings
-mtng_cnt = 0
+# output_day_set
+out_day = []
+
+for day in query_idx:
+    min_price = stockData[day]
+    day_found = False
     
-# assuming all the investors have a defines firstDay and lastDay
-# that is, len(firstDay) = len(lastDay)
-for i in range(len(firstDay)):
-    
-    # if the set is empty, break out of the loop
-    if not bool(days_full_set):
-        break
-    
-    for val in range(firstDay[i], lastDay[i] + 1):
-        if val in days_full_set:
-            days_full_set.remove(val)
-            mtng_cnt += 1
+    for i in range(1, max(day,len(stockData)-day)):
+        prev = day-i
+        nxt = day+i
+        if prev >= 0 and stockData[prev] < min_price:
+            out_day.append(prev+1)                        
+            day_found = True
             break
+        if nxt < len(stockData) and stockData[nxt] < min_price:
+            out_day.append(nxt+1)                        
+            day_found = True
+            break
+    
+    if not day_found:
+        out_day.append(-1)
 """
 
 print(f"Execution time is: {timeit.timeit(setup = setup_code, stmt = statement, number = 1)}")
