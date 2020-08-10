@@ -1,0 +1,2029 @@
+JOB_MATCH,S_NAME,S_AGE,S_GENDER,S_EDUCATION,S_UNDERSTANDING_COMM,S_GETTING_ALONG_PEOPLE,S_LIFE_ACT_HOUSE,S_LIFE_ACT_WORK,S_PARTICIPATE_SOCIETY,S_PREV_EMP,S_TOTAL_EXPERIENCE,JOB_DESCRIPTION,J_LANGUAGE,J_COMMUNICATION,J_PROB_SOLVE,J_ATTEN_VIGIL,J_ADAPT_INTERACT
+N,Padama Harbhajan Mogul,47,Female,Primary School,4,1,1,3,3,2,6,Marketing ,Y,Y,N,N,N
+N,Anusha Toor,40,Female,Primary School,4,3,1,3,3,2,7,Marketing ,Y,Y,N,N,N
+N,Vineeta Sushant Butala,27,Female,Primary School,4,3,1,3,3,1,2,Marketing ,Y,Y,N,N,N
+N,Hema Radhakrishnan,26,Female,Primary School,4,3,1,3,3,1,2,Marketing ,Y,Y,N,N,N
+N,Nupoor Deep Biyani,48,Female,Primary School,3,3,1,3,2,1,6,Marketing ,Y,Y,N,N,N
+N,Radha David Ratta,38,Female,Primary School,3,3,1,3,2,1,7,Marketing ,Y,Y,N,N,N
+N,Aarushi Kailash Sane,34,Male,Primary School,3,3,3,3,2,1,5,Marketing ,Y,Y,N,N,N
+N,Julie Luthra,38,Female,Primary School,3,3,2,3,2,1,6,Marketing ,Y,Y,N,N,N
+N,Fatima Aarif Nadig,26,Female,Primary School,5,3,2,3,2,1,2,Marketing ,Y,Y,N,N,N
+N,Nishi Wagle,34,Male,Primary School,5,3,2,5,2,3,5,Marketing ,Y,Y,N,N,N
+N,Pamela Dash,38,Female,High School,2,3,1,2,2,3,5,Marketing ,Y,Y,N,N,N
+Y,Anshula Srinivas,30,Female,High School,2,3,1,3,2,2,5,Marketing ,Y,Y,N,N,N
+N,Tejaswani Wafiq Kaur,48,Female,High School,2,3,1,3,2,2,6,Marketing ,Y,Y,N,N,N
+N,Aditi Thaman,38,Female,High School,2,3,1,3,2,1,8,Marketing ,Y,Y,N,N,N
+N,Binita Malhotra,48,Female,High School,2,3,1,3,2,1,6,Marketing ,Y,Y,N,N,N
+N,Lata Pradeep Bajwa,38,Female,High School,2,3,3,3,2,1,8,Marketing ,Y,Y,N,N,N
+N,Tejaswani Raj,38,Female,High School,2,3,3,3,1,1,8,Marketing ,Y,Y,N,N,N
+N,Rosey Ramesh,29,Female,Primary School,5,3,2,3,3,1,4,Marketing ,Y,Y,N,N,N
+N,Lalita Dora,31,Female,Primary School,5,3,2,3,3,2,10,Marketing ,Y,Y,N,N,N
+N,Monica Pranab Sahota,31,Female,Primary School,5,3,2,3,3,0,11,Marketing ,Y,Y,N,N,N
+N,Manjari Tabeed Kar,29,Male,Primary School,5,2,2,3,3,0,4,Marketing ,Y,Y,N,N,N
+N,Leela Mathew,29,Female,Primary School,5,2,2,3,3,0,4,Marketing ,Y,Y,N,N,N
+N,Amrita Shere,29,Female,Primary School,3,2,2,3,5,0,4,Marketing ,Y,Y,N,N,N
+N,Hira Guha,31,Female,Primary School,3,2,2,5,5,4,7,Marketing ,Y,Y,N,N,N
+N,Zeenat Batta,29,Female,Primary School,3,2,4,3,5,1,4,Marketing ,Y,Y,N,N,N
+N,Nagma Owais Persad,32,Female,Primary School,3,2,4,5,3,6,7,Marketing ,Y,Y,N,N,N
+N,Nagma Vivek Dhawan,32,Female,Primary School,3,2,4,3,5,0,7,Marketing ,Y,Y,N,N,N
+N,Meghana Baldev Sinha,29,Female,Primary School,2,2,4,3,4,0,4,Marketing ,Y,Y,N,N,N
+N,Nupoor Ramroop,47,Male,Primary School,2,2,1,4,4,0,6,Marketing ,Y,Y,N,N,N
+N,Trishana Mustafa Deshpande,61,Female,Primary School,2,2,1,4,2,5,6,Marketing ,Y,Y,N,N,N
+N,Gunjan Mishra,34,Female,Primary School,2,2,1,4,2,6,3,Marketing ,Y,Y,N,N,N
+N,Urmi Mahabir,61,Female,Primary School,2,2,1,3,3,1,12,Marketing ,Y,Y,N,N,N
+Y,Sona Babu,34,Female,High School,2,3,3,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,Mayawati Kuruvilla,34,Male,High School,2,2,3,2,1,3,3,Marketing ,Y,Y,N,N,N
+N,Geetanjali Aadish Saran,45,Female,High School,2,2,2,2,1,1,12,Marketing ,Y,Y,N,N,N
+N,Seema Raghavan Varkey,61,Female,High School,2,2,2,2,1,1,12,Marketing ,Y,Y,N,N,N
+N,Bhaagyasree Gaurav Divan,61,Male,High School,2,2,2,2,1,1,12,Marketing ,Y,Y,N,N,N
+Y,Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,Marketing ,Y,Y,N,N,N
+N,Aruna Dar,61,Female,Undergraduation,1,1,1,2,2,1,12,Marketing ,Y,Y,N,N,N
+N,Neha Sridhar,63,Male,Undergraduation,1,1,1,2,2,1,12,Marketing ,Y,Y,N,N,N
+N,Ruchi Elias Gokhale,45,Male,Undergraduation,1,1,1,2,2,1,11,Marketing ,Y,Y,N,N,N
+N,Shweta Kothari,45,Female,Undergraduation,1,1,1,2,2,2,11,Marketing ,Y,Y,N,N,N
+N,Namita Ratti,39,Female,Undergraduation,1,1,1,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,Marketing ,Y,Y,N,N,N
+N,Nalini Eddie Bhattacharyya,63,Female,Undergraduation,1,1,1,1,2,2,11,Marketing ,Y,Y,N,N,N
+N,Neela Aadil Chana,39,Female,Undergraduation,2,1,1,1,2,2,3,Marketing ,Y,Y,N,N,N
+N,Nikita Chand,45,Female,High School,2,2,2,2,2,3,12,Marketing ,Y,Y,N,N,N
+N,Neha Bawa,41,Female,High School,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,Anshula Nigam,29,Female,High School,2,2,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+N,Mini Gopal,41,Female,High School,2,2,2,3,2,0,2,Marketing ,Y,Y,N,N,N
+N,Priyanka Munaf Bir,63,Female,High School,2,2,2,3,2,0,12,Marketing ,Y,Y,N,N,N
+N,Chhaya Zahir Raghavan,29,Female,Primary School,1,2,1,4,3,0,2,Marketing ,Y,Y,N,N,N
+N,Shanti Mann,41,Female,Primary School,1,2,2,4,3,0,1,Marketing ,Y,Y,N,N,N
+N,Rakhi Akhil Agate,45,Female,Primary School,1,2,1,4,3,0,12,Marketing ,Y,Y,N,N,N
+N,Anshu Ratti,29,Female,Primary School,1,2,1,2,3,1,1,Marketing ,Y,Y,N,N,N
+N,Aarti Ehsaan Pandit,63,Male,Primary School,1,2,3,2,2,1,12,Marketing ,Y,Y,N,N,N
+N,Kamini Mander,41,Female,Primary School,1,2,3,2,2,1,1,Marketing ,Y,Y,N,N,N
+N,Babita Sankaran,42,Female,Primary School,1,1,1,2,2,1,5,Marketing ,Y,Y,N,N,N
+N,Ananya Gupta,42,Female,Primary School,1,1,1,2,2,1,5,Marketing ,Y,Y,N,N,N
+N,Anusha Dani,37,Male,Primary School,3,1,1,2,2,2,5,Marketing ,Y,Y,N,N,N
+N,Sona Chaudhry,29,Male,Primary School,3,1,1,2,2,2,2,Marketing ,Y,Y,N,N,N
+N,Indira Rampersaud,31,Female,Primary School,3,3,2,2,2,2,6,Marketing ,Y,Y,N,N,N
+Y,Jasmin Jacob,20,Female,High School,2,2,2,3,2,1,1,Marketing ,Y,Y,N,N,N
+N,Amolika Devendra Memon,45,Female,High School,2,2,3,3,2,1,12,Marketing ,Y,Y,N,N,N
+Y,Nutan Bail,31,Female,High School,2,2,3,3,2,13,6,Marketing ,Y,Y,N,N,N
+Y,Richa Wagle,31,Female,High School,2,3,3,2,2,3,6,Marketing ,Y,Y,N,N,N
+Y,Rita Ravel,21,Female,High School,2,3,4,2,2,3,2,Marketing ,Y,Y,N,N,N
+N,Mona Rege,63,Female,High School,2,3,2,2,2,3,12,Marketing ,Y,Y,N,N,N
+N,Radhika Taneja,37,Female,Primary School,3,3,2,4,2,3,6,Marketing ,Y,Y,N,N,N
+N,Babita Munshi,31,Female,Primary School,3,3,2,3,2,3,7,Marketing ,Y,Y,N,N,N
+N,Alka Ekbal Boase,31,Female,Primary School,4,3,1,3,2,3,7,Marketing ,Y,Y,N,N,N
+N,Upasana Ramanathan,20,Female,Primary School,4,3,2,2,3,1,1,Marketing ,Y,Y,N,N,N
+N,Esha Kunda,21,Female,Primary School,4,3,2,2,3,1,2,Marketing ,Y,Y,N,N,N
+N,Esha Mehra,21,Female,Primary School,4,3,2,2,3,1,2,Marketing ,Y,Y,N,N,N
+N,Lata Wafiq Maraj,20,Female,Primary School,4,3,1,4,3,0,1,Marketing ,Y,Y,N,N,N
+N,Samita Vijay,37,Female,Primary School,5,3,2,4,3,0,11,Marketing ,Y,Y,N,N,N
+N,Vijaya Vani,40,Female,Primary School,5,3,1,4,3,0,12,Marketing ,Y,Y,N,N,N
+Y,Vani jeyakumar,24,Female,Undergraduation,2,1,1,1,2,0,2,Marketing ,Y,Y,N,N,N
+Y,Vairali K,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+N,Vaishnavi Janani,40,Female,Undergraduation,2,1,1,1,1,2,9,Marketing ,Y,Y,N,N,N
+N,Sujatha Ramani,63,Female,Undergraduation,2,1,1,1,1,2,12,Marketing ,Y,Y,N,N,N
+Y,Sujathi rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,Jitendram,24,Male,Undergraduation,1,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+N,Surya Kumari,37,Female,Post Graduation,1,1,2,1,2,4,9,Marketing ,Y,Y,N,N,N
+N,Soojitha K,63,Female,Post Graduation,1,1,2,1,3,2,12,Marketing ,Y,Y,N,N,N
+Y,Vandhana Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,Varna Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,Balambika,24,Female,Post Graduation,2,1,2,1,1,4,2,Marketing ,Y,Y,N,N,N
+Y,Bagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,Baghya Lakshmi,24,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+N,Triloka varshini,37,Female,Undergraduation,1,2,1,1,2,4,8,Marketing ,Y,Y,N,N,N
+N,Varasidhi K,37,Female,Primary School,5,3,1,3,2,4,7,Marketing ,Y,Y,N,N,N
+N,Megamani,63,Female,Primary School,3,3,2,4,2,1,12,Marketing ,Y,Y,N,N,N
+N,Chandra Kala,40,Female,Primary School,3,3,2,4,2,1,6,Marketing ,Y,Y,N,N,N
+N,Soorya Kala,37,Female,Primary School,3,3,2,4,2,1,6,Marketing ,Y,Y,N,N,N
+N,Narendhiran,28,Male,Primary School,3,3,2,4,3,1,3,Marketing ,Y,Y,N,N,N
+N,Manushree R,32,Female,Primary School,3,3,2,4,3,1,6,Marketing ,Y,Y,N,N,N
+N,Kalai Nayagam,28,Male,Primary School,3,3,2,3,3,1,3,Marketing ,Y,Y,N,N,N
+N,Regna Ramya,32,Female,Primary School,3,2,2,3,3,1,3,Marketing ,Y,Y,N,N,N
+Y,Raji Raman,24,Female,High School,2,3,2,2,2,1,3,Marketing ,Y,Y,N,N,N
+Y,Lakshmi Vasantham,28,Female,High School,2,3,2,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,Vasanthi Vijay,32,Female,High School,2,3,2,2,1,3,3,Marketing ,Y,Y,N,N,N
+Y,Pradeepan ,19,Male,High School,2,3,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+Y,Menaka Ravi,24,Female,High School,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,Suleka Raju,24,Female,High School,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,Chitra Babu,24,Female,High School,2,3,2,2,1,2,2,Marketing ,Y,Y,N,N,N
+N,Jeyanthi Natarajan,22,Female,High School,3,3,1,2,1,2,2,Marketing ,Y,Y,N,N,N
+N,Dayanidhi Kumar,32,Female,High School,3,3,1,2,1,4,3,Marketing ,Y,Y,N,N,N
+N,Vageswari Kannan,28,Female,High School,3,3,1,1,1,2,3,Marketing ,Y,Y,N,N,N
+N,Lakshmi Raman,22,Female,High School,3,3,1,1,2,2,4,Marketing ,Y,Y,N,N,N
+N,Kashi Kumari,22,Female,High School,3,2,1,1,2,2,4,Marketing ,Y,Y,N,N,N
+Y,Manoshi Gupta,28,Female,High School,2,2,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+Y,Ravi Kurram,18,Male,High School,2,2,1,1,2,2,4,Marketing ,Y,Y,N,N,N
+Y,Mala Pillai,19,Female,High School,1,2,1,1,2,2,2,Marketing ,Y,Y,N,N,N
+Y,Rose Ramani,20,Female,High School,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,Velvizhi Iyer,20,Female,High School,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,Virat Pratap Nadkarni,30,Male,High School,2,2,3,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,Manpreet Date,31,Male,High School,2,2,3,2,2,1,5,Marketing ,Y,Y,N,N,N
+Y,Amir Meda,32,Male,High School,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,Pradeep Kumar Sarna,33,Male,High School,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,Atul Pratap Brahmbhatt,34,Male,High School,2,2,2,2,2,1,7,Marketing ,Y,Y,N,N,N
+Y,Baalkrishan Kumar Mann,28,Male,High School,2,2,2,2,3,1,3,Marketing ,Y,Y,N,N,N
+Y,Suresh Sid Pradhan,33,Male,Undergraduation,1,2,2,1,2,1,5,Marketing ,Y,Y,N,N,N
+Y,Lalit Jamshed Meka,33,Male,Undergraduation,1,2,2,1,2,3,10,Marketing ,Y,Y,N,N,N
+Y,Satish Singh Kata,33,Male,Undergraduation,1,2,2,1,2,1,6,Marketing ,Y,Y,N,N,N
+N,Abhinav Bhai Gagrani,35,Male,Undergraduation,2,2,2,1,2,2,9,Marketing ,Y,Y,N,N,N
+Y,Vijay Pravin Sarma,28,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,Umesh Naik,28,Male,High School,2,2,2,2,3,3,4,Marketing ,Y,Y,N,N,N
+N,Elias Nadig,35,Male,High School,2,2,2,2,3,3,8,Marketing ,Y,Y,N,N,N
+N,Kamlesh Chitranjan Mohan,35,Male,High School,3,2,2,2,3,2,8,Marketing ,Y,Y,N,N,N
+N,Karim Upadhyay,35,Male,High School,3,2,2,3,2,2,7,Marketing ,Y,Y,N,N,N
+N,Biren Biyani,28,Male,High School,3,2,2,3,2,2,4,Marketing ,Y,Y,N,N,N
+N,Balaji Karnik,41,Male,High School,3,2,2,3,2,2,7,Marketing ,Y,Y,N,N,N
+N,Ghanshyam Natarajan,41,Male,Primary School,4,3,2,3,3,1,4,Marketing ,Y,Y,N,N,N
+N,Rajendra Mohanty,41,Male,Primary School,3,4,3,4,3,1,4,Marketing ,Y,Y,N,N,N
+N,Devendra Venkat Kohli,41,Male,Primary School,4,2,3,4,2,1,8,Marketing ,Y,Y,N,N,N
+N,Jaswant Bhai Chohan,41,Male,High School,3,2,2,3,2,1,8,Marketing ,Y,Y,N,N,N
+N,Iqbal Bhai Badal,28,Male,High School,2,4,1,3,2,1,2,Marketing ,Y,Y,N,N,N
+N,Kalyan Mand,40,Male,High School,2,3,1,3,2,1,8,Marketing ,Y,Y,N,N,N
+N,Naseer Pratap Deo,40,Male,High School,2,3,1,3,2,1,8,Marketing ,Y,Y,N,N,N
+N,Akhil Khalsa,40,Male,High School,2,3,1,3,2,3,6,Marketing ,Y,Y,N,N,N
+Y,Vijay Swaminathan,28,Male,Undergraduation,2,2,2,2,2,3,3,Marketing ,Y,Y,N,N,N
+N,Raghavan Bhai Nadkarni,40,Male,Undergraduation,2,2,1,2,2,2,6,Marketing ,Y,Y,N,N,N
+N,Atul Prasad Nagarajan,40,Male,Undergraduation,2,2,1,2,2,2,6,Marketing ,Y,Y,N,N,N
+N,Atul Majumdar,40,Male,Undergraduation,1,3,1,2,2,1,6,Marketing ,Y,Y,N,N,N
+N,Bahadur Pratap Dixit,40,Male,Undergraduation,1,3,1,2,2,1,6,Marketing ,Y,Y,N,N,N
+N,Jawahar Pranay Sagar,38,Male,Undergraduation,2,3,1,2,2,1,11,Marketing ,Y,Y,N,N,N
+N,Rahim Dev Sangha,38,Male,Undergraduation,2,3,1,1,2,1,8,Marketing ,Y,Y,N,N,N
+Y,Satish Lal Srinivasan,28,Male,Undergraduation,2,1,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+N,Baldev Tank,38,Male,Undergraduation,1,1,2,1,2,11,8,Marketing ,Y,Y,N,N,N
+Y,Habib Ramesh,28,Male,Undergraduation,1,1,2,1,2,0,1,Marketing ,Y,Y,N,N,N
+N,Raghavan Dev Seshadri,38,Male,Undergraduation,1,1,2,1,1,0,9,Marketing ,Y,Y,N,N,N
+Y,Naseer Ram,28,Male,Undergraduation,1,1,2,1,1,0,1,Marketing ,Y,Y,N,N,N
+Y,Manpreet Morar,28,Male,Undergraduation,2,1,2,1,1,0,4,Marketing ,Y,Y,N,N,N
+N,Chinmay Kumar Vasa,38,Male,Undergraduation,2,1,2,1,1,4,3,Marketing ,Y,Y,N,N,N
+N,Satishwar Elias Apte,38,Male,Undergraduation,2,1,2,1,1,1,3,Marketing ,Y,Y,N,N,N
+Y,Gauransh Prasad Deshpande,28,Male,Post Graduation,1,2,1,2,2,6,4,Marketing ,Y,Y,N,N,N
+N,Faisal Somani,38,Male,High School,2,3,1,3,2,0,6,Marketing ,Y,Y,N,N,N
+N,Arun Hari,38,Male,High School,2,3,2,3,2,0,2,Marketing ,Y,Y,N,N,N
+N,Mohan Lal Prasad,38,Male,High School,3,3,2,2,2,0,7,Marketing ,Y,Y,N,N,N
+N,Ehsaan Raj Sha,40,Male,High School,3,3,2,2,2,5,7,Marketing ,Y,Y,N,N,N
+N,Moti Raj Hegde,40,Male,High School,3,3,2,2,1,6,9,Marketing ,Y,Y,N,N,N
+N,Devendra Nagy,40,Male,High School,3,3,2,2,1,1,9,Marketing ,Y,Y,N,N,N
+N,"Aniruddh Nawab, Ganesan",40,Male,High School,3,3,2,2,1,1,4,Marketing ,Y,Y,N,N,N
+N,Qabool Iyengar,28,Male,High School,3,3,2,2,1,3,3,Marketing ,Y,Y,N,N,N
+N,Rupesh Wagle,21,Male,High School,3,3,2,2,1,1,3,Marketing ,Y,Y,N,N,N
+N,Kalpit Bhai Lata,40,Male,High School,3,3,2,2,1,1,4,Marketing ,Y,Y,N,N,N
+N,Radhe Raj Bera,40,Male,High School,3,3,2,2,1,1,4,Marketing ,Y,Y,N,N,N
+N,Jamshed Hrishikesh Kamdar,40,Male,High School,3,3,2,1,1,1,4,Marketing ,Y,Y,N,N,N
+N,Mustafa Singh De,21,Male,High School,3,3,2,1,1,1,3,Marketing ,Y,Y,N,N,N
+N,Ishat Dev Sharaf,40,Male,High School,3,3,2,1,1,1,7,Marketing ,Y,Y,N,N,N
+N,Baber Palla,40,Male,Undergraduation,1,2,1,3,1,1,7,Marketing ,Y,Y,N,N,N
+Y,Jagat Swamy,26,Male,Undergraduation,1,2,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+N,Manish Lanka,44,Male,Undergraduation,1,2,1,3,1,2,7,Marketing ,Y,Y,N,N,N
+Y,Lalit Chander,28,Male,Undergraduation,1,2,1,2,1,2,12,Marketing ,Y,Y,N,N,N
+N,Obaid Krish,61,Male,Primary School,3,2,2,3,4,2,14,Marketing ,Y,Y,N,N,N
+N,Mowgli Venkataraman,62,Male,Primary School,3,3,2,4,2,2,19,Marketing ,Y,Y,N,N,N
+N,Karim Mitesh Doctor,61,Male,Primary School,4,3,2,4,2,3,16,Marketing ,Y,Y,N,N,N
+Y,Naval Jacob,28,Male,Undergraduation,1,2,2,2,1,3,8,Marketing ,Y,Y,N,N,N
+Y,Binoya Rao Soni,28,Male,Undergraduation,1,3,3,2,1,3,7,Marketing ,Y,Y,N,N,N
+Y,Aatif Oak,23,Male,Undergraduation,1,3,3,1,1,0,15,Marketing ,Y,Y,N,N,N
+N,Ehsaan Gala,53,Male,Undergraduation,2,3,3,1,1,0,5,Marketing ,Y,Y,N,N,N
+N,David Bhai Patel,53,Male,High School,3,2,2,1,1,0,19,Marketing ,Y,Y,N,N,N
+N,Chitranjan Apte,61,Male,High School,3,2,2,1,1,0,13,Marketing ,Y,Y,N,N,N
+N,Ghalib Chad,53,Male,High School,3,2,2,1,1,0,6,Marketing ,Y,Y,N,N,N
+N,Nayan Bhai Palan,61,Male,High School,3,2,3,1,1,0,17,Marketing ,Y,Y,N,N,N
+N,Raju Raval,61,Male,Primary School,4,3,2,4,4,0,13,Marketing ,Y,Y,N,N,N
+N,Biren Kohli,32,Male,Primary School,4,3,2,4,4,0,7,Marketing ,Y,Y,N,N,N
+N,Rajendra Malpani,53,Male,High School,3,2,3,1,2,0,7,Marketing ,Y,Y,N,N,N
+N,Albert Aniruddh Gokhale,61,Male,High School,3,2,3,1,2,1,30,Marketing ,Y,Y,N,N,N
+N,Ricky Pratap Master,61,Male,High School,3,2,3,1,2,1,20,Marketing ,Y,Y,N,N,N
+N,Nirmal Yogesh Chowdhury,64,Male,High School,3,2,3,1,2,1,25,Marketing ,Y,Y,N,N,N
+N,Arjun Ram Naik,53,Male,High School,3,2,2,1,2,3,8,Marketing ,Y,Y,N,N,N
+N,Eddie Ram Masih,32,Male,Primary School,4,3,2,4,1,1,7,Marketing ,Y,Y,N,N,N
+N,Shashank Lal Edwin,64,Male,Primary School,4,3,2,4,1,2,30,Marketing ,Y,Y,N,N,N
+N,Sai Pratap Borra,57,Male,Primary School,3,2,2,3,2,3,9,Marketing ,Y,Y,N,N,N
+N,Anees Rastogi,64,Male,Primary School,3,2,2,3,2,3,23,Marketing ,Y,Y,N,N,N
+N,Brock Jhaveri,32,Male,Primary School,3,2,2,3,2,3,6,Marketing ,Y,Y,N,N,N
+N,Chinmay Darpan Ramkissoon,57,Male,Primary School,3,2,2,4,1,2,9,Marketing ,Y,Y,N,N,N
+N,Dinesh Rupal Acharya,64,Male,Primary School,3,2,2,4,1,2,22,Marketing ,Y,Y,N,N,N
+N,Ehsaan Qadim Kari,64,Male,Primary School,3,2,2,5,1,2,21,Marketing ,Y,Y,N,N,N
+N,Parveen Chandra Dugar,57,Male,Primary School,3,2,2,5,1,2,20,Marketing ,Y,Y,N,N,N
+N,Rahim Kar,57,Male,Primary School,3,2,4,5,3,1,21,Marketing ,Y,Y,N,N,N
+N,Brock Viswanathan,44,Male,Primary School,2,2,4,5,3,1,7,Marketing ,Y,Y,N,N,N
+N,Chitranjan Rao Bera,64,Male,Primary School,2,1,4,5,3,1,20,Marketing ,Y,Y,N,N,N
+N,Rashid Din,44,Male,Primary School,2,1,4,4,3,1,8,Marketing ,Y,Y,N,N,N
+N,Baalkrishan Sarraf,64,Male,Primary School,4,1,4,4,3,1,19,Marketing ,Y,Y,N,N,N
+N,Ratan Kalla,44,Male,Primary School,4,1,4,3,3,1,9,Marketing ,Y,Y,N,N,N
+N,Omar Prasad Sant,64,Male,Primary School,3,1,4,3,3,1,18,Marketing ,Y,Y,N,N,N
+N,Ajay Saurabh Bhattacharyya,70,Male,Primary School,3,1,4,3,2,3,17,Marketing ,Y,Y,N,N,N
+N,Mitesh Bijoy Pradhan,26,Male,Primary School,3,1,3,3,2,3,3,Marketing ,Y,Y,N,N,N
+N,Rupesh Ram Parekh,57,Male,Primary School,3,1,3,3,3,2,9,Marketing ,Y,Y,N,N,N
+N,Ishat Gajendra Varma,48,Male,Primary School,3,1,3,3,3,2,29,Marketing ,Y,Y,N,N,N
+N,Aslam Raj Sandhu,57,Male,Primary School,3,1,3,3,3,1,11,Marketing ,Y,Y,N,N,N
+N,Ganesh Harbhajan Masih,57,Male,Primary School,3,1,3,3,3,1,13,Marketing ,Y,Y,N,N,N
+N,Manish Lal Amble,51,Male,Primary School,3,1,3,3,3,1,8,Marketing ,Y,Y,N,N,N
+N,Mani Ramam,51,Male,Primary School,3,1,3,3,3,1,7,Marketing ,Y,Y,N,N,N
+N,Niyati Jagdish Prakash,28,Female,High School,3,2,2,1,3,1,7,Marketing ,Y,Y,N,N,N
+N,Prabha Yash Ramnarine,49,Male,High School,2,2,2,1,3,11,29,Marketing ,Y,Y,N,N,N
+Y,Padmini Pravin Mall,28,Female,High School,2,2,1,1,3,0,3,Marketing ,Y,Y,N,N,N
+N,Sushmita Murty,50,Male,High School,2,2,2,1,3,0,23,Marketing ,Y,Y,N,N,N
+N,Sushmita Kashyap,62,Female,High School,2,2,1,1,3,0,22,Marketing ,Y,Y,N,N,N
+Y,Leelawati Dada,28,Male,High School,2,2,2,1,1,0,11,Marketing ,Y,Y,N,N,N
+Y,Amolika Ratan Talwar,28,Female,High School,2,2,1,1,1,4,10,Marketing ,Y,Y,N,N,N
+N,Zara Amir Luthra,62,Female,High School,2,2,1,1,1,1,34,Marketing ,Y,Y,N,N,N
+Y,Esha Tripathi,26,Male,High School,2,2,2,1,1,6,1,Marketing ,Y,Y,N,N,N
+N,Aisha Kothari,44,Male,High School,2,2,2,2,1,0,6,Marketing ,Y,Y,N,N,N
+N,Naina Jack Rattan,50,Male,High School,2,2,2,2,1,0,8,Marketing ,Y,Y,N,N,N
+N,Prabha Wason,60,Male,High School,2,2,2,2,1,0,7,Marketing ,Y,Y,N,N,N
+N,Shanti Rajagopal,62,Female,High School,2,2,1,2,1,5,34,Marketing ,Y,Y,N,N,N
+N,Rita Ratta,59,Female,High School,1,2,1,2,1,6,6,Marketing ,Y,Y,N,N,N
+Y,Sona Mitter,23,Female,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Heena Puri,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Nikita Seshadri,25,Female,High School,1,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,Padama Darpan Pal,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+N,Ambika Siddharth Mistry,50,Female,High School,1,2,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,Vineeta Varma,25,Female,High School,1,1,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+N,Anusha Naseer Deo,54,Female,High School,1,1,1,2,1,1,10,Marketing ,Y,Y,N,N,N
+Y,Nandini Savant,25,Male,High School,1,1,1,3,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Upasana Sarna,25,Male,High School,1,1,2,3,1,1,4,Marketing ,Y,Y,N,N,N
+N,Aabha Gole,59,Female,High School,1,1,1,3,1,1,9,Marketing ,Y,Y,N,N,N
+Y,Nalini Jobin Dar,25,Female,High School,1,1,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+N,Akhila Kunda,52,Female,High School,1,1,1,3,1,2,9,Marketing ,Y,Y,N,N,N
+N,Sameedha Purohit,50,Male,High School,1,1,1,3,1,2,9,Marketing ,Y,Y,N,N,N
+N,Aarti Faraz Kota,55,Male,Primary School,3,1,3,3,3,2,8,Marketing ,Y,Y,N,N,N
+N,Komal Desai,23,Male,Primary School,3,1,3,3,3,2,3,Marketing ,Y,Y,N,N,N
+N,Yasmin Ramachandran,53,Female,Primary School,3,1,3,4,2,3,8,Marketing ,Y,Y,N,N,N
+N,Kiran Vaidya,23,Female,Primary School,3,1,3,3,2,3,3,Marketing ,Y,Y,N,N,N
+N,Upasana Sem,50,Female,Primary School,3,3,2,3,2,3,8,Marketing ,Y,Y,N,N,N
+N,Nidhi Meka,23,Male,Primary School,3,3,2,4,4,0,3,Marketing ,Y,Y,N,N,N
+N,Devika Jani,54,Female,High School,2,1,1,3,1,0,8,Marketing ,Y,Y,N,N,N
+Y,Bagwati Narayan,23,Male,High School,2,2,2,2,1,0,3,Marketing ,Y,Y,N,N,N
+Y,Nancy Konda,23,Male,Undergraduation,2,3,3,1,1,0,3,Marketing ,Y,Y,N,N,N
+N,Roma Dhiraj Amble,44,Male,Undergraduation,2,3,3,1,1,0,6,Marketing ,Y,Y,N,N,N
+N,Rachel Abbas Mangal,53,Female,Undergraduation,2,3,3,1,1,0,8,Marketing ,Y,Y,N,N,N
+N,Sushmita Walia,55,Female,Undergraduation,1,3,3,1,1,0,8,Marketing ,Y,Y,N,N,N
+N,Mukti Harjo,50,Female,Primary School,3,3,2,4,4,0,8,Marketing ,Y,Y,N,N,N
+N,Rita Shere,52,Female,Primary School,3,3,2,4,4,0,8,Marketing ,Y,Y,N,N,N
+N,Julie Varma,52,Female,Primary School,3,3,2,2,3,1,9,Marketing ,Y,Y,N,N,N
+N,Yamini Chaudhari,55,Male,Primary School,3,3,2,3,3,1,9,Marketing ,Y,Y,N,N,N
+N,Pooja Qabeel Mander,50,Female,High School,2,2,1,2,1,1,9,Marketing ,Y,Y,N,N,N
+N,Alpa Munaf Ganguly,52,Female,High School,2,2,1,2,1,3,9,Marketing ,Y,Y,N,N,N
+N,Astha Ganesan,52,Female,High School,2,2,1,2,1,1,9,Marketing ,Y,Y,N,N,N
+N,Julie Koshy,55,Female,High School,2,2,1,2,1,2,9,Marketing ,Y,Y,N,N,N
+N,Amrita Anand Manda,50,Female,High School,2,2,1,2,1,3,9,Marketing ,Y,Y,N,N,N
+Y,Jyoti Sarna,28,Female,High School,2,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,Bhaagyasree Shere,21,Male,High School,2,2,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+N,Kamini Doshi,28,Female,Primary School,3,3,1,3,3,2,4,Marketing ,Y,Y,N,N,N
+N,Chandni Balaji Seshadri,28,Male,Primary School,3,3,1,3,3,2,4,Marketing ,Y,Y,N,N,N
+N,Ambika Khalsa,28,Female,Primary School,2,3,1,3,3,2,4,Marketing ,Y,Y,N,N,N
+N,Kajol Chandran,46,Female,Primary School,2,3,1,3,3,2,9,Marketing ,Y,Y,N,N,N
+N,Kalpana Pradeep Narain,46,Male,Primary School,2,3,1,4,2,1,7,Marketing ,Y,Y,N,N,N
+N,Vimala Pandey,46,Male,Primary School,2,2,1,4,2,1,7,Marketing ,Y,Y,N,N,N
+N,Rachel Loke,46,Female,Primary School,2,2,1,4,2,1,7,Marketing ,Y,Y,N,N,N
+N,Rohini Naseer Halder,21,Male,Primary School,3,2,1,4,2,1,2,Marketing ,Y,Y,N,N,N
+N,Mridula Aurora,21,Male,Primary School,3,2,1,4,2,1,2,Marketing ,Y,Y,N,N,N
+N,Parminder Prashad,47,Female,Primary School,3,2,1,4,2,1,7,Marketing ,Y,Y,N,N,N
+N,Bhairavi Sagar,47,Female,Primary School,3,2,1,4,2,1,7,Marketing ,Y,Y,N,N,N
+N,Aishwarya Behl,47,Female,Primary School,3,2,3,3,3,3,7,Marketing ,Y,Y,N,N,N
+N,Hira Manpreet Datta,21,Female,Primary School,3,2,3,5,3,3,2,Marketing ,Y,Y,N,N,N
+N,Madhavi Brock Arya,47,Female,Primary School,3,2,1,4,2,2,7,Marketing ,Y,Y,N,N,N
+N,Amrita Qadim Thakkar,47,Female,Primary School,3,2,1,3,2,2,7,Marketing ,Y,Y,N,N,N
+N,Krishna Hayre,47,Female,High School,2,2,1,2,3,1,7,Marketing ,Y,Y,N,N,N
+Y,Trishana Mahal,21,Female,High School,2,2,1,2,3,1,2,Marketing ,Y,Y,N,N,N
+N,Divya Narayan,48,Male,High School,2,2,1,2,3,1,7,Marketing ,Y,Y,N,N,N
+N,Shanti Rajagopalan,45,Male,High School,2,2,1,2,2,1,7,Marketing ,Y,Y,N,N,N
+N,Nitika Mukund Dalal,45,Female,High School,2,2,1,2,2,1,7,Marketing ,Y,Y,N,N,N
+N,Vineeta Somnath Sachdev,44,Male,High School,2,2,1,2,2,11,6,Marketing ,Y,Y,N,N,N
+N,Lalita More,44,Male,High School,2,2,1,2,2,0,7,Marketing ,Y,Y,N,N,N
+N,Kalyani Narang,45,Male,High School,2,2,1,2,2,0,7,Marketing ,Y,Y,N,N,N
+N,Esha Agarwal,45,Female,High School,1,2,1,2,2,0,8,Marketing ,Y,Y,N,N,N
+Y,Riya Bassi,21,Male,High School,1,2,1,1,2,0,1,Marketing ,Y,Y,N,N,N
+Y,Himani Char,21,Female,High School,1,2,2,1,2,4,1,Marketing ,Y,Y,N,N,N
+N,Jyoti Qadim Grover,45,Male,High School,1,2,2,1,2,1,8,Marketing ,Y,Y,N,N,N
+Y,Juhi Deepesh Chowdhury,21,Male,High School,1,2,2,1,2,6,1,Marketing ,Y,Y,N,N,N
+N,Indrani Kalpit Chakrabarti,45,Male,High School,1,1,1,1,2,0,8,Marketing ,Y,Y,N,N,N
+Y,Hina Kabeer Buch,21,Female,High School,1,1,1,1,3,0,1,Marketing ,Y,Y,N,N,N
+N,Ankita Nanda,45,Female,High School,1,1,1,1,3,0,8,Marketing ,Y,Y,N,N,N
+N,Kiran Nayar,45,Female,High School,1,1,1,1,3,5,8,Marketing ,Y,Y,N,N,N
+Y,Madhu Deepesh Randhawa,26,Male,High School,1,1,2,1,3,6,2,Marketing ,Y,Y,N,N,N
+Y,Basanti Sodhani,22,Male,Undergraduation,1,2,2,1,1,1,1,Marketing ,Y,Y,N,N,N
+N,Nagma Chaudhuri,45,Female,Undergraduation,1,2,2,2,1,1,8,Marketing ,Y,Y,N,N,N
+Y,Padama Aggarwal,26,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+N,Binita Lanka,45,Male,Undergraduation,2,2,2,2,2,1,8,Marketing ,Y,Y,N,N,N
+Y,Ambika Sidhu,22,Female,Undergraduation,2,1,2,2,2,1,1,Marketing ,Y,Y,N,N,N
+N,Indrani Pranab Kade,44,Male,Undergraduation,2,1,2,2,2,1,7,Marketing ,Y,Y,N,N,N
+Y,Mukti Khanna,26,Male,Post Graduation,1,2,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+N,Anjana Din,45,Female,Primary School,3,4,1,4,2,1,8,Marketing ,Y,Y,N,N,N
+Y,Narmada Ehsaan Srinivas,22,Male,High School,1,1,1,1,3,1,1,Marketing ,Y,Y,N,N,N
+N,Pamela Raju Raval,45,Female,High School,1,1,1,2,2,1,8,Marketing ,Y,Y,N,N,N
+Y,Astha Rana,22,Female,High School,1,1,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+N,Sara Anil Sane,45,Male,High School,1,1,1,2,2,2,8,Marketing ,Y,Y,N,N,N
+N,Aarushi Devendra Randhawa,45,Female,High School,1,2,1,2,2,2,8,Marketing ,Y,Y,N,N,N
+N,Ruchi Chowdhury,48,Male,Undergraduation,2,1,2,2,2,2,8,Marketing ,Y,Y,N,N,N
+Y,Ritika Pradeep Mittal,24,Female,Post Graduation,1,2,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+Y,Aishwarya Ramnarine,30,Female,Undergraduation,2,1,2,2,2,3,7,Marketing ,Y,Y,N,N,N
+Y,Sara Biren Khanna,27,Female,Undergraduation,2,1,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+N,Payal Iyer,48,Female,High School,1,2,1,2,2,3,6,Marketing ,Y,Y,N,N,N
+Y,Bhairavi Pradhan,27,Female,High School,1,2,1,2,2,0,1,Marketing ,Y,Y,N,N,N
+Y,Sweta Karpe,34,Male,High School,1,2,1,2,2,0,5,Marketing ,Y,Y,N,N,N
+N,Anshu Monin Narasimhan,30,Female,Primary School,3,4,1,4,2,0,8,Marketing ,Y,Y,N,N,N
+N,Urmi Charlie Singhal,49,Female,Primary School,3,4,1,4,3,0,6,Marketing ,Y,Y,N,N,N
+N,Fatima Dugar,41,Female,Primary School,3,4,3,4,3,0,8,Marketing ,Y,Y,N,N,N
+N,Madhavi Suraj Sankaran,41,Male,Primary School,3,4,3,4,3,0,7,Marketing ,Y,Y,N,N,N
+N,Riddhi Zahir Bhasin,48,Female,Primary School,3,4,3,4,4,0,6,Marketing ,Y,Y,N,N,N
+N,Laveena Kant,27,Female,Primary School,3,2,3,4,4,0,1,Marketing ,Y,Y,N,N,N
+N,Mukti Padmanabhan,41,Female,Primary School,2,2,1,4,4,0,7,Marketing ,Y,Y,N,N,N
+N,Namita Talwar,27,Female,Primary School,2,1,1,4,4,1,1,Marketing ,Y,Y,N,N,N
+N,Radha Chauhan,41,Female,Primary School,3,1,1,4,3,1,7,Marketing ,Y,Y,N,N,N
+N,Vineeta Ujwal Shukla,40,Female,Primary School,5,1,1,4,3,1,6,Marketing ,Y,Y,N,N,N
+N,Padmini Oommen,48,Female,Primary School,5,1,1,5,2,3,6,Marketing ,Y,Y,N,N,N
+N,Radha Bal,40,Female,Primary School,3,1,2,3,3,1,7,Marketing ,Y,Y,N,N,N
+N,Madhavi Dinesh Sunder,27,Female,Primary School,4,1,1,3,3,2,2,Marketing ,Y,Y,N,N,N
+N,Nancy More,40,Female,High School,2,2,1,2,1,3,7,Marketing ,Y,Y,N,N,N
+N,Nupoor Vala,40,Female,High School,2,2,1,2,1,3,5,Marketing ,Y,Y,N,N,N
+Y,Devika Aarif Dora,34,Female,High School,2,2,1,2,1,3,5,Marketing ,Y,Y,N,N,N
+N,Bhairavi Brock Hari,40,Female,High School,2,3,1,2,2,2,4,Marketing ,Y,Y,N,N,N
+N,Rachel Pranay Naidu,47,Female,High School,2,3,1,2,2,2,6,Marketing ,Y,Y,N,N,N
+N,Padama Harbhajan Mogul,47,Female,Primary School,4,1,1,3,3,2,6,Teacher,N,N,Y,N,N
+N,Anusha Toor,40,Female,Primary School,4,3,1,3,3,2,7,Teacher,N,N,Y,N,N
+N,Vineeta Sushant Butala,27,Female,Primary School,4,3,1,3,3,1,2,Teacher,N,N,Y,N,N
+N,Hema Radhakrishnan,26,Female,Primary School,4,3,1,3,3,1,2,Teacher,N,N,Y,N,N
+N,Nupoor Deep Biyani,48,Female,Primary School,3,3,1,3,2,1,6,Teacher,N,N,Y,N,N
+N,Radha David Ratta,38,Female,Primary School,3,3,1,3,2,1,7,Teacher,N,N,Y,N,N
+N,Aarushi Kailash Sane,34,Male,Primary School,3,3,3,3,2,1,5,Teacher,N,N,Y,N,N
+N,Julie Luthra,38,Female,Primary School,3,3,2,3,2,1,6,Teacher,N,N,Y,N,N
+N,Fatima Aarif Nadig,26,Female,Primary School,5,3,2,3,2,1,2,Teacher,N,N,Y,N,N
+N,Nishi Wagle,34,Male,Primary School,5,3,2,5,2,3,5,Teacher,N,N,Y,N,N
+N,Pamela Dash,38,Female,High School,2,3,1,2,2,3,5,Teacher,N,N,Y,N,N
+N,Anshula Srinivas,30,Female,High School,2,3,1,3,2,2,5,Teacher,N,N,Y,N,N
+N,Tejaswani Wafiq Kaur,48,Female,High School,2,3,1,3,2,2,6,Teacher,N,N,Y,N,N
+N,Aditi Thaman,38,Female,High School,2,3,1,3,2,1,8,Teacher,N,N,Y,N,N
+N,Binita Malhotra,48,Female,High School,2,3,1,3,2,1,6,Teacher,N,N,Y,N,N
+N,Lata Pradeep Bajwa,38,Female,High School,2,3,3,3,2,1,8,Teacher,N,N,Y,N,N
+N,Tejaswani Raj,38,Female,High School,2,3,3,3,1,1,8,Teacher,N,N,Y,N,N
+N,Rosey Ramesh,29,Female,Primary School,5,3,2,3,3,1,4,Teacher,N,N,Y,N,N
+N,Lalita Dora,31,Female,Primary School,5,3,2,3,3,2,10,Teacher,N,N,Y,N,N
+N,Monica Pranab Sahota,31,Female,Primary School,5,3,2,3,3,0,11,Teacher,N,N,Y,N,N
+N,Manjari Tabeed Kar,29,Male,Primary School,5,2,2,3,3,0,4,Teacher,N,N,Y,N,N
+N,Leela Mathew,29,Female,Primary School,5,2,2,3,3,0,4,Teacher,N,N,Y,N,N
+N,Amrita Shere,29,Female,Primary School,3,2,2,3,5,0,4,Teacher,N,N,Y,N,N
+N,Hira Guha,31,Female,Primary School,3,2,2,5,5,4,7,Teacher,N,N,Y,N,N
+N,Zeenat Batta,29,Female,Primary School,3,2,4,3,5,1,4,Teacher,N,N,Y,N,N
+N,Nagma Owais Persad,32,Female,Primary School,3,2,4,5,3,6,7,Teacher,N,N,Y,N,N
+N,Nagma Vivek Dhawan,32,Female,Primary School,3,2,4,3,5,0,7,Teacher,N,N,Y,N,N
+N,Meghana Baldev Sinha,29,Female,Primary School,2,2,4,3,4,0,4,Teacher,N,N,Y,N,N
+N,Nupoor Ramroop,47,Male,Primary School,2,2,1,4,4,0,6,Teacher,N,N,Y,N,N
+N,Trishana Mustafa Deshpande,61,Female,Primary School,2,2,1,4,2,5,6,Teacher,N,N,Y,N,N
+N,Gunjan Mishra,34,Female,Primary School,2,2,1,4,2,6,3,Teacher,N,N,Y,N,N
+N,Urmi Mahabir,61,Female,Primary School,2,2,1,3,3,1,12,Teacher,N,N,Y,N,N
+N,Sona Babu,34,Female,High School,2,3,3,2,1,1,3,Teacher,N,N,Y,N,N
+N,Mayawati Kuruvilla,34,Male,High School,2,2,3,2,1,3,3,Teacher,N,N,Y,N,N
+N,Geetanjali Aadish Saran,45,Female,High School,2,2,2,2,1,1,12,Teacher,N,N,Y,N,N
+N,Seema Raghavan Varkey,61,Female,High School,2,2,2,2,1,1,12,Teacher,N,N,Y,N,N
+N,Bhaagyasree Gaurav Divan,61,Male,High School,2,2,2,2,1,1,12,Teacher,N,N,Y,N,N
+Y,Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,Teacher,N,N,Y,N,N
+N,Aruna Dar,61,Female,Undergraduation,1,1,1,2,2,1,12,Teacher,N,N,Y,N,N
+N,Neha Sridhar,63,Male,Undergraduation,1,1,1,2,2,1,12,Teacher,N,N,Y,N,N
+N,Ruchi Elias Gokhale,45,Male,Undergraduation,1,1,1,2,2,1,11,Teacher,N,N,Y,N,N
+N,Shweta Kothari,45,Female,Undergraduation,1,1,1,2,2,2,11,Teacher,N,N,Y,N,N
+Y,Namita Ratti,39,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+N,Nalini Eddie Bhattacharyya,63,Female,Undergraduation,1,1,1,1,2,2,11,Teacher,N,N,Y,N,N
+Y,Neela Aadil Chana,39,Female,Undergraduation,2,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+N,Nikita Chand,45,Female,High School,2,2,2,2,2,3,12,Teacher,N,N,Y,N,N
+N,Neha Bawa,41,Female,High School,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+N,Anshula Nigam,29,Female,High School,2,2,2,2,2,3,1,Teacher,N,N,Y,N,N
+N,Mini Gopal,41,Female,High School,2,2,2,3,2,0,2,Teacher,N,N,Y,N,N
+N,Priyanka Munaf Bir,63,Female,High School,2,2,2,3,2,0,12,Teacher,N,N,Y,N,N
+N,Chhaya Zahir Raghavan,29,Female,Primary School,1,2,1,4,3,0,2,Teacher,N,N,Y,N,N
+N,Shanti Mann,41,Female,Primary School,1,2,2,4,3,0,1,Teacher,N,N,Y,N,N
+N,Rakhi Akhil Agate,45,Female,Primary School,1,2,1,4,3,0,12,Teacher,N,N,Y,N,N
+N,Anshu Ratti,29,Female,Primary School,1,2,1,2,3,1,1,Teacher,N,N,Y,N,N
+N,Aarti Ehsaan Pandit,63,Male,Primary School,1,2,3,2,2,1,12,Teacher,N,N,Y,N,N
+N,Kamini Mander,41,Female,Primary School,1,2,3,2,2,1,1,Teacher,N,N,Y,N,N
+N,Babita Sankaran,42,Female,Primary School,1,1,1,2,2,1,5,Teacher,N,N,Y,N,N
+N,Ananya Gupta,42,Female,Primary School,1,1,1,2,2,1,5,Teacher,N,N,Y,N,N
+N,Anusha Dani,37,Male,Primary School,3,1,1,2,2,2,5,Teacher,N,N,Y,N,N
+N,Sona Chaudhry,29,Male,Primary School,3,1,1,2,2,2,2,Teacher,N,N,Y,N,N
+N,Indira Rampersaud,31,Female,Primary School,3,3,2,2,2,2,6,Teacher,N,N,Y,N,N
+N,Jasmin Jacob,20,Female,High School,2,2,2,3,2,1,1,Teacher,N,N,Y,N,N
+N,Amolika Devendra Memon,45,Female,High School,2,2,3,3,2,1,12,Teacher,N,N,Y,N,N
+N,Nutan Bail,31,Female,High School,2,2,3,3,2,13,6,Teacher,N,N,Y,N,N
+N,Richa Wagle,31,Female,High School,2,3,3,2,2,3,6,Teacher,N,N,Y,N,N
+N,Rita Ravel,21,Female,High School,2,3,4,2,2,3,2,Teacher,N,N,Y,N,N
+N,Mona Rege,63,Female,High School,2,3,2,2,2,3,12,Teacher,N,N,Y,N,N
+N,Radhika Taneja,37,Female,Primary School,3,3,2,4,2,3,6,Teacher,N,N,Y,N,N
+N,Babita Munshi,31,Female,Primary School,3,3,2,3,2,3,7,Teacher,N,N,Y,N,N
+N,Alka Ekbal Boase,31,Female,Primary School,4,3,1,3,2,3,7,Teacher,N,N,Y,N,N
+N,Upasana Ramanathan,20,Female,Primary School,4,3,2,2,3,1,1,Teacher,N,N,Y,N,N
+N,Esha Kunda,21,Female,Primary School,4,3,2,2,3,1,2,Teacher,N,N,Y,N,N
+N,Esha Mehra,21,Female,Primary School,4,3,2,2,3,1,2,Teacher,N,N,Y,N,N
+N,Lata Wafiq Maraj,20,Female,Primary School,4,3,1,4,3,0,1,Teacher,N,N,Y,N,N
+N,Samita Vijay,37,Female,Primary School,5,3,2,4,3,0,11,Teacher,N,N,Y,N,N
+N,Vijaya Vani,40,Female,Primary School,5,3,1,4,3,0,12,Teacher,N,N,Y,N,N
+Y,Vani jeyakumar,24,Female,Undergraduation,2,1,1,1,2,0,2,Teacher,N,N,Y,N,N
+Y,Vairali K,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,Vaishnavi Janani,40,Female,Undergraduation,2,1,1,1,1,2,9,Teacher,N,N,Y,N,N
+N,Sujatha Ramani,63,Female,Undergraduation,2,1,1,1,1,2,12,Teacher,N,N,Y,N,N
+Y,Sujathi rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,Jitendram,24,Male,Undergraduation,1,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,Surya Kumari,37,Female,Post Graduation,1,1,2,1,2,4,9,Teacher,N,N,Y,N,N
+N,Soojitha K,63,Female,Post Graduation,1,1,2,1,3,2,12,Teacher,N,N,Y,N,N
+Y,Vandhana Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,Teacher,N,N,Y,N,N
+Y,Varna Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Balambika,24,Female,Post Graduation,2,1,2,1,1,4,2,Teacher,N,N,Y,N,N
+Y,Bagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Baghya Lakshmi,24,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Triloka varshini,37,Female,Undergraduation,1,2,1,1,2,4,8,Teacher,N,N,Y,N,N
+N,Varasidhi K,37,Female,Primary School,5,3,1,3,2,4,7,Teacher,N,N,Y,N,N
+N,Megamani,63,Female,Primary School,3,3,2,4,2,1,12,Teacher,N,N,Y,N,N
+N,Chandra Kala,40,Female,Primary School,3,3,2,4,2,1,6,Teacher,N,N,Y,N,N
+N,Soorya Kala,37,Female,Primary School,3,3,2,4,2,1,6,Teacher,N,N,Y,N,N
+N,Narendhiran,28,Male,Primary School,3,3,2,4,3,1,3,Teacher,N,N,Y,N,N
+N,Manushree R,32,Female,Primary School,3,3,2,4,3,1,6,Teacher,N,N,Y,N,N
+N,Kalai Nayagam,28,Male,Primary School,3,3,2,3,3,1,3,Teacher,N,N,Y,N,N
+N,Regna Ramya,32,Female,Primary School,3,2,2,3,3,1,3,Teacher,N,N,Y,N,N
+N,Raji Raman,24,Female,High School,2,3,2,2,2,1,3,Teacher,N,N,Y,N,N
+N,Lakshmi Vasantham,28,Female,High School,2,3,2,2,1,1,3,Teacher,N,N,Y,N,N
+N,Vasanthi Vijay,32,Female,High School,2,3,2,2,1,3,3,Teacher,N,N,Y,N,N
+N,Pradeepan ,19,Male,High School,2,3,2,2,1,3,2,Teacher,N,N,Y,N,N
+N,Menaka Ravi,24,Female,High School,2,3,2,2,1,2,3,Teacher,N,N,Y,N,N
+N,Suleka Raju,24,Female,High School,2,3,2,2,1,2,3,Teacher,N,N,Y,N,N
+N,Chitra Babu,24,Female,High School,2,3,2,2,1,2,2,Teacher,N,N,Y,N,N
+N,Jeyanthi Natarajan,22,Female,High School,3,3,1,2,1,2,2,Teacher,N,N,Y,N,N
+N,Dayanidhi Kumar,32,Female,High School,3,3,1,2,1,4,3,Teacher,N,N,Y,N,N
+N,Vageswari Kannan,28,Female,High School,3,3,1,1,1,2,3,Teacher,N,N,Y,N,N
+N,Lakshmi Raman,22,Female,High School,3,3,1,1,2,2,4,Teacher,N,N,Y,N,N
+N,Kashi Kumari,22,Female,High School,3,2,1,1,2,2,4,Teacher,N,N,Y,N,N
+N,Manoshi Gupta,28,Female,High School,2,2,1,1,2,1,3,Teacher,N,N,Y,N,N
+N,Ravi Kurram,18,Male,High School,2,2,1,1,2,2,4,Teacher,N,N,Y,N,N
+N,Mala Pillai,19,Female,High School,1,2,1,1,2,2,2,Teacher,N,N,Y,N,N
+N,Rose Ramani,20,Female,High School,1,2,1,1,1,2,4,Teacher,N,N,Y,N,N
+N,Velvizhi Iyer,20,Female,High School,1,2,1,1,1,2,4,Teacher,N,N,Y,N,N
+N,Virat Pratap Nadkarni,30,Male,High School,2,2,3,2,2,1,4,Teacher,N,N,Y,N,N
+N,Manpreet Date,31,Male,High School,2,2,3,2,2,1,5,Teacher,N,N,Y,N,N
+N,Amir Meda,32,Male,High School,2,2,3,2,2,1,6,Teacher,N,N,Y,N,N
+N,Pradeep Kumar Sarna,33,Male,High School,2,2,3,2,2,1,6,Teacher,N,N,Y,N,N
+N,Atul Pratap Brahmbhatt,34,Male,High School,2,2,2,2,2,1,7,Teacher,N,N,Y,N,N
+N,Baalkrishan Kumar Mann,28,Male,High School,2,2,2,2,3,1,3,Teacher,N,N,Y,N,N
+Y,Suresh Sid Pradhan,33,Male,Undergraduation,1,2,2,1,2,1,5,Teacher,N,N,Y,N,N
+Y,Lalit Jamshed Meka,33,Male,Undergraduation,1,2,2,1,2,3,10,Teacher,N,N,Y,N,N
+Y,Satish Singh Kata,33,Male,Undergraduation,1,2,2,1,2,1,6,Teacher,N,N,Y,N,N
+Y,Abhinav Bhai Gagrani,35,Male,Undergraduation,2,2,2,1,2,2,9,Teacher,N,N,Y,N,N
+Y,Vijay Pravin Sarma,28,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+N,Umesh Naik,28,Male,High School,2,2,2,2,3,3,4,Teacher,N,N,Y,N,N
+N,Elias Nadig,35,Male,High School,2,2,2,2,3,3,8,Teacher,N,N,Y,N,N
+N,Kamlesh Chitranjan Mohan,35,Male,High School,3,2,2,2,3,2,8,Teacher,N,N,Y,N,N
+N,Karim Upadhyay,35,Male,High School,3,2,2,3,2,2,7,Teacher,N,N,Y,N,N
+N,Biren Biyani,28,Male,High School,3,2,2,3,2,2,4,Teacher,N,N,Y,N,N
+N,Balaji Karnik,41,Male,High School,3,2,2,3,2,2,7,Teacher,N,N,Y,N,N
+N,Ghanshyam Natarajan,41,Male,Primary School,4,3,2,3,3,1,4,Teacher,N,N,Y,N,N
+N,Rajendra Mohanty,41,Male,Primary School,3,4,3,4,3,1,4,Teacher,N,N,Y,N,N
+N,Devendra Venkat Kohli,41,Male,Primary School,4,2,3,4,2,1,8,Teacher,N,N,Y,N,N
+N,Jaswant Bhai Chohan,41,Male,High School,3,2,2,3,2,1,8,Teacher,N,N,Y,N,N
+N,Iqbal Bhai Badal,28,Male,High School,2,4,1,3,2,1,2,Teacher,N,N,Y,N,N
+N,Kalyan Mand,40,Male,High School,2,3,1,3,2,1,8,Teacher,N,N,Y,N,N
+N,Naseer Pratap Deo,40,Male,High School,2,3,1,3,2,1,8,Teacher,N,N,Y,N,N
+N,Akhil Khalsa,40,Male,High School,2,3,1,3,2,3,6,Teacher,N,N,Y,N,N
+Y,Vijay Swaminathan,28,Male,Undergraduation,2,2,2,2,2,3,3,Teacher,N,N,Y,N,N
+Y,Raghavan Bhai Nadkarni,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,Atul Prasad Nagarajan,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,Atul Majumdar,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,Bahadur Pratap Dixit,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,Jawahar Pranay Sagar,38,Male,Undergraduation,2,3,1,2,2,1,11,Teacher,N,N,Y,N,N
+Y,Rahim Dev Sangha,38,Male,Undergraduation,2,3,1,1,2,1,8,Teacher,N,N,Y,N,N
+Y,Satish Lal Srinivasan,28,Male,Undergraduation,2,1,1,1,2,1,3,Teacher,N,N,Y,N,N
+Y,Baldev Tank,38,Male,Undergraduation,1,1,2,1,2,11,8,Teacher,N,N,Y,N,N
+Y,Habib Ramesh,28,Male,Undergraduation,1,1,2,1,2,0,1,Teacher,N,N,Y,N,N
+Y,Raghavan Dev Seshadri,38,Male,Undergraduation,1,1,2,1,1,0,9,Teacher,N,N,Y,N,N
+Y,Naseer Ram,28,Male,Undergraduation,1,1,2,1,1,0,1,Teacher,N,N,Y,N,N
+Y,Manpreet Morar,28,Male,Undergraduation,2,1,2,1,1,0,4,Teacher,N,N,Y,N,N
+Y,Chinmay Kumar Vasa,38,Male,Undergraduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Satishwar Elias Apte,38,Male,Undergraduation,2,1,2,1,1,1,3,Teacher,N,N,Y,N,N
+Y,Gauransh Prasad Deshpande,28,Male,Post Graduation,1,2,1,2,2,6,4,Teacher,N,N,Y,N,N
+N,Faisal Somani,38,Male,High School,2,3,1,3,2,0,6,Teacher,N,N,Y,N,N
+N,Arun Hari,38,Male,High School,2,3,2,3,2,0,2,Teacher,N,N,Y,N,N
+N,Mohan Lal Prasad,38,Male,High School,3,3,2,2,2,0,7,Teacher,N,N,Y,N,N
+N,Ehsaan Raj Sha,40,Male,High School,3,3,2,2,2,5,7,Teacher,N,N,Y,N,N
+N,Moti Raj Hegde,40,Male,High School,3,3,2,2,1,6,9,Teacher,N,N,Y,N,N
+N,Devendra Nagy,40,Male,High School,3,3,2,2,1,1,9,Teacher,N,N,Y,N,N
+N,"Aniruddh Nawab, Ganesan",40,Male,High School,3,3,2,2,1,1,4,Teacher,N,N,Y,N,N
+N,Qabool Iyengar,28,Male,High School,3,3,2,2,1,3,3,Teacher,N,N,Y,N,N
+N,Rupesh Wagle,21,Male,High School,3,3,2,2,1,1,3,Teacher,N,N,Y,N,N
+N,Kalpit Bhai Lata,40,Male,High School,3,3,2,2,1,1,4,Teacher,N,N,Y,N,N
+N,Radhe Raj Bera,40,Male,High School,3,3,2,2,1,1,4,Teacher,N,N,Y,N,N
+N,Jamshed Hrishikesh Kamdar,40,Male,High School,3,3,2,1,1,1,4,Teacher,N,N,Y,N,N
+N,Mustafa Singh De,21,Male,High School,3,3,2,1,1,1,3,Teacher,N,N,Y,N,N
+N,Ishat Dev Sharaf,40,Male,High School,3,3,2,1,1,1,7,Teacher,N,N,Y,N,N
+Y,Baber Palla,40,Male,Undergraduation,1,2,1,3,1,1,7,Teacher,N,N,Y,N,N
+Y,Jagat Swamy,26,Male,Undergraduation,1,2,1,3,1,2,3,Teacher,N,N,Y,N,N
+Y,Manish Lanka,44,Male,Undergraduation,1,2,1,3,1,2,7,Teacher,N,N,Y,N,N
+Y,Lalit Chander,28,Male,Undergraduation,1,2,1,2,1,2,12,Teacher,N,N,Y,N,N
+N,Obaid Krish,61,Male,Primary School,3,2,2,3,4,2,14,Teacher,N,N,Y,N,N
+N,Mowgli Venkataraman,62,Male,Primary School,3,3,2,4,2,2,19,Teacher,N,N,Y,N,N
+N,Karim Mitesh Doctor,61,Male,Primary School,4,3,2,4,2,3,16,Teacher,N,N,Y,N,N
+Y,Naval Jacob,28,Male,Undergraduation,1,2,2,2,1,3,8,Teacher,N,N,Y,N,N
+Y,Binoya Rao Soni,28,Male,Undergraduation,1,3,3,2,1,3,7,Teacher,N,N,Y,N,N
+Y,Aatif Oak,23,Male,Undergraduation,1,3,3,1,1,0,15,Teacher,N,N,Y,N,N
+N,Ehsaan Gala,53,Male,Undergraduation,2,3,3,1,1,0,5,Teacher,N,N,Y,N,N
+N,David Bhai Patel,53,Male,High School,3,2,2,1,1,0,19,Teacher,N,N,Y,N,N
+N,Chitranjan Apte,61,Male,High School,3,2,2,1,1,0,13,Teacher,N,N,Y,N,N
+N,Ghalib Chad,53,Male,High School,3,2,2,1,1,0,6,Teacher,N,N,Y,N,N
+N,Nayan Bhai Palan,61,Male,High School,3,2,3,1,1,0,17,Teacher,N,N,Y,N,N
+N,Raju Raval,61,Male,Primary School,4,3,2,4,4,0,13,Teacher,N,N,Y,N,N
+N,Biren Kohli,32,Male,Primary School,4,3,2,4,4,0,7,Teacher,N,N,Y,N,N
+N,Rajendra Malpani,53,Male,High School,3,2,3,1,2,0,7,Teacher,N,N,Y,N,N
+N,Albert Aniruddh Gokhale,61,Male,High School,3,2,3,1,2,1,30,Teacher,N,N,Y,N,N
+N,Ricky Pratap Master,61,Male,High School,3,2,3,1,2,1,20,Teacher,N,N,Y,N,N
+N,Nirmal Yogesh Chowdhury,64,Male,High School,3,2,3,1,2,1,25,Teacher,N,N,Y,N,N
+N,Arjun Ram Naik,53,Male,High School,3,2,2,1,2,3,8,Teacher,N,N,Y,N,N
+N,Eddie Ram Masih,32,Male,Primary School,4,3,2,4,1,1,7,Teacher,N,N,Y,N,N
+N,Shashank Lal Edwin,64,Male,Primary School,4,3,2,4,1,2,30,Teacher,N,N,Y,N,N
+N,Sai Pratap Borra,57,Male,Primary School,3,2,2,3,2,3,9,Teacher,N,N,Y,N,N
+N,Anees Rastogi,64,Male,Primary School,3,2,2,3,2,3,23,Teacher,N,N,Y,N,N
+N,Brock Jhaveri,32,Male,Primary School,3,2,2,3,2,3,6,Teacher,N,N,Y,N,N
+N,Chinmay Darpan Ramkissoon,57,Male,Primary School,3,2,2,4,1,2,9,Teacher,N,N,Y,N,N
+N,Dinesh Rupal Acharya,64,Male,Primary School,3,2,2,4,1,2,22,Teacher,N,N,Y,N,N
+N,Ehsaan Qadim Kari,64,Male,Primary School,3,2,2,5,1,2,21,Teacher,N,N,Y,N,N
+N,Parveen Chandra Dugar,57,Male,Primary School,3,2,2,5,1,2,20,Teacher,N,N,Y,N,N
+N,Rahim Kar,57,Male,Primary School,3,2,4,5,3,1,21,Teacher,N,N,Y,N,N
+N,Brock Viswanathan,44,Male,Primary School,2,2,4,5,3,1,7,Teacher,N,N,Y,N,N
+N,Chitranjan Rao Bera,64,Male,Primary School,2,1,4,5,3,1,20,Teacher,N,N,Y,N,N
+N,Rashid Din,44,Male,Primary School,2,1,4,4,3,1,8,Teacher,N,N,Y,N,N
+N,Baalkrishan Sarraf,64,Male,Primary School,4,1,4,4,3,1,19,Teacher,N,N,Y,N,N
+N,Ratan Kalla,44,Male,Primary School,4,1,4,3,3,1,9,Teacher,N,N,Y,N,N
+N,Omar Prasad Sant,64,Male,Primary School,3,1,4,3,3,1,18,Teacher,N,N,Y,N,N
+N,Ajay Saurabh Bhattacharyya,70,Male,Primary School,3,1,4,3,2,3,17,Teacher,N,N,Y,N,N
+N,Mitesh Bijoy Pradhan,26,Male,Primary School,3,1,3,3,2,3,3,Teacher,N,N,Y,N,N
+N,Rupesh Ram Parekh,57,Male,Primary School,3,1,3,3,3,2,9,Teacher,N,N,Y,N,N
+N,Ishat Gajendra Varma,48,Male,Primary School,3,1,3,3,3,2,29,Teacher,N,N,Y,N,N
+N,Aslam Raj Sandhu,57,Male,Primary School,3,1,3,3,3,1,11,Teacher,N,N,Y,N,N
+N,Ganesh Harbhajan Masih,57,Male,Primary School,3,1,3,3,3,1,13,Teacher,N,N,Y,N,N
+N,Manish Lal Amble,51,Male,Primary School,3,1,3,3,3,1,8,Teacher,N,N,Y,N,N
+N,Mani Ramam,51,Male,Primary School,3,1,3,3,3,1,7,Teacher,N,N,Y,N,N
+N,Niyati Jagdish Prakash,28,Female,High School,3,2,2,1,3,1,7,Teacher,N,N,Y,N,N
+N,Prabha Yash Ramnarine,49,Male,High School,2,2,2,1,3,11,29,Teacher,N,N,Y,N,N
+N,Padmini Pravin Mall,28,Female,High School,2,2,1,1,3,0,3,Teacher,N,N,Y,N,N
+N,Sushmita Murty,50,Male,High School,2,2,2,1,3,0,23,Teacher,N,N,Y,N,N
+N,Sushmita Kashyap,62,Female,High School,2,2,1,1,3,0,22,Teacher,N,N,Y,N,N
+N,Leelawati Dada,28,Male,High School,2,2,2,1,1,0,11,Teacher,N,N,Y,N,N
+N,Amolika Ratan Talwar,28,Female,High School,2,2,1,1,1,4,10,Teacher,N,N,Y,N,N
+N,Zara Amir Luthra,62,Female,High School,2,2,1,1,1,1,34,Teacher,N,N,Y,N,N
+N,Esha Tripathi,26,Male,High School,2,2,2,1,1,6,1,Teacher,N,N,Y,N,N
+N,Aisha Kothari,44,Male,High School,2,2,2,2,1,0,6,Teacher,N,N,Y,N,N
+N,Naina Jack Rattan,50,Male,High School,2,2,2,2,1,0,8,Teacher,N,N,Y,N,N
+N,Prabha Wason,60,Male,High School,2,2,2,2,1,0,7,Teacher,N,N,Y,N,N
+N,Shanti Rajagopal,62,Female,High School,2,2,1,2,1,5,34,Teacher,N,N,Y,N,N
+N,Rita Ratta,59,Female,High School,1,2,1,2,1,6,6,Teacher,N,N,Y,N,N
+N,Sona Mitter,23,Female,High School,1,2,1,2,1,1,4,Teacher,N,N,Y,N,N
+N,Heena Puri,25,Male,High School,1,2,1,2,1,1,4,Teacher,N,N,Y,N,N
+N,Nikita Seshadri,25,Female,High School,1,2,1,2,1,3,4,Teacher,N,N,Y,N,N
+N,Padama Darpan Pal,25,Male,High School,1,2,1,2,1,1,4,Teacher,N,N,Y,N,N
+N,Ambika Siddharth Mistry,50,Female,High School,1,2,1,2,2,1,4,Teacher,N,N,Y,N,N
+N,Vineeta Varma,25,Female,High School,1,1,1,2,2,1,4,Teacher,N,N,Y,N,N
+N,Anusha Naseer Deo,54,Female,High School,1,1,1,2,1,1,10,Teacher,N,N,Y,N,N
+N,Nandini Savant,25,Male,High School,1,1,1,3,1,1,4,Teacher,N,N,Y,N,N
+N,Upasana Sarna,25,Male,High School,1,1,2,3,1,1,4,Teacher,N,N,Y,N,N
+N,Aabha Gole,59,Female,High School,1,1,1,3,1,1,9,Teacher,N,N,Y,N,N
+N,Nalini Jobin Dar,25,Female,High School,1,1,1,3,1,2,3,Teacher,N,N,Y,N,N
+N,Akhila Kunda,52,Female,High School,1,1,1,3,1,2,9,Teacher,N,N,Y,N,N
+N,Sameedha Purohit,50,Male,High School,1,1,1,3,1,2,9,Teacher,N,N,Y,N,N
+N,Aarti Faraz Kota,55,Male,Primary School,3,1,3,3,3,2,8,Teacher,N,N,Y,N,N
+N,Komal Desai,23,Male,Primary School,3,1,3,3,3,2,3,Teacher,N,N,Y,N,N
+N,Yasmin Ramachandran,53,Female,Primary School,3,1,3,4,2,3,8,Teacher,N,N,Y,N,N
+N,Kiran Vaidya,23,Female,Primary School,3,1,3,3,2,3,3,Teacher,N,N,Y,N,N
+N,Upasana Sem,50,Female,Primary School,3,3,2,3,2,3,8,Teacher,N,N,Y,N,N
+N,Nidhi Meka,23,Male,Primary School,3,3,2,4,4,0,3,Teacher,N,N,Y,N,N
+N,Devika Jani,54,Female,High School,2,1,1,3,1,0,8,Teacher,N,N,Y,N,N
+N,Bagwati Narayan,23,Male,High School,2,2,2,2,1,0,3,Teacher,N,N,Y,N,N
+Y,Nancy Konda,23,Male,Undergraduation,2,3,3,1,1,0,3,Teacher,N,N,Y,N,N
+Y,Roma Dhiraj Amble,44,Male,Undergraduation,2,3,3,1,1,0,6,Teacher,N,N,Y,N,N
+N,Rachel Abbas Mangal,53,Female,Undergraduation,2,3,3,1,1,0,8,Teacher,N,N,Y,N,N
+N,Sushmita Walia,55,Female,Undergraduation,1,3,3,1,1,0,8,Teacher,N,N,Y,N,N
+N,Mukti Harjo,50,Female,Primary School,3,3,2,4,4,0,8,Teacher,N,N,Y,N,N
+N,Rita Shere,52,Female,Primary School,3,3,2,4,4,0,8,Teacher,N,N,Y,N,N
+N,Julie Varma,52,Female,Primary School,3,3,2,2,3,1,9,Teacher,N,N,Y,N,N
+N,Yamini Chaudhari,55,Male,Primary School,3,3,2,3,3,1,9,Teacher,N,N,Y,N,N
+N,Pooja Qabeel Mander,50,Female,High School,2,2,1,2,1,1,9,Teacher,N,N,Y,N,N
+N,Alpa Munaf Ganguly,52,Female,High School,2,2,1,2,1,3,9,Teacher,N,N,Y,N,N
+N,Astha Ganesan,52,Female,High School,2,2,1,2,1,1,9,Teacher,N,N,Y,N,N
+N,Julie Koshy,55,Female,High School,2,2,1,2,1,2,9,Teacher,N,N,Y,N,N
+N,Amrita Anand Manda,50,Female,High School,2,2,1,2,1,3,9,Teacher,N,N,Y,N,N
+N,Jyoti Sarna,28,Female,High School,2,2,1,2,1,3,4,Teacher,N,N,Y,N,N
+N,Bhaagyasree Shere,21,Male,High School,2,2,2,2,1,3,2,Teacher,N,N,Y,N,N
+N,Kamini Doshi,28,Female,Primary School,3,3,1,3,3,2,4,Teacher,N,N,Y,N,N
+N,Chandni Balaji Seshadri,28,Male,Primary School,3,3,1,3,3,2,4,Teacher,N,N,Y,N,N
+N,Ambika Khalsa,28,Female,Primary School,2,3,1,3,3,2,4,Teacher,N,N,Y,N,N
+N,Kajol Chandran,46,Female,Primary School,2,3,1,3,3,2,9,Teacher,N,N,Y,N,N
+N,Kalpana Pradeep Narain,46,Male,Primary School,2,3,1,4,2,1,7,Teacher,N,N,Y,N,N
+N,Vimala Pandey,46,Male,Primary School,2,2,1,4,2,1,7,Teacher,N,N,Y,N,N
+N,Rachel Loke,46,Female,Primary School,2,2,1,4,2,1,7,Teacher,N,N,Y,N,N
+N,Rohini Naseer Halder,21,Male,Primary School,3,2,1,4,2,1,2,Teacher,N,N,Y,N,N
+N,Mridula Aurora,21,Male,Primary School,3,2,1,4,2,1,2,Teacher,N,N,Y,N,N
+N,Parminder Prashad,47,Female,Primary School,3,2,1,4,2,1,7,Teacher,N,N,Y,N,N
+N,Bhairavi Sagar,47,Female,Primary School,3,2,1,4,2,1,7,Teacher,N,N,Y,N,N
+N,Aishwarya Behl,47,Female,Primary School,3,2,3,3,3,3,7,Teacher,N,N,Y,N,N
+N,Hira Manpreet Datta,21,Female,Primary School,3,2,3,5,3,3,2,Teacher,N,N,Y,N,N
+N,Madhavi Brock Arya,47,Female,Primary School,3,2,1,4,2,2,7,Teacher,N,N,Y,N,N
+N,Amrita Qadim Thakkar,47,Female,Primary School,3,2,1,3,2,2,7,Teacher,N,N,Y,N,N
+N,Krishna Hayre,47,Female,High School,2,2,1,2,3,1,7,Teacher,N,N,Y,N,N
+N,Trishana Mahal,21,Female,High School,2,2,1,2,3,1,2,Teacher,N,N,Y,N,N
+N,Divya Narayan,48,Male,High School,2,2,1,2,3,1,7,Teacher,N,N,Y,N,N
+N,Shanti Rajagopalan,45,Male,High School,2,2,1,2,2,1,7,Teacher,N,N,Y,N,N
+N,Nitika Mukund Dalal,45,Female,High School,2,2,1,2,2,1,7,Teacher,N,N,Y,N,N
+N,Vineeta Somnath Sachdev,44,Male,High School,2,2,1,2,2,11,6,Teacher,N,N,Y,N,N
+N,Lalita More,44,Male,High School,2,2,1,2,2,0,7,Teacher,N,N,Y,N,N
+N,Kalyani Narang,45,Male,High School,2,2,1,2,2,0,7,Teacher,N,N,Y,N,N
+N,Esha Agarwal,45,Female,High School,1,2,1,2,2,0,8,Teacher,N,N,Y,N,N
+N,Riya Bassi,21,Male,High School,1,2,1,1,2,0,1,Teacher,N,N,Y,N,N
+N,Himani Char,21,Female,High School,1,2,2,1,2,4,1,Teacher,N,N,Y,N,N
+N,Jyoti Qadim Grover,45,Male,High School,1,2,2,1,2,1,8,Teacher,N,N,Y,N,N
+N,Juhi Deepesh Chowdhury,21,Male,High School,1,2,2,1,2,6,1,Teacher,N,N,Y,N,N
+N,Indrani Kalpit Chakrabarti,45,Male,High School,1,1,1,1,2,0,8,Teacher,N,N,Y,N,N
+N,Hina Kabeer Buch,21,Female,High School,1,1,1,1,3,0,1,Teacher,N,N,Y,N,N
+N,Ankita Nanda,45,Female,High School,1,1,1,1,3,0,8,Teacher,N,N,Y,N,N
+N,Kiran Nayar,45,Female,High School,1,1,1,1,3,5,8,Teacher,N,N,Y,N,N
+N,Madhu Deepesh Randhawa,26,Male,High School,1,1,2,1,3,6,2,Teacher,N,N,Y,N,N
+Y,Basanti Sodhani,22,Male,Undergraduation,1,2,2,1,1,1,1,Teacher,N,N,Y,N,N
+N,Nagma Chaudhuri,45,Female,Undergraduation,1,2,2,2,1,1,8,Teacher,N,N,Y,N,N
+Y,Padama Aggarwal,26,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+N,Binita Lanka,45,Male,Undergraduation,2,2,2,2,2,1,8,Teacher,N,N,Y,N,N
+Y,Ambika Sidhu,22,Female,Undergraduation,2,1,2,2,2,1,1,Teacher,N,N,Y,N,N
+Y,Indrani Pranab Kade,44,Male,Undergraduation,2,1,2,2,2,1,7,Teacher,N,N,Y,N,N
+Y,Mukti Khanna,26,Male,Post Graduation,1,2,1,2,2,1,4,Teacher,N,N,Y,N,N
+N,Anjana Din,45,Female,Primary School,3,4,1,4,2,1,8,Teacher,N,N,Y,N,N
+N,Narmada Ehsaan Srinivas,22,Male,High School,1,1,1,1,3,1,1,Teacher,N,N,Y,N,N
+N,Pamela Raju Raval,45,Female,High School,1,1,1,2,2,1,8,Teacher,N,N,Y,N,N
+N,Astha Rana,22,Female,High School,1,1,1,2,2,2,1,Teacher,N,N,Y,N,N
+N,Sara Anil Sane,45,Male,High School,1,1,1,2,2,2,8,Teacher,N,N,Y,N,N
+N,Aarushi Devendra Randhawa,45,Female,High School,1,2,1,2,2,2,8,Teacher,N,N,Y,N,N
+N,Ruchi Chowdhury,48,Male,Undergraduation,2,1,2,2,2,2,8,Teacher,N,N,Y,N,N
+Y,Ritika Pradeep Mittal,24,Female,Post Graduation,1,2,1,2,2,2,1,Teacher,N,N,Y,N,N
+Y,Aishwarya Ramnarine,30,Female,Undergraduation,2,1,2,2,2,3,7,Teacher,N,N,Y,N,N
+Y,Sara Biren Khanna,27,Female,Undergraduation,2,1,2,2,2,3,1,Teacher,N,N,Y,N,N
+N,Payal Iyer,48,Female,High School,1,2,1,2,2,3,6,Teacher,N,N,Y,N,N
+N,Bhairavi Pradhan,27,Female,High School,1,2,1,2,2,0,1,Teacher,N,N,Y,N,N
+N,Sweta Karpe,34,Male,High School,1,2,1,2,2,0,5,Teacher,N,N,Y,N,N
+N,Anshu Monin Narasimhan,30,Female,Primary School,3,4,1,4,2,0,8,Teacher,N,N,Y,N,N
+N,Urmi Charlie Singhal,49,Female,Primary School,3,4,1,4,3,0,6,Teacher,N,N,Y,N,N
+N,Fatima Dugar,41,Female,Primary School,3,4,3,4,3,0,8,Teacher,N,N,Y,N,N
+N,Madhavi Suraj Sankaran,41,Male,Primary School,3,4,3,4,3,0,7,Teacher,N,N,Y,N,N
+N,Riddhi Zahir Bhasin,48,Female,Primary School,3,4,3,4,4,0,6,Teacher,N,N,Y,N,N
+N,Laveena Kant,27,Female,Primary School,3,2,3,4,4,0,1,Teacher,N,N,Y,N,N
+N,Mukti Padmanabhan,41,Female,Primary School,2,2,1,4,4,0,7,Teacher,N,N,Y,N,N
+N,Namita Talwar,27,Female,Primary School,2,1,1,4,4,1,1,Teacher,N,N,Y,N,N
+N,Radha Chauhan,41,Female,Primary School,3,1,1,4,3,1,7,Teacher,N,N,Y,N,N
+N,Vineeta Ujwal Shukla,40,Female,Primary School,5,1,1,4,3,1,6,Teacher,N,N,Y,N,N
+N,Padmini Oommen,48,Female,Primary School,5,1,1,5,2,3,6,Teacher,N,N,Y,N,N
+N,Radha Bal,40,Female,Primary School,3,1,2,3,3,1,7,Teacher,N,N,Y,N,N
+N,Madhavi Dinesh Sunder,27,Female,Primary School,4,1,1,3,3,2,2,Teacher,N,N,Y,N,N
+N,Nancy More,40,Female,High School,2,2,1,2,1,3,7,Teacher,N,N,Y,N,N
+N,Nupoor Vala,40,Female,High School,2,2,1,2,1,3,5,Teacher,N,N,Y,N,N
+N,Devika Aarif Dora,34,Female,High School,2,2,1,2,1,3,5,Teacher,N,N,Y,N,N
+N,Bhairavi Brock Hari,40,Female,High School,2,3,1,2,2,2,4,Teacher,N,N,Y,N,N
+N,Rachel Pranay Naidu,47,Female,High School,2,3,1,2,2,2,6,Teacher,N,N,Y,N,N
+N,Padama Harbhajan Mogul,47,Female,Primary School,4,1,1,3,3,2,6,Executive,N,N,Y,N,N
+N,Anusha Toor,40,Female,Primary School,4,3,1,3,3,2,7,Executive,N,N,Y,N,N
+N,Vineeta Sushant Butala,27,Female,Primary School,4,3,1,3,3,1,2,Executive,N,N,Y,N,N
+N,Hema Radhakrishnan,26,Female,Primary School,4,3,1,3,3,1,2,Executive,N,N,Y,N,N
+N,Nupoor Deep Biyani,48,Female,Primary School,3,3,1,3,2,1,6,Executive,N,N,Y,N,N
+N,Radha David Ratta,38,Female,Primary School,3,3,1,3,2,1,7,Executive,N,N,Y,N,N
+N,Aarushi Kailash Sane,34,Male,Primary School,3,3,3,3,2,1,5,Executive,N,N,Y,N,N
+N,Julie Luthra,38,Female,Primary School,3,3,2,3,2,1,6,Executive,N,N,Y,N,N
+N,Fatima Aarif Nadig,26,Female,Primary School,5,3,2,3,2,1,2,Executive,N,N,Y,N,N
+N,Nishi Wagle,34,Male,Primary School,5,3,2,5,2,3,5,Executive,N,N,Y,N,N
+N,Pamela Dash,38,Female,High School,2,3,1,2,2,3,5,Executive,N,N,Y,N,N
+N,Anshula Srinivas,30,Female,High School,2,3,1,3,2,2,5,Executive,N,N,Y,N,N
+N,Tejaswani Wafiq Kaur,48,Female,High School,2,3,1,3,2,2,6,Executive,N,N,Y,N,N
+N,Aditi Thaman,38,Female,High School,2,3,1,3,2,1,8,Executive,N,N,Y,N,N
+N,Binita Malhotra,48,Female,High School,2,3,1,3,2,1,6,Executive,N,N,Y,N,N
+N,Lata Pradeep Bajwa,38,Female,High School,2,3,3,3,2,1,8,Executive,N,N,Y,N,N
+N,Tejaswani Raj,38,Female,High School,2,3,3,3,1,1,8,Executive,N,N,Y,N,N
+N,Rosey Ramesh,29,Female,Primary School,5,3,2,3,3,1,4,Executive,N,N,Y,N,N
+N,Lalita Dora,31,Female,Primary School,5,3,2,3,3,2,10,Executive,N,N,Y,N,N
+N,Monica Pranab Sahota,31,Female,Primary School,5,3,2,3,3,0,11,Executive,N,N,Y,N,N
+N,Manjari Tabeed Kar,29,Male,Primary School,5,2,2,3,3,0,4,Executive,N,N,Y,N,N
+N,Leela Mathew,29,Female,Primary School,5,2,2,3,3,0,4,Executive,N,N,Y,N,N
+N,Amrita Shere,29,Female,Primary School,3,2,2,3,5,0,4,Executive,N,N,Y,N,N
+N,Hira Guha,31,Female,Primary School,3,2,2,5,5,4,7,Executive,N,N,Y,N,N
+N,Zeenat Batta,29,Female,Primary School,3,2,4,3,5,1,4,Executive,N,N,Y,N,N
+N,Nagma Owais Persad,32,Female,Primary School,3,2,4,5,3,6,7,Executive,N,N,Y,N,N
+N,Nagma Vivek Dhawan,32,Female,Primary School,3,2,4,3,5,0,7,Executive,N,N,Y,N,N
+N,Meghana Baldev Sinha,29,Female,Primary School,2,2,4,3,4,0,4,Executive,N,N,Y,N,N
+N,Nupoor Ramroop,47,Male,Primary School,2,2,1,4,4,0,6,Executive,N,N,Y,N,N
+N,Trishana Mustafa Deshpande,61,Female,Primary School,2,2,1,4,2,5,6,Executive,N,N,Y,N,N
+N,Gunjan Mishra,34,Female,Primary School,2,2,1,4,2,6,3,Executive,N,N,Y,N,N
+N,Urmi Mahabir,61,Female,Primary School,2,2,1,3,3,1,12,Executive,N,N,Y,N,N
+N,Sona Babu,34,Female,High School,2,3,3,2,1,1,3,Executive,N,N,Y,N,N
+N,Mayawati Kuruvilla,34,Male,High School,2,2,3,2,1,3,3,Executive,N,N,Y,N,N
+N,Geetanjali Aadish Saran,45,Female,High School,2,2,2,2,1,1,12,Executive,N,N,Y,N,N
+N,Seema Raghavan Varkey,61,Female,High School,2,2,2,2,1,1,12,Executive,N,N,Y,N,N
+N,Bhaagyasree Gaurav Divan,61,Male,High School,2,2,2,2,1,1,12,Executive,N,N,Y,N,N
+Y,Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,Executive,N,N,Y,N,N
+N,Aruna Dar,61,Female,Undergraduation,1,1,1,2,2,1,12,Executive,N,N,Y,N,N
+N,Neha Sridhar,63,Male,Undergraduation,1,1,1,2,2,1,12,Executive,N,N,Y,N,N
+Y,Ruchi Elias Gokhale,45,Male,Undergraduation,1,1,1,2,2,1,11,Executive,N,N,Y,N,N
+Y,Shweta Kothari,45,Female,Undergraduation,1,1,1,2,2,2,11,Executive,N,N,Y,N,N
+Y,Namita Ratti,39,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+N,Nalini Eddie Bhattacharyya,63,Female,Undergraduation,1,1,1,1,2,2,11,Executive,N,N,Y,N,N
+Y,Neela Aadil Chana,39,Female,Undergraduation,2,1,1,1,2,2,3,Executive,N,N,Y,N,N
+N,Nikita Chand,45,Female,High School,2,2,2,2,2,3,12,Executive,N,N,Y,N,N
+N,Neha Bawa,41,Female,High School,2,2,2,2,2,3,2,Executive,N,N,Y,N,N
+N,Anshula Nigam,29,Female,High School,2,2,2,2,2,3,1,Executive,N,N,Y,N,N
+N,Mini Gopal,41,Female,High School,2,2,2,3,2,0,2,Executive,N,N,Y,N,N
+N,Priyanka Munaf Bir,63,Female,High School,2,2,2,3,2,0,12,Executive,N,N,Y,N,N
+N,Chhaya Zahir Raghavan,29,Female,Primary School,1,2,1,4,3,0,2,Executive,N,N,Y,N,N
+N,Shanti Mann,41,Female,Primary School,1,2,2,4,3,0,1,Executive,N,N,Y,N,N
+N,Rakhi Akhil Agate,45,Female,Primary School,1,2,1,4,3,0,12,Executive,N,N,Y,N,N
+N,Anshu Ratti,29,Female,Primary School,1,2,1,2,3,1,1,Executive,N,N,Y,N,N
+N,Aarti Ehsaan Pandit,63,Male,Primary School,1,2,3,2,2,1,12,Executive,N,N,Y,N,N
+N,Kamini Mander,41,Female,Primary School,1,2,3,2,2,1,1,Executive,N,N,Y,N,N
+N,Babita Sankaran,42,Female,Primary School,1,1,1,2,2,1,5,Executive,N,N,Y,N,N
+N,Ananya Gupta,42,Female,Primary School,1,1,1,2,2,1,5,Executive,N,N,Y,N,N
+N,Anusha Dani,37,Male,Primary School,3,1,1,2,2,2,5,Executive,N,N,Y,N,N
+N,Sona Chaudhry,29,Male,Primary School,3,1,1,2,2,2,2,Executive,N,N,Y,N,N
+N,Indira Rampersaud,31,Female,Primary School,3,3,2,2,2,2,6,Executive,N,N,Y,N,N
+N,Jasmin Jacob,20,Female,High School,2,2,2,3,2,1,1,Executive,N,N,Y,N,N
+N,Amolika Devendra Memon,45,Female,High School,2,2,3,3,2,1,12,Executive,N,N,Y,N,N
+N,Nutan Bail,31,Female,High School,2,2,3,3,2,13,6,Executive,N,N,Y,N,N
+N,Richa Wagle,31,Female,High School,2,3,3,2,2,3,6,Executive,N,N,Y,N,N
+N,Rita Ravel,21,Female,High School,2,3,4,2,2,3,2,Executive,N,N,Y,N,N
+N,Mona Rege,63,Female,High School,2,3,2,2,2,3,12,Executive,N,N,Y,N,N
+N,Radhika Taneja,37,Female,Primary School,3,3,2,4,2,3,6,Executive,N,N,Y,N,N
+N,Babita Munshi,31,Female,Primary School,3,3,2,3,2,3,7,Executive,N,N,Y,N,N
+N,Alka Ekbal Boase,31,Female,Primary School,4,3,1,3,2,3,7,Executive,N,N,Y,N,N
+N,Upasana Ramanathan,20,Female,Primary School,4,3,2,2,3,1,1,Executive,N,N,Y,N,N
+N,Esha Kunda,21,Female,Primary School,4,3,2,2,3,1,2,Executive,N,N,Y,N,N
+N,Esha Mehra,21,Female,Primary School,4,3,2,2,3,1,2,Executive,N,N,Y,N,N
+N,Lata Wafiq Maraj,20,Female,Primary School,4,3,1,4,3,0,1,Executive,N,N,Y,N,N
+N,Samita Vijay,37,Female,Primary School,5,3,2,4,3,0,11,Executive,N,N,Y,N,N
+N,Vijaya Vani,40,Female,Primary School,5,3,1,4,3,0,12,Executive,N,N,Y,N,N
+Y,Vani jeyakumar,24,Female,Undergraduation,2,1,1,1,2,0,2,Executive,N,N,Y,N,N
+Y,Vairali K,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,Vaishnavi Janani,40,Female,Undergraduation,2,1,1,1,1,2,9,Executive,N,N,Y,N,N
+N,Sujatha Ramani,63,Female,Undergraduation,2,1,1,1,1,2,12,Executive,N,N,Y,N,N
+Y,Sujathi rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,Jitendram,24,Male,Undergraduation,1,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,Surya Kumari,37,Female,Post Graduation,1,1,2,1,2,4,9,Executive,N,N,Y,N,N
+N,Soojitha K,63,Female,Post Graduation,1,1,2,1,3,2,12,Executive,N,N,Y,N,N
+Y,Vandhana Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,Executive,N,N,Y,N,N
+Y,Varna Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,Executive,N,N,Y,N,N
+Y,Balambika,24,Female,Post Graduation,2,1,2,1,1,4,2,Executive,N,N,Y,N,N
+Y,Bagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,Baghya Lakshmi,24,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,Triloka varshini,37,Female,Undergraduation,1,2,1,1,2,4,8,Executive,N,N,Y,N,N
+N,Varasidhi K,37,Female,Primary School,5,3,1,3,2,4,7,Executive,N,N,Y,N,N
+N,Megamani,63,Female,Primary School,3,3,2,4,2,1,12,Executive,N,N,Y,N,N
+N,Chandra Kala,40,Female,Primary School,3,3,2,4,2,1,6,Executive,N,N,Y,N,N
+N,Soorya Kala,37,Female,Primary School,3,3,2,4,2,1,6,Executive,N,N,Y,N,N
+N,Narendhiran,28,Male,Primary School,3,3,2,4,3,1,3,Executive,N,N,Y,N,N
+N,Manushree R,32,Female,Primary School,3,3,2,4,3,1,6,Executive,N,N,Y,N,N
+N,Kalai Nayagam,28,Male,Primary School,3,3,2,3,3,1,3,Executive,N,N,Y,N,N
+N,Regna Ramya,32,Female,Primary School,3,2,2,3,3,1,3,Executive,N,N,Y,N,N
+N,Raji Raman,24,Female,High School,2,3,2,2,2,1,3,Executive,N,N,Y,N,N
+N,Lakshmi Vasantham,28,Female,High School,2,3,2,2,1,1,3,Executive,N,N,Y,N,N
+N,Vasanthi Vijay,32,Female,High School,2,3,2,2,1,3,3,Executive,N,N,Y,N,N
+N,Pradeepan ,19,Male,High School,2,3,2,2,1,3,2,Executive,N,N,Y,N,N
+N,Menaka Ravi,24,Female,High School,2,3,2,2,1,2,3,Executive,N,N,Y,N,N
+N,Suleka Raju,24,Female,High School,2,3,2,2,1,2,3,Executive,N,N,Y,N,N
+N,Chitra Babu,24,Female,High School,2,3,2,2,1,2,2,Executive,N,N,Y,N,N
+N,Jeyanthi Natarajan,22,Female,High School,3,3,1,2,1,2,2,Executive,N,N,Y,N,N
+N,Dayanidhi Kumar,32,Female,High School,3,3,1,2,1,4,3,Executive,N,N,Y,N,N
+N,Vageswari Kannan,28,Female,High School,3,3,1,1,1,2,3,Executive,N,N,Y,N,N
+N,Lakshmi Raman,22,Female,High School,3,3,1,1,2,2,4,Executive,N,N,Y,N,N
+N,Kashi Kumari,22,Female,High School,3,2,1,1,2,2,4,Executive,N,N,Y,N,N
+N,Manoshi Gupta,28,Female,High School,2,2,1,1,2,1,3,Executive,N,N,Y,N,N
+N,Ravi Kurram,18,Male,High School,2,2,1,1,2,2,4,Executive,N,N,Y,N,N
+N,Mala Pillai,19,Female,High School,1,2,1,1,2,2,2,Executive,N,N,Y,N,N
+N,Rose Ramani,20,Female,High School,1,2,1,1,1,2,4,Executive,N,N,Y,N,N
+N,Velvizhi Iyer,20,Female,High School,1,2,1,1,1,2,4,Executive,N,N,Y,N,N
+N,Virat Pratap Nadkarni,30,Male,High School,2,2,3,2,2,1,4,Executive,N,N,Y,N,N
+N,Manpreet Date,31,Male,High School,2,2,3,2,2,1,5,Executive,N,N,Y,N,N
+N,Amir Meda,32,Male,High School,2,2,3,2,2,1,6,Executive,N,N,Y,N,N
+N,Pradeep Kumar Sarna,33,Male,High School,2,2,3,2,2,1,6,Executive,N,N,Y,N,N
+N,Atul Pratap Brahmbhatt,34,Male,High School,2,2,2,2,2,1,7,Executive,N,N,Y,N,N
+N,Baalkrishan Kumar Mann,28,Male,High School,2,2,2,2,3,1,3,Executive,N,N,Y,N,N
+Y,Suresh Sid Pradhan,33,Male,Undergraduation,1,2,2,1,2,1,5,Executive,N,N,Y,N,N
+Y,Lalit Jamshed Meka,33,Male,Undergraduation,1,2,2,1,2,3,10,Executive,N,N,Y,N,N
+Y,Satish Singh Kata,33,Male,Undergraduation,1,2,2,1,2,1,6,Executive,N,N,Y,N,N
+Y,Abhinav Bhai Gagrani,35,Male,Undergraduation,2,2,2,1,2,2,9,Executive,N,N,Y,N,N
+Y,Vijay Pravin Sarma,28,Male,Undergraduation,2,2,2,2,2,3,2,Executive,N,N,Y,N,N
+N,Umesh Naik,28,Male,High School,2,2,2,2,3,3,4,Executive,N,N,Y,N,N
+N,Elias Nadig,35,Male,High School,2,2,2,2,3,3,8,Executive,N,N,Y,N,N
+N,Kamlesh Chitranjan Mohan,35,Male,High School,3,2,2,2,3,2,8,Executive,N,N,Y,N,N
+N,Karim Upadhyay,35,Male,High School,3,2,2,3,2,2,7,Executive,N,N,Y,N,N
+N,Biren Biyani,28,Male,High School,3,2,2,3,2,2,4,Executive,N,N,Y,N,N
+N,Balaji Karnik,41,Male,High School,3,2,2,3,2,2,7,Executive,N,N,Y,N,N
+N,Ghanshyam Natarajan,41,Male,Primary School,4,3,2,3,3,1,4,Executive,N,N,Y,N,N
+N,Rajendra Mohanty,41,Male,Primary School,3,4,3,4,3,1,4,Executive,N,N,Y,N,N
+N,Devendra Venkat Kohli,41,Male,Primary School,4,2,3,4,2,1,8,Executive,N,N,Y,N,N
+N,Jaswant Bhai Chohan,41,Male,High School,3,2,2,3,2,1,8,Executive,N,N,Y,N,N
+N,Iqbal Bhai Badal,28,Male,High School,2,4,1,3,2,1,2,Executive,N,N,Y,N,N
+N,Kalyan Mand,40,Male,High School,2,3,1,3,2,1,8,Executive,N,N,Y,N,N
+N,Naseer Pratap Deo,40,Male,High School,2,3,1,3,2,1,8,Executive,N,N,Y,N,N
+N,Akhil Khalsa,40,Male,High School,2,3,1,3,2,3,6,Executive,N,N,Y,N,N
+Y,Vijay Swaminathan,28,Male,Undergraduation,2,2,2,2,2,3,3,Executive,N,N,Y,N,N
+Y,Raghavan Bhai Nadkarni,40,Male,Undergraduation,2,2,1,2,2,2,6,Executive,N,N,Y,N,N
+Y,Atul Prasad Nagarajan,40,Male,Undergraduation,2,2,1,2,2,2,6,Executive,N,N,Y,N,N
+Y,Atul Majumdar,40,Male,Undergraduation,1,3,1,2,2,1,6,Executive,N,N,Y,N,N
+Y,Bahadur Pratap Dixit,40,Male,Undergraduation,1,3,1,2,2,1,6,Executive,N,N,Y,N,N
+Y,Jawahar Pranay Sagar,38,Male,Undergraduation,2,3,1,2,2,1,11,Executive,N,N,Y,N,N
+Y,Rahim Dev Sangha,38,Male,Undergraduation,2,3,1,1,2,1,8,Executive,N,N,Y,N,N
+Y,Satish Lal Srinivasan,28,Male,Undergraduation,2,1,1,1,2,1,3,Executive,N,N,Y,N,N
+Y,Baldev Tank,38,Male,Undergraduation,1,1,2,1,2,11,8,Executive,N,N,Y,N,N
+Y,Habib Ramesh,28,Male,Undergraduation,1,1,2,1,2,0,1,Executive,N,N,Y,N,N
+Y,Raghavan Dev Seshadri,38,Male,Undergraduation,1,1,2,1,1,0,9,Executive,N,N,Y,N,N
+Y,Naseer Ram,28,Male,Undergraduation,1,1,2,1,1,0,1,Executive,N,N,Y,N,N
+Y,Manpreet Morar,28,Male,Undergraduation,2,1,2,1,1,0,4,Executive,N,N,Y,N,N
+Y,Chinmay Kumar Vasa,38,Male,Undergraduation,2,1,2,1,1,4,3,Executive,N,N,Y,N,N
+Y,Satishwar Elias Apte,38,Male,Undergraduation,2,1,2,1,1,1,3,Executive,N,N,Y,N,N
+Y,Gauransh Prasad Deshpande,28,Male,Post Graduation,1,2,1,2,2,6,4,Executive,N,N,Y,N,N
+N,Faisal Somani,38,Male,High School,2,3,1,3,2,0,6,Executive,N,N,Y,N,N
+N,Arun Hari,38,Male,High School,2,3,2,3,2,0,2,Executive,N,N,Y,N,N
+N,Mohan Lal Prasad,38,Male,High School,3,3,2,2,2,0,7,Executive,N,N,Y,N,N
+N,Ehsaan Raj Sha,40,Male,High School,3,3,2,2,2,5,7,Executive,N,N,Y,N,N
+N,Moti Raj Hegde,40,Male,High School,3,3,2,2,1,6,9,Executive,N,N,Y,N,N
+N,Devendra Nagy,40,Male,High School,3,3,2,2,1,1,9,Executive,N,N,Y,N,N
+N,"Aniruddh Nawab, Ganesan",40,Male,High School,3,3,2,2,1,1,4,Executive,N,N,Y,N,N
+N,Qabool Iyengar,28,Male,High School,3,3,2,2,1,3,3,Executive,N,N,Y,N,N
+N,Rupesh Wagle,21,Male,High School,3,3,2,2,1,1,3,Executive,N,N,Y,N,N
+N,Kalpit Bhai Lata,40,Male,High School,3,3,2,2,1,1,4,Executive,N,N,Y,N,N
+N,Radhe Raj Bera,40,Male,High School,3,3,2,2,1,1,4,Executive,N,N,Y,N,N
+N,Jamshed Hrishikesh Kamdar,40,Male,High School,3,3,2,1,1,1,4,Executive,N,N,Y,N,N
+N,Mustafa Singh De,21,Male,High School,3,3,2,1,1,1,3,Executive,N,N,Y,N,N
+N,Ishat Dev Sharaf,40,Male,High School,3,3,2,1,1,1,7,Executive,N,N,Y,N,N
+Y,Baber Palla,40,Male,Undergraduation,1,2,1,3,1,1,7,Executive,N,N,Y,N,N
+Y,Jagat Swamy,26,Male,Undergraduation,1,2,1,3,1,2,3,Executive,N,N,Y,N,N
+Y,Manish Lanka,44,Male,Undergraduation,1,2,1,3,1,2,7,Executive,N,N,Y,N,N
+Y,Lalit Chander,28,Male,Undergraduation,1,2,1,2,1,2,12,Executive,N,N,Y,N,N
+N,Obaid Krish,61,Male,Primary School,3,2,2,3,4,2,14,Executive,N,N,Y,N,N
+N,Mowgli Venkataraman,62,Male,Primary School,3,3,2,4,2,2,19,Executive,N,N,Y,N,N
+N,Karim Mitesh Doctor,61,Male,Primary School,4,3,2,4,2,3,16,Executive,N,N,Y,N,N
+Y,Naval Jacob,28,Male,Undergraduation,1,2,2,2,1,3,8,Executive,N,N,Y,N,N
+Y,Binoya Rao Soni,28,Male,Undergraduation,1,3,3,2,1,3,7,Executive,N,N,Y,N,N
+Y,Aatif Oak,23,Male,Undergraduation,1,3,3,1,1,0,15,Executive,N,N,Y,N,N
+Y,Ehsaan Gala,53,Male,Undergraduation,2,3,3,1,1,0,5,Executive,N,N,Y,N,N
+N,David Bhai Patel,53,Male,High School,3,2,2,1,1,0,19,Executive,N,N,Y,N,N
+N,Chitranjan Apte,61,Male,High School,3,2,2,1,1,0,13,Executive,N,N,Y,N,N
+N,Ghalib Chad,53,Male,High School,3,2,2,1,1,0,6,Executive,N,N,Y,N,N
+N,Nayan Bhai Palan,61,Male,High School,3,2,3,1,1,0,17,Executive,N,N,Y,N,N
+N,Raju Raval,61,Male,Primary School,4,3,2,4,4,0,13,Executive,N,N,Y,N,N
+N,Biren Kohli,32,Male,Primary School,4,3,2,4,4,0,7,Executive,N,N,Y,N,N
+N,Rajendra Malpani,53,Male,High School,3,2,3,1,2,0,7,Executive,N,N,Y,N,N
+N,Albert Aniruddh Gokhale,61,Male,High School,3,2,3,1,2,1,30,Executive,N,N,Y,N,N
+N,Ricky Pratap Master,61,Male,High School,3,2,3,1,2,1,20,Executive,N,N,Y,N,N
+N,Nirmal Yogesh Chowdhury,64,Male,High School,3,2,3,1,2,1,25,Executive,N,N,Y,N,N
+N,Arjun Ram Naik,53,Male,High School,3,2,2,1,2,3,8,Executive,N,N,Y,N,N
+N,Eddie Ram Masih,32,Male,Primary School,4,3,2,4,1,1,7,Executive,N,N,Y,N,N
+N,Shashank Lal Edwin,64,Male,Primary School,4,3,2,4,1,2,30,Executive,N,N,Y,N,N
+N,Sai Pratap Borra,57,Male,Primary School,3,2,2,3,2,3,9,Executive,N,N,Y,N,N
+N,Anees Rastogi,64,Male,Primary School,3,2,2,3,2,3,23,Executive,N,N,Y,N,N
+N,Brock Jhaveri,32,Male,Primary School,3,2,2,3,2,3,6,Executive,N,N,Y,N,N
+N,Chinmay Darpan Ramkissoon,57,Male,Primary School,3,2,2,4,1,2,9,Executive,N,N,Y,N,N
+N,Dinesh Rupal Acharya,64,Male,Primary School,3,2,2,4,1,2,22,Executive,N,N,Y,N,N
+N,Ehsaan Qadim Kari,64,Male,Primary School,3,2,2,5,1,2,21,Executive,N,N,Y,N,N
+N,Parveen Chandra Dugar,57,Male,Primary School,3,2,2,5,1,2,20,Executive,N,N,Y,N,N
+N,Rahim Kar,57,Male,Primary School,3,2,4,5,3,1,21,Executive,N,N,Y,N,N
+N,Brock Viswanathan,44,Male,Primary School,2,2,4,5,3,1,7,Executive,N,N,Y,N,N
+N,Chitranjan Rao Bera,64,Male,Primary School,2,1,4,5,3,1,20,Executive,N,N,Y,N,N
+N,Rashid Din,44,Male,Primary School,2,1,4,4,3,1,8,Executive,N,N,Y,N,N
+N,Baalkrishan Sarraf,64,Male,Primary School,4,1,4,4,3,1,19,Executive,N,N,Y,N,N
+N,Ratan Kalla,44,Male,Primary School,4,1,4,3,3,1,9,Executive,N,N,Y,N,N
+N,Omar Prasad Sant,64,Male,Primary School,3,1,4,3,3,1,18,Executive,N,N,Y,N,N
+N,Ajay Saurabh Bhattacharyya,70,Male,Primary School,3,1,4,3,2,3,17,Executive,N,N,Y,N,N
+N,Mitesh Bijoy Pradhan,26,Male,Primary School,3,1,3,3,2,3,3,Executive,N,N,Y,N,N
+N,Rupesh Ram Parekh,57,Male,Primary School,3,1,3,3,3,2,9,Executive,N,N,Y,N,N
+N,Ishat Gajendra Varma,48,Male,Primary School,3,1,3,3,3,2,29,Executive,N,N,Y,N,N
+N,Aslam Raj Sandhu,57,Male,Primary School,3,1,3,3,3,1,11,Executive,N,N,Y,N,N
+N,Ganesh Harbhajan Masih,57,Male,Primary School,3,1,3,3,3,1,13,Executive,N,N,Y,N,N
+N,Manish Lal Amble,51,Male,Primary School,3,1,3,3,3,1,8,Executive,N,N,Y,N,N
+N,Mani Ramam,51,Male,Primary School,3,1,3,3,3,1,7,Executive,N,N,Y,N,N
+N,Niyati Jagdish Prakash,28,Female,High School,3,2,2,1,3,1,7,Executive,N,N,Y,N,N
+N,Prabha Yash Ramnarine,49,Male,High School,2,2,2,1,3,11,29,Executive,N,N,Y,N,N
+N,Padmini Pravin Mall,28,Female,High School,2,2,1,1,3,0,3,Executive,N,N,Y,N,N
+N,Sushmita Murty,50,Male,High School,2,2,2,1,3,0,23,Executive,N,N,Y,N,N
+N,Sushmita Kashyap,62,Female,High School,2,2,1,1,3,0,22,Executive,N,N,Y,N,N
+N,Leelawati Dada,28,Male,High School,2,2,2,1,1,0,11,Executive,N,N,Y,N,N
+N,Amolika Ratan Talwar,28,Female,High School,2,2,1,1,1,4,10,Executive,N,N,Y,N,N
+N,Zara Amir Luthra,62,Female,High School,2,2,1,1,1,1,34,Executive,N,N,Y,N,N
+N,Esha Tripathi,26,Male,High School,2,2,2,1,1,6,1,Executive,N,N,Y,N,N
+N,Aisha Kothari,44,Male,High School,2,2,2,2,1,0,6,Executive,N,N,Y,N,N
+N,Naina Jack Rattan,50,Male,High School,2,2,2,2,1,0,8,Executive,N,N,Y,N,N
+N,Prabha Wason,60,Male,High School,2,2,2,2,1,0,7,Executive,N,N,Y,N,N
+N,Shanti Rajagopal,62,Female,High School,2,2,1,2,1,5,34,Executive,N,N,Y,N,N
+N,Rita Ratta,59,Female,High School,1,2,1,2,1,6,6,Executive,N,N,Y,N,N
+N,Sona Mitter,23,Female,High School,1,2,1,2,1,1,4,Executive,N,N,Y,N,N
+N,Heena Puri,25,Male,High School,1,2,1,2,1,1,4,Executive,N,N,Y,N,N
+N,Nikita Seshadri,25,Female,High School,1,2,1,2,1,3,4,Executive,N,N,Y,N,N
+N,Padama Darpan Pal,25,Male,High School,1,2,1,2,1,1,4,Executive,N,N,Y,N,N
+N,Ambika Siddharth Mistry,50,Female,High School,1,2,1,2,2,1,4,Executive,N,N,Y,N,N
+N,Vineeta Varma,25,Female,High School,1,1,1,2,2,1,4,Executive,N,N,Y,N,N
+N,Anusha Naseer Deo,54,Female,High School,1,1,1,2,1,1,10,Executive,N,N,Y,N,N
+N,Nandini Savant,25,Male,High School,1,1,1,3,1,1,4,Executive,N,N,Y,N,N
+N,Upasana Sarna,25,Male,High School,1,1,2,3,1,1,4,Executive,N,N,Y,N,N
+N,Aabha Gole,59,Female,High School,1,1,1,3,1,1,9,Executive,N,N,Y,N,N
+N,Nalini Jobin Dar,25,Female,High School,1,1,1,3,1,2,3,Executive,N,N,Y,N,N
+N,Akhila Kunda,52,Female,High School,1,1,1,3,1,2,9,Executive,N,N,Y,N,N
+N,Sameedha Purohit,50,Male,High School,1,1,1,3,1,2,9,Executive,N,N,Y,N,N
+N,Aarti Faraz Kota,55,Male,Primary School,3,1,3,3,3,2,8,Executive,N,N,Y,N,N
+N,Komal Desai,23,Male,Primary School,3,1,3,3,3,2,3,Executive,N,N,Y,N,N
+N,Yasmin Ramachandran,53,Female,Primary School,3,1,3,4,2,3,8,Executive,N,N,Y,N,N
+N,Kiran Vaidya,23,Female,Primary School,3,1,3,3,2,3,3,Executive,N,N,Y,N,N
+N,Upasana Sem,50,Female,Primary School,3,3,2,3,2,3,8,Executive,N,N,Y,N,N
+N,Nidhi Meka,23,Male,Primary School,3,3,2,4,4,0,3,Executive,N,N,Y,N,N
+N,Devika Jani,54,Female,High School,2,1,1,3,1,0,8,Executive,N,N,Y,N,N
+N,Bagwati Narayan,23,Male,High School,2,2,2,2,1,0,3,Executive,N,N,Y,N,N
+Y,Nancy Konda,23,Male,Undergraduation,2,3,3,1,1,0,3,Executive,N,N,Y,N,N
+Y,Roma Dhiraj Amble,44,Male,Undergraduation,2,3,3,1,1,0,6,Executive,N,N,Y,N,N
+Y,Rachel Abbas Mangal,53,Female,Undergraduation,2,3,3,1,1,0,8,Executive,N,N,Y,N,N
+N,Sushmita Walia,55,Female,Undergraduation,1,3,3,1,1,0,8,Executive,N,N,Y,N,N
+N,Mukti Harjo,50,Female,Primary School,3,3,2,4,4,0,8,Executive,N,N,Y,N,N
+N,Rita Shere,52,Female,Primary School,3,3,2,4,4,0,8,Executive,N,N,Y,N,N
+N,Julie Varma,52,Female,Primary School,3,3,2,2,3,1,9,Executive,N,N,Y,N,N
+N,Yamini Chaudhari,55,Male,Primary School,3,3,2,3,3,1,9,Executive,N,N,Y,N,N
+N,Pooja Qabeel Mander,50,Female,High School,2,2,1,2,1,1,9,Executive,N,N,Y,N,N
+N,Alpa Munaf Ganguly,52,Female,High School,2,2,1,2,1,3,9,Executive,N,N,Y,N,N
+N,Astha Ganesan,52,Female,High School,2,2,1,2,1,1,9,Executive,N,N,Y,N,N
+N,Julie Koshy,55,Female,High School,2,2,1,2,1,2,9,Executive,N,N,Y,N,N
+N,Amrita Anand Manda,50,Female,High School,2,2,1,2,1,3,9,Executive,N,N,Y,N,N
+N,Jyoti Sarna,28,Female,High School,2,2,1,2,1,3,4,Executive,N,N,Y,N,N
+N,Bhaagyasree Shere,21,Male,High School,2,2,2,2,1,3,2,Executive,N,N,Y,N,N
+N,Kamini Doshi,28,Female,Primary School,3,3,1,3,3,2,4,Executive,N,N,Y,N,N
+N,Chandni Balaji Seshadri,28,Male,Primary School,3,3,1,3,3,2,4,Executive,N,N,Y,N,N
+N,Ambika Khalsa,28,Female,Primary School,2,3,1,3,3,2,4,Executive,N,N,Y,N,N
+N,Kajol Chandran,46,Female,Primary School,2,3,1,3,3,2,9,Executive,N,N,Y,N,N
+N,Kalpana Pradeep Narain,46,Male,Primary School,2,3,1,4,2,1,7,Executive,N,N,Y,N,N
+N,Vimala Pandey,46,Male,Primary School,2,2,1,4,2,1,7,Executive,N,N,Y,N,N
+N,Rachel Loke,46,Female,Primary School,2,2,1,4,2,1,7,Executive,N,N,Y,N,N
+N,Rohini Naseer Halder,21,Male,Primary School,3,2,1,4,2,1,2,Executive,N,N,Y,N,N
+N,Mridula Aurora,21,Male,Primary School,3,2,1,4,2,1,2,Executive,N,N,Y,N,N
+N,Parminder Prashad,47,Female,Primary School,3,2,1,4,2,1,7,Executive,N,N,Y,N,N
+N,Bhairavi Sagar,47,Female,Primary School,3,2,1,4,2,1,7,Executive,N,N,Y,N,N
+N,Aishwarya Behl,47,Female,Primary School,3,2,3,3,3,3,7,Executive,N,N,Y,N,N
+N,Hira Manpreet Datta,21,Female,Primary School,3,2,3,5,3,3,2,Executive,N,N,Y,N,N
+N,Madhavi Brock Arya,47,Female,Primary School,3,2,1,4,2,2,7,Executive,N,N,Y,N,N
+N,Amrita Qadim Thakkar,47,Female,Primary School,3,2,1,3,2,2,7,Executive,N,N,Y,N,N
+N,Krishna Hayre,47,Female,High School,2,2,1,2,3,1,7,Executive,N,N,Y,N,N
+N,Trishana Mahal,21,Female,High School,2,2,1,2,3,1,2,Executive,N,N,Y,N,N
+N,Divya Narayan,48,Male,High School,2,2,1,2,3,1,7,Executive,N,N,Y,N,N
+N,Shanti Rajagopalan,45,Male,High School,2,2,1,2,2,1,7,Executive,N,N,Y,N,N
+N,Nitika Mukund Dalal,45,Female,High School,2,2,1,2,2,1,7,Executive,N,N,Y,N,N
+N,Vineeta Somnath Sachdev,44,Male,High School,2,2,1,2,2,11,6,Executive,N,N,Y,N,N
+N,Lalita More,44,Male,High School,2,2,1,2,2,0,7,Executive,N,N,Y,N,N
+N,Kalyani Narang,45,Male,High School,2,2,1,2,2,0,7,Executive,N,N,Y,N,N
+N,Esha Agarwal,45,Female,High School,1,2,1,2,2,0,8,Executive,N,N,Y,N,N
+N,Riya Bassi,21,Male,High School,1,2,1,1,2,0,1,Executive,N,N,Y,N,N
+N,Himani Char,21,Female,High School,1,2,2,1,2,4,1,Executive,N,N,Y,N,N
+N,Jyoti Qadim Grover,45,Male,High School,1,2,2,1,2,1,8,Executive,N,N,Y,N,N
+N,Juhi Deepesh Chowdhury,21,Male,High School,1,2,2,1,2,6,1,Executive,N,N,Y,N,N
+N,Indrani Kalpit Chakrabarti,45,Male,High School,1,1,1,1,2,0,8,Executive,N,N,Y,N,N
+N,Hina Kabeer Buch,21,Female,High School,1,1,1,1,3,0,1,Executive,N,N,Y,N,N
+N,Ankita Nanda,45,Female,High School,1,1,1,1,3,0,8,Executive,N,N,Y,N,N
+N,Kiran Nayar,45,Female,High School,1,1,1,1,3,5,8,Executive,N,N,Y,N,N
+N,Madhu Deepesh Randhawa,26,Male,High School,1,1,2,1,3,6,2,Executive,N,N,Y,N,N
+Y,Basanti Sodhani,22,Male,Undergraduation,1,2,2,1,1,1,1,Executive,N,N,Y,N,N
+Y,Nagma Chaudhuri,45,Female,Undergraduation,1,2,2,2,1,1,8,Executive,N,N,Y,N,N
+Y,Padama Aggarwal,26,Male,Undergraduation,2,2,2,2,2,3,2,Executive,N,N,Y,N,N
+Y,Binita Lanka,45,Male,Undergraduation,2,2,2,2,2,1,8,Executive,N,N,Y,N,N
+Y,Ambika Sidhu,22,Female,Undergraduation,2,1,2,2,2,1,1,Executive,N,N,Y,N,N
+Y,Indrani Pranab Kade,44,Male,Undergraduation,2,1,2,2,2,1,7,Executive,N,N,Y,N,N
+Y,Mukti Khanna,26,Male,Post Graduation,1,2,1,2,2,1,4,Executive,N,N,Y,N,N
+N,Anjana Din,45,Female,Primary School,3,4,1,4,2,1,8,Executive,N,N,Y,N,N
+N,Narmada Ehsaan Srinivas,22,Male,High School,1,1,1,1,3,1,1,Executive,N,N,Y,N,N
+N,Pamela Raju Raval,45,Female,High School,1,1,1,2,2,1,8,Executive,N,N,Y,N,N
+N,Astha Rana,22,Female,High School,1,1,1,2,2,2,1,Executive,N,N,Y,N,N
+N,Sara Anil Sane,45,Male,High School,1,1,1,2,2,2,8,Executive,N,N,Y,N,N
+N,Aarushi Devendra Randhawa,45,Female,High School,1,2,1,2,2,2,8,Executive,N,N,Y,N,N
+Y,Ruchi Chowdhury,48,Male,Undergraduation,2,1,2,2,2,2,8,Executive,N,N,Y,N,N
+Y,Ritika Pradeep Mittal,24,Female,Post Graduation,1,2,1,2,2,2,1,Executive,N,N,Y,N,N
+Y,Aishwarya Ramnarine,30,Female,Undergraduation,2,1,2,2,2,3,7,Executive,N,N,Y,N,N
+Y,Sara Biren Khanna,27,Female,Undergraduation,2,1,2,2,2,3,1,Executive,N,N,Y,N,N
+N,Payal Iyer,48,Female,High School,1,2,1,2,2,3,6,Executive,N,N,Y,N,N
+N,Bhairavi Pradhan,27,Female,High School,1,2,1,2,2,0,1,Executive,N,N,Y,N,N
+N,Sweta Karpe,34,Male,High School,1,2,1,2,2,0,5,Executive,N,N,Y,N,N
+N,Anshu Monin Narasimhan,30,Female,Primary School,3,4,1,4,2,0,8,Executive,N,N,Y,N,N
+N,Urmi Charlie Singhal,49,Female,Primary School,3,4,1,4,3,0,6,Executive,N,N,Y,N,N
+N,Fatima Dugar,41,Female,Primary School,3,4,3,4,3,0,8,Executive,N,N,Y,N,N
+N,Madhavi Suraj Sankaran,41,Male,Primary School,3,4,3,4,3,0,7,Executive,N,N,Y,N,N
+N,Riddhi Zahir Bhasin,48,Female,Primary School,3,4,3,4,4,0,6,Executive,N,N,Y,N,N
+N,Laveena Kant,27,Female,Primary School,3,2,3,4,4,0,1,Executive,N,N,Y,N,N
+N,Mukti Padmanabhan,41,Female,Primary School,2,2,1,4,4,0,7,Executive,N,N,Y,N,N
+N,Namita Talwar,27,Female,Primary School,2,1,1,4,4,1,1,Executive,N,N,Y,N,N
+N,Radha Chauhan,41,Female,Primary School,3,1,1,4,3,1,7,Executive,N,N,Y,N,N
+N,Vineeta Ujwal Shukla,40,Female,Primary School,5,1,1,4,3,1,6,Executive,N,N,Y,N,N
+N,Padmini Oommen,48,Female,Primary School,5,1,1,5,2,3,6,Executive,N,N,Y,N,N
+N,Radha Bal,40,Female,Primary School,3,1,2,3,3,1,7,Executive,N,N,Y,N,N
+N,Madhavi Dinesh Sunder,27,Female,Primary School,4,1,1,3,3,2,2,Executive,N,N,Y,N,N
+N,Nancy More,40,Female,High School,2,2,1,2,1,3,7,Executive,N,N,Y,N,N
+N,Nupoor Vala,40,Female,High School,2,2,1,2,1,3,5,Executive,N,N,Y,N,N
+N,Devika Aarif Dora,34,Female,High School,2,2,1,2,1,3,5,Executive,N,N,Y,N,N
+N,Bhairavi Brock Hari,40,Female,High School,2,3,1,2,2,2,4,Executive,N,N,Y,N,N
+N,Rachel Pranay Naidu,47,Female,High School,2,3,1,2,2,2,6,Executive,N,N,Y,N,N
+N,Padama Harbhajan Mogul,47,Female,Primary School,4,1,1,3,3,2,6,Security Guard,N,N,N,Y,N
+N,Anusha Toor,40,Female,Primary School,4,3,1,3,3,2,7,Security Guard,N,N,N,Y,N
+N,Vineeta Sushant Butala,27,Female,Primary School,4,3,1,3,3,1,2,Security Guard,N,N,N,Y,N
+N,Hema Radhakrishnan,26,Female,Primary School,4,3,1,3,3,1,2,Security Guard,N,N,N,Y,N
+N,Nupoor Deep Biyani,48,Female,Primary School,3,3,1,3,2,1,6,Security Guard,N,N,N,Y,N
+N,Radha David Ratta,38,Female,Primary School,3,3,1,3,2,1,7,Security Guard,N,N,N,Y,N
+N,Aarushi Kailash Sane,34,Male,Primary School,3,3,3,3,2,1,5,Security Guard,N,N,N,Y,N
+N,Julie Luthra,38,Female,Primary School,3,3,2,3,2,1,6,Security Guard,N,N,N,Y,N
+N,Fatima Aarif Nadig,26,Female,Primary School,5,3,2,3,2,1,2,Security Guard,N,N,N,Y,N
+N,Nishi Wagle,34,Male,Primary School,5,3,2,5,2,3,5,Security Guard,N,N,N,Y,N
+N,Pamela Dash,38,Female,High School,2,3,1,2,2,3,5,Security Guard,N,N,N,Y,N
+N,Anshula Srinivas,30,Female,High School,2,3,1,3,2,2,5,Security Guard,N,N,N,Y,N
+N,Tejaswani Wafiq Kaur,48,Female,High School,2,3,1,3,2,2,6,Security Guard,N,N,N,Y,N
+N,Aditi Thaman,38,Female,High School,2,3,1,3,2,1,8,Security Guard,N,N,N,Y,N
+N,Binita Malhotra,48,Female,High School,2,3,1,3,2,1,6,Security Guard,N,N,N,Y,N
+N,Lata Pradeep Bajwa,38,Female,High School,2,3,3,3,2,1,8,Security Guard,N,N,N,Y,N
+N,Tejaswani Raj,38,Female,High School,2,3,3,3,1,1,8,Security Guard,N,N,N,Y,N
+N,Rosey Ramesh,29,Female,Primary School,5,3,2,3,3,1,4,Security Guard,N,N,N,Y,N
+N,Lalita Dora,31,Female,Primary School,5,3,2,3,3,2,10,Security Guard,N,N,N,Y,N
+N,Monica Pranab Sahota,31,Female,Primary School,5,3,2,3,3,0,11,Security Guard,N,N,N,Y,N
+N,Manjari Tabeed Kar,29,Male,Primary School,5,2,2,3,3,0,4,Security Guard,N,N,N,Y,N
+N,Leela Mathew,29,Female,Primary School,5,2,2,3,3,0,4,Security Guard,N,N,N,Y,N
+N,Amrita Shere,29,Female,Primary School,3,2,2,3,5,0,4,Security Guard,N,N,N,Y,N
+N,Hira Guha,31,Female,Primary School,3,2,2,5,5,4,7,Security Guard,N,N,N,Y,N
+N,Zeenat Batta,29,Female,Primary School,3,2,4,3,5,1,4,Security Guard,N,N,N,Y,N
+N,Nagma Owais Persad,32,Female,Primary School,3,2,4,5,3,6,7,Security Guard,N,N,N,Y,N
+N,Nagma Vivek Dhawan,32,Female,Primary School,3,2,4,3,5,0,7,Security Guard,N,N,N,Y,N
+N,Meghana Baldev Sinha,29,Female,Primary School,2,2,4,3,4,0,4,Security Guard,N,N,N,Y,N
+N,Nupoor Ramroop,47,Male,Primary School,2,2,1,4,4,0,6,Security Guard,N,N,N,Y,N
+N,Trishana Mustafa Deshpande,61,Female,Primary School,2,2,1,4,2,5,6,Security Guard,N,N,N,Y,N
+N,Gunjan Mishra,34,Female,Primary School,2,2,1,4,2,6,3,Security Guard,N,N,N,Y,N
+N,Urmi Mahabir,61,Female,Primary School,2,2,1,3,3,1,12,Security Guard,N,N,N,Y,N
+N,Sona Babu,34,Female,High School,2,3,3,2,1,1,3,Security Guard,N,N,N,Y,N
+N,Mayawati Kuruvilla,34,Male,High School,2,2,3,2,1,3,3,Security Guard,N,N,N,Y,N
+N,Geetanjali Aadish Saran,45,Female,High School,2,2,2,2,1,1,12,Security Guard,N,N,N,Y,N
+N,Seema Raghavan Varkey,61,Female,High School,2,2,2,2,1,1,12,Security Guard,N,N,N,Y,N
+N,Bhaagyasree Gaurav Divan,61,Male,High School,2,2,2,2,1,1,12,Security Guard,N,N,N,Y,N
+N,Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,Security Guard,N,N,N,Y,N
+N,Aruna Dar,61,Female,Undergraduation,1,1,1,2,2,1,12,Security Guard,N,N,N,Y,N
+N,Neha Sridhar,63,Male,Undergraduation,1,1,1,2,2,1,12,Security Guard,N,N,N,Y,N
+N,Ruchi Elias Gokhale,45,Male,Undergraduation,1,1,1,2,2,1,11,Security Guard,N,N,N,Y,N
+N,Shweta Kothari,45,Female,Undergraduation,1,1,1,2,2,2,11,Security Guard,N,N,N,Y,N
+N,Namita Ratti,39,Female,Undergraduation,1,1,1,1,2,2,3,Security Guard,N,N,N,Y,N
+N,Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,Security Guard,N,N,N,Y,N
+N,Nalini Eddie Bhattacharyya,63,Female,Undergraduation,1,1,1,1,2,2,11,Security Guard,N,N,N,Y,N
+N,Neela Aadil Chana,39,Female,Undergraduation,2,1,1,1,2,2,3,Security Guard,N,N,N,Y,N
+N,Nikita Chand,45,Female,High School,2,2,2,2,2,3,12,Security Guard,N,N,N,Y,N
+N,Neha Bawa,41,Female,High School,2,2,2,2,2,3,2,Security Guard,N,N,N,Y,N
+N,Anshula Nigam,29,Female,High School,2,2,2,2,2,3,1,Security Guard,N,N,N,Y,N
+N,Mini Gopal,41,Female,High School,2,2,2,3,2,0,2,Security Guard,N,N,N,Y,N
+N,Priyanka Munaf Bir,63,Female,High School,2,2,2,3,2,0,12,Security Guard,N,N,N,Y,N
+N,Chhaya Zahir Raghavan,29,Female,Primary School,1,2,1,4,3,0,2,Security Guard,N,N,N,Y,N
+N,Shanti Mann,41,Female,Primary School,1,2,2,4,3,0,1,Security Guard,N,N,N,Y,N
+N,Rakhi Akhil Agate,45,Female,Primary School,1,2,1,4,3,0,12,Security Guard,N,N,N,Y,N
+N,Anshu Ratti,29,Female,Primary School,1,2,1,2,3,1,1,Security Guard,N,N,N,Y,N
+Y,Aarti Ehsaan Pandit,63,Male,Primary School,1,2,3,2,2,1,12,Security Guard,N,N,N,Y,N
+N,Kamini Mander,41,Female,Primary School,1,2,3,2,2,1,1,Security Guard,N,N,N,Y,N
+N,Babita Sankaran,42,Female,Primary School,1,1,1,2,2,1,5,Security Guard,N,N,N,Y,N
+N,Ananya Gupta,42,Female,Primary School,1,1,1,2,2,1,5,Security Guard,N,N,N,Y,N
+N,Anusha Dani,37,Male,Primary School,3,1,1,2,2,2,5,Security Guard,N,N,N,Y,N
+N,Sona Chaudhry,29,Male,Primary School,3,1,1,2,2,2,2,Security Guard,N,N,N,Y,N
+N,Indira Rampersaud,31,Female,Primary School,3,3,2,2,2,2,6,Security Guard,N,N,N,Y,N
+N,Jasmin Jacob,20,Female,High School,2,2,2,3,2,1,1,Security Guard,N,N,N,Y,N
+N,Amolika Devendra Memon,45,Female,High School,2,2,3,3,2,1,12,Security Guard,N,N,N,Y,N
+N,Nutan Bail,31,Female,High School,2,2,3,3,2,13,6,Security Guard,N,N,N,Y,N
+N,Richa Wagle,31,Female,High School,2,3,3,2,2,3,6,Security Guard,N,N,N,Y,N
+N,Rita Ravel,21,Female,High School,2,3,4,2,2,3,2,Security Guard,N,N,N,Y,N
+N,Mona Rege,63,Female,High School,2,3,2,2,2,3,12,Security Guard,N,N,N,Y,N
+N,Radhika Taneja,37,Female,Primary School,3,3,2,4,2,3,6,Security Guard,N,N,N,Y,N
+N,Babita Munshi,31,Female,Primary School,3,3,2,3,2,3,7,Security Guard,N,N,N,Y,N
+N,Alka Ekbal Boase,31,Female,Primary School,4,3,1,3,2,3,7,Security Guard,N,N,N,Y,N
+N,Upasana Ramanathan,20,Female,Primary School,4,3,2,2,3,1,1,Security Guard,N,N,N,Y,N
+N,Esha Kunda,21,Female,Primary School,4,3,2,2,3,1,2,Security Guard,N,N,N,Y,N
+N,Esha Mehra,21,Female,Primary School,4,3,2,2,3,1,2,Security Guard,N,N,N,Y,N
+N,Lata Wafiq Maraj,20,Female,Primary School,4,3,1,4,3,0,1,Security Guard,N,N,N,Y,N
+N,Samita Vijay,37,Female,Primary School,5,3,2,4,3,0,11,Security Guard,N,N,N,Y,N
+N,Vijaya Vani,40,Female,Primary School,5,3,1,4,3,0,12,Security Guard,N,N,N,Y,N
+N,Vani jeyakumar,24,Female,Undergraduation,2,1,1,1,2,0,2,Security Guard,N,N,N,Y,N
+N,Vairali K,22,Female,Undergraduation,2,1,1,1,1,2,2,Security Guard,N,N,N,Y,N
+N,Vaishnavi Janani,40,Female,Undergraduation,2,1,1,1,1,2,9,Security Guard,N,N,N,Y,N
+N,Sujatha Ramani,63,Female,Undergraduation,2,1,1,1,1,2,12,Security Guard,N,N,N,Y,N
+N,Sujathi rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,Security Guard,N,N,N,Y,N
+N,Jitendram,24,Male,Undergraduation,1,1,1,1,1,2,2,Security Guard,N,N,N,Y,N
+N,Surya Kumari,37,Female,Post Graduation,1,1,2,1,2,4,9,Security Guard,N,N,N,Y,N
+N,Soojitha K,63,Female,Post Graduation,1,1,2,1,3,2,12,Security Guard,N,N,N,Y,N
+N,Vandhana Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,Security Guard,N,N,N,Y,N
+N,Varna Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,Security Guard,N,N,N,Y,N
+N,Balambika,24,Female,Post Graduation,2,1,2,1,1,4,2,Security Guard,N,N,N,Y,N
+N,Bagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,Security Guard,N,N,N,Y,N
+N,Baghya Lakshmi,24,Female,Undergraduation,1,2,1,1,1,4,3,Security Guard,N,N,N,Y,N
+N,Triloka varshini,37,Female,Undergraduation,1,2,1,1,2,4,8,Security Guard,N,N,N,Y,N
+N,Varasidhi K,37,Female,Primary School,5,3,1,3,2,4,7,Security Guard,N,N,N,Y,N
+N,Megamani,63,Female,Primary School,3,3,2,4,2,1,12,Security Guard,N,N,N,Y,N
+N,Chandra Kala,40,Female,Primary School,3,3,2,4,2,1,6,Security Guard,N,N,N,Y,N
+N,Soorya Kala,37,Female,Primary School,3,3,2,4,2,1,6,Security Guard,N,N,N,Y,N
+N,Narendhiran,28,Male,Primary School,3,3,2,4,3,1,3,Security Guard,N,N,N,Y,N
+N,Manushree R,32,Female,Primary School,3,3,2,4,3,1,6,Security Guard,N,N,N,Y,N
+N,Kalai Nayagam,28,Male,Primary School,3,3,2,3,3,1,3,Security Guard,N,N,N,Y,N
+N,Regna Ramya,32,Female,Primary School,3,2,2,3,3,1,3,Security Guard,N,N,N,Y,N
+N,Raji Raman,24,Female,High School,2,3,2,2,2,1,3,Security Guard,N,N,N,Y,N
+N,Lakshmi Vasantham,28,Female,High School,2,3,2,2,1,1,3,Security Guard,N,N,N,Y,N
+N,Vasanthi Vijay,32,Female,High School,2,3,2,2,1,3,3,Security Guard,N,N,N,Y,N
+N,Pradeepan ,19,Male,High School,2,3,2,2,1,3,2,Security Guard,N,N,N,Y,N
+N,Menaka Ravi,24,Female,High School,2,3,2,2,1,2,3,Security Guard,N,N,N,Y,N
+N,Suleka Raju,24,Female,High School,2,3,2,2,1,2,3,Security Guard,N,N,N,Y,N
+N,Chitra Babu,24,Female,High School,2,3,2,2,1,2,2,Security Guard,N,N,N,Y,N
+N,Jeyanthi Natarajan,22,Female,High School,3,3,1,2,1,2,2,Security Guard,N,N,N,Y,N
+N,Dayanidhi Kumar,32,Female,High School,3,3,1,2,1,4,3,Security Guard,N,N,N,Y,N
+N,Vageswari Kannan,28,Female,High School,3,3,1,1,1,2,3,Security Guard,N,N,N,Y,N
+N,Lakshmi Raman,22,Female,High School,3,3,1,1,2,2,4,Security Guard,N,N,N,Y,N
+N,Kashi Kumari,22,Female,High School,3,2,1,1,2,2,4,Security Guard,N,N,N,Y,N
+N,Manoshi Gupta,28,Female,High School,2,2,1,1,2,1,3,Security Guard,N,N,N,Y,N
+N,Ravi Kurram,18,Male,High School,2,2,1,1,2,2,4,Security Guard,N,N,N,Y,N
+N,Mala Pillai,19,Female,High School,1,2,1,1,2,2,2,Security Guard,N,N,N,Y,N
+N,Rose Ramani,20,Female,High School,1,2,1,1,1,2,4,Security Guard,N,N,N,Y,N
+N,Velvizhi Iyer,20,Female,High School,1,2,1,1,1,2,4,Security Guard,N,N,N,Y,N
+N,Virat Pratap Nadkarni,30,Male,High School,2,2,3,2,2,1,4,Security Guard,N,N,N,Y,N
+N,Manpreet Date,31,Male,High School,2,2,3,2,2,1,5,Security Guard,N,N,N,Y,N
+N,Amir Meda,32,Male,High School,2,2,3,2,2,1,6,Security Guard,N,N,N,Y,N
+N,Pradeep Kumar Sarna,33,Male,High School,2,2,3,2,2,1,6,Security Guard,N,N,N,Y,N
+N,Atul Pratap Brahmbhatt,34,Male,High School,2,2,2,2,2,1,7,Security Guard,N,N,N,Y,N
+N,Baalkrishan Kumar Mann,28,Male,High School,2,2,2,2,3,1,3,Security Guard,N,N,N,Y,N
+N,Suresh Sid Pradhan,33,Male,Undergraduation,1,2,2,1,2,1,5,Security Guard,N,N,N,Y,N
+N,Lalit Jamshed Meka,33,Male,Undergraduation,1,2,2,1,2,3,10,Security Guard,N,N,N,Y,N
+N,Satish Singh Kata,33,Male,Undergraduation,1,2,2,1,2,1,6,Security Guard,N,N,N,Y,N
+N,Abhinav Bhai Gagrani,35,Male,Undergraduation,2,2,2,1,2,2,9,Security Guard,N,N,N,Y,N
+N,Vijay Pravin Sarma,28,Male,Undergraduation,2,2,2,2,2,3,2,Security Guard,N,N,N,Y,N
+N,Umesh Naik,28,Male,High School,2,2,2,2,3,3,4,Security Guard,N,N,N,Y,N
+N,Elias Nadig,35,Male,High School,2,2,2,2,3,3,8,Security Guard,N,N,N,Y,N
+N,Kamlesh Chitranjan Mohan,35,Male,High School,3,2,2,2,3,2,8,Security Guard,N,N,N,Y,N
+N,Karim Upadhyay,35,Male,High School,3,2,2,3,2,2,7,Security Guard,N,N,N,Y,N
+N,Biren Biyani,28,Male,High School,3,2,2,3,2,2,4,Security Guard,N,N,N,Y,N
+N,Balaji Karnik,41,Male,High School,3,2,2,3,2,2,7,Security Guard,N,N,N,Y,N
+N,Ghanshyam Natarajan,41,Male,Primary School,4,3,2,3,3,1,4,Security Guard,N,N,N,Y,N
+N,Rajendra Mohanty,41,Male,Primary School,3,4,3,4,3,1,4,Security Guard,N,N,N,Y,N
+N,Devendra Venkat Kohli,41,Male,Primary School,4,2,3,4,2,1,8,Security Guard,N,N,N,Y,N
+N,Jaswant Bhai Chohan,41,Male,High School,3,2,2,3,2,1,8,Security Guard,N,N,N,Y,N
+N,Iqbal Bhai Badal,28,Male,High School,2,4,1,3,2,1,2,Security Guard,N,N,N,Y,N
+N,Kalyan Mand,40,Male,High School,2,3,1,3,2,1,8,Security Guard,N,N,N,Y,N
+N,Naseer Pratap Deo,40,Male,High School,2,3,1,3,2,1,8,Security Guard,N,N,N,Y,N
+N,Akhil Khalsa,40,Male,High School,2,3,1,3,2,3,6,Security Guard,N,N,N,Y,N
+N,Vijay Swaminathan,28,Male,Undergraduation,2,2,2,2,2,3,3,Security Guard,N,N,N,Y,N
+N,Raghavan Bhai Nadkarni,40,Male,Undergraduation,2,2,1,2,2,2,6,Security Guard,N,N,N,Y,N
+N,Atul Prasad Nagarajan,40,Male,Undergraduation,2,2,1,2,2,2,6,Security Guard,N,N,N,Y,N
+N,Atul Majumdar,40,Male,Undergraduation,1,3,1,2,2,1,6,Security Guard,N,N,N,Y,N
+N,Bahadur Pratap Dixit,40,Male,Undergraduation,1,3,1,2,2,1,6,Security Guard,N,N,N,Y,N
+N,Jawahar Pranay Sagar,38,Male,Undergraduation,2,3,1,2,2,1,11,Security Guard,N,N,N,Y,N
+N,Rahim Dev Sangha,38,Male,Undergraduation,2,3,1,1,2,1,8,Security Guard,N,N,N,Y,N
+N,Satish Lal Srinivasan,28,Male,Undergraduation,2,1,1,1,2,1,3,Security Guard,N,N,N,Y,N
+N,Baldev Tank,38,Male,Undergraduation,1,1,2,1,2,11,8,Security Guard,N,N,N,Y,N
+N,Habib Ramesh,28,Male,Undergraduation,1,1,2,1,2,0,1,Security Guard,N,N,N,Y,N
+N,Raghavan Dev Seshadri,38,Male,Undergraduation,1,1,2,1,1,0,9,Security Guard,N,N,N,Y,N
+N,Naseer Ram,28,Male,Undergraduation,1,1,2,1,1,0,1,Security Guard,N,N,N,Y,N
+N,Manpreet Morar,28,Male,Undergraduation,2,1,2,1,1,0,4,Security Guard,N,N,N,Y,N
+N,Chinmay Kumar Vasa,38,Male,Undergraduation,2,1,2,1,1,4,3,Security Guard,N,N,N,Y,N
+N,Satishwar Elias Apte,38,Male,Undergraduation,2,1,2,1,1,1,3,Security Guard,N,N,N,Y,N
+N,Gauransh Prasad Deshpande,28,Male,Post Graduation,1,2,1,2,2,6,4,Security Guard,N,N,N,Y,N
+N,Faisal Somani,38,Male,High School,2,3,1,3,2,0,6,Security Guard,N,N,N,Y,N
+N,Arun Hari,38,Male,High School,2,3,2,3,2,0,2,Security Guard,N,N,N,Y,N
+N,Mohan Lal Prasad,38,Male,High School,3,3,2,2,2,0,7,Security Guard,N,N,N,Y,N
+N,Ehsaan Raj Sha,40,Male,High School,3,3,2,2,2,5,7,Security Guard,N,N,N,Y,N
+N,Moti Raj Hegde,40,Male,High School,3,3,2,2,1,6,9,Security Guard,N,N,N,Y,N
+N,Devendra Nagy,40,Male,High School,3,3,2,2,1,1,9,Security Guard,N,N,N,Y,N
+N,"Aniruddh Nawab, Ganesan",40,Male,High School,3,3,2,2,1,1,4,Security Guard,N,N,N,Y,N
+N,Qabool Iyengar,28,Male,High School,3,3,2,2,1,3,3,Security Guard,N,N,N,Y,N
+N,Rupesh Wagle,21,Male,High School,3,3,2,2,1,1,3,Security Guard,N,N,N,Y,N
+N,Kalpit Bhai Lata,40,Male,High School,3,3,2,2,1,1,4,Security Guard,N,N,N,Y,N
+N,Radhe Raj Bera,40,Male,High School,3,3,2,2,1,1,4,Security Guard,N,N,N,Y,N
+N,Jamshed Hrishikesh Kamdar,40,Male,High School,3,3,2,1,1,1,4,Security Guard,N,N,N,Y,N
+N,Mustafa Singh De,21,Male,High School,3,3,2,1,1,1,3,Security Guard,N,N,N,Y,N
+N,Ishat Dev Sharaf,40,Male,High School,3,3,2,1,1,1,7,Security Guard,N,N,N,Y,N
+N,Baber Palla,40,Male,Undergraduation,1,2,1,3,1,1,7,Security Guard,N,N,N,Y,N
+N,Jagat Swamy,26,Male,Undergraduation,1,2,1,3,1,2,3,Security Guard,N,N,N,Y,N
+N,Manish Lanka,44,Male,Undergraduation,1,2,1,3,1,2,7,Security Guard,N,N,N,Y,N
+N,Lalit Chander,28,Male,Undergraduation,1,2,1,2,1,2,12,Security Guard,N,N,N,Y,N
+N,Obaid Krish,61,Male,Primary School,3,2,2,3,4,2,14,Security Guard,N,N,N,Y,N
+N,Mowgli Venkataraman,62,Male,Primary School,3,3,2,4,2,2,19,Security Guard,N,N,N,Y,N
+N,Karim Mitesh Doctor,61,Male,Primary School,4,3,2,4,2,3,16,Security Guard,N,N,N,Y,N
+N,Naval Jacob,28,Male,Undergraduation,1,2,2,2,1,3,8,Security Guard,N,N,N,Y,N
+N,Binoya Rao Soni,28,Male,Undergraduation,1,3,3,2,1,3,7,Security Guard,N,N,N,Y,N
+N,Aatif Oak,23,Male,Undergraduation,1,3,3,1,1,0,15,Security Guard,N,N,N,Y,N
+N,Ehsaan Gala,53,Male,Undergraduation,2,3,3,1,1,0,5,Security Guard,N,N,N,Y,N
+N,David Bhai Patel,53,Male,High School,3,2,2,1,1,0,19,Security Guard,N,N,N,Y,N
+N,Chitranjan Apte,61,Male,High School,3,2,2,1,1,0,13,Security Guard,N,N,N,Y,N
+N,Ghalib Chad,53,Male,High School,3,2,2,1,1,0,6,Security Guard,N,N,N,Y,N
+N,Nayan Bhai Palan,61,Male,High School,3,2,3,1,1,0,17,Security Guard,N,N,N,Y,N
+N,Raju Raval,61,Male,Primary School,4,3,2,4,4,0,13,Security Guard,N,N,N,Y,N
+N,Biren Kohli,32,Male,Primary School,4,3,2,4,4,0,7,Security Guard,N,N,N,Y,N
+N,Rajendra Malpani,53,Male,High School,3,2,3,1,2,0,7,Security Guard,N,N,N,Y,N
+N,Albert Aniruddh Gokhale,61,Male,High School,3,2,3,1,2,1,30,Security Guard,N,N,N,Y,N
+N,Ricky Pratap Master,61,Male,High School,3,2,3,1,2,1,20,Security Guard,N,N,N,Y,N
+N,Nirmal Yogesh Chowdhury,64,Male,High School,3,2,3,1,2,1,25,Security Guard,N,N,N,Y,N
+N,Arjun Ram Naik,53,Male,High School,3,2,2,1,2,3,8,Security Guard,N,N,N,Y,N
+N,Eddie Ram Masih,32,Male,Primary School,4,3,2,4,1,1,7,Security Guard,N,N,N,Y,N
+N,Shashank Lal Edwin,64,Male,Primary School,4,3,2,4,1,2,30,Security Guard,N,N,N,Y,N
+Y,Sai Pratap Borra,57,Male,Primary School,3,2,2,3,2,3,9,Security Guard,N,N,N,Y,N
+Y,Anees Rastogi,64,Male,Primary School,3,2,2,3,2,3,23,Security Guard,N,N,N,Y,N
+N,Brock Jhaveri,32,Male,Primary School,3,2,2,3,2,3,6,Security Guard,N,N,N,Y,N
+N,Chinmay Darpan Ramkissoon,57,Male,Primary School,3,2,2,4,1,2,9,Security Guard,N,N,N,Y,N
+N,Dinesh Rupal Acharya,64,Male,Primary School,3,2,2,4,1,2,22,Security Guard,N,N,N,Y,N
+Y,Ehsaan Qadim Kari,64,Male,Primary School,3,2,2,5,1,2,21,Security Guard,N,N,N,Y,N
+Y,Parveen Chandra Dugar,57,Male,Primary School,3,2,2,5,1,2,20,Security Guard,N,N,N,Y,N
+Y,Rahim Kar,57,Male,Primary School,3,2,4,5,3,1,21,Security Guard,N,N,N,Y,N
+N,Brock Viswanathan,44,Male,Primary School,2,2,4,5,3,1,7,Security Guard,N,N,N,Y,N
+Y,Chitranjan Rao Bera,64,Male,Primary School,2,1,4,5,3,1,20,Security Guard,N,N,N,Y,N
+N,Rashid Din,44,Male,Primary School,2,1,4,4,3,1,8,Security Guard,N,N,N,Y,N
+N,Baalkrishan Sarraf,64,Male,Primary School,4,1,4,4,3,1,19,Security Guard,N,N,N,Y,N
+N,Ratan Kalla,44,Male,Primary School,4,1,4,3,3,1,9,Security Guard,N,N,N,Y,N
+Y,Omar Prasad Sant,64,Male,Primary School,3,1,4,3,3,1,18,Security Guard,N,N,N,Y,N
+Y,Ajay Saurabh Bhattacharyya,70,Male,Primary School,3,1,4,3,2,3,17,Security Guard,N,N,N,Y,N
+N,Mitesh Bijoy Pradhan,26,Male,Primary School,3,1,3,3,2,3,3,Security Guard,N,N,N,Y,N
+Y,Rupesh Ram Parekh,57,Male,Primary School,3,1,3,3,3,2,9,Security Guard,N,N,N,Y,N
+Y,Ishat Gajendra Varma,48,Male,Primary School,3,1,3,3,3,2,29,Security Guard,N,N,N,Y,N
+Y,Aslam Raj Sandhu,57,Male,Primary School,3,1,3,3,3,1,11,Security Guard,N,N,N,Y,N
+Y,Ganesh Harbhajan Masih,57,Male,Primary School,3,1,3,3,3,1,13,Security Guard,N,N,N,Y,N
+Y,Manish Lal Amble,51,Male,Primary School,3,1,3,3,3,1,8,Security Guard,N,N,N,Y,N
+Y,Mani Ramam,51,Male,Primary School,3,1,3,3,3,1,7,Security Guard,N,N,N,Y,N
+N,Niyati Jagdish Prakash,28,Female,High School,3,2,2,1,3,1,7,Security Guard,N,N,N,Y,N
+N,Prabha Yash Ramnarine,49,Male,High School,2,2,2,1,3,11,29,Security Guard,N,N,N,Y,N
+N,Padmini Pravin Mall,28,Female,High School,2,2,1,1,3,0,3,Security Guard,N,N,N,Y,N
+N,Sushmita Murty,50,Male,High School,2,2,2,1,3,0,23,Security Guard,N,N,N,Y,N
+N,Sushmita Kashyap,62,Female,High School,2,2,1,1,3,0,22,Security Guard,N,N,N,Y,N
+N,Leelawati Dada,28,Male,High School,2,2,2,1,1,0,11,Security Guard,N,N,N,Y,N
+N,Amolika Ratan Talwar,28,Female,High School,2,2,1,1,1,4,10,Security Guard,N,N,N,Y,N
+N,Zara Amir Luthra,62,Female,High School,2,2,1,1,1,1,34,Security Guard,N,N,N,Y,N
+N,Esha Tripathi,26,Male,High School,2,2,2,1,1,6,1,Security Guard,N,N,N,Y,N
+N,Aisha Kothari,44,Male,High School,2,2,2,2,1,0,6,Security Guard,N,N,N,Y,N
+N,Naina Jack Rattan,50,Male,High School,2,2,2,2,1,0,8,Security Guard,N,N,N,Y,N
+N,Prabha Wason,60,Male,High School,2,2,2,2,1,0,7,Security Guard,N,N,N,Y,N
+N,Shanti Rajagopal,62,Female,High School,2,2,1,2,1,5,34,Security Guard,N,N,N,Y,N
+N,Rita Ratta,59,Female,High School,1,2,1,2,1,6,6,Security Guard,N,N,N,Y,N
+N,Sona Mitter,23,Female,High School,1,2,1,2,1,1,4,Security Guard,N,N,N,Y,N
+N,Heena Puri,25,Male,High School,1,2,1,2,1,1,4,Security Guard,N,N,N,Y,N
+N,Nikita Seshadri,25,Female,High School,1,2,1,2,1,3,4,Security Guard,N,N,N,Y,N
+N,Padama Darpan Pal,25,Male,High School,1,2,1,2,1,1,4,Security Guard,N,N,N,Y,N
+N,Ambika Siddharth Mistry,50,Female,High School,1,2,1,2,2,1,4,Security Guard,N,N,N,Y,N
+N,Vineeta Varma,25,Female,High School,1,1,1,2,2,1,4,Security Guard,N,N,N,Y,N
+N,Anusha Naseer Deo,54,Female,High School,1,1,1,2,1,1,10,Security Guard,N,N,N,Y,N
+N,Nandini Savant,25,Male,High School,1,1,1,3,1,1,4,Security Guard,N,N,N,Y,N
+N,Upasana Sarna,25,Male,High School,1,1,2,3,1,1,4,Security Guard,N,N,N,Y,N
+N,Aabha Gole,59,Female,High School,1,1,1,3,1,1,9,Security Guard,N,N,N,Y,N
+N,Nalini Jobin Dar,25,Female,High School,1,1,1,3,1,2,3,Security Guard,N,N,N,Y,N
+N,Akhila Kunda,52,Female,High School,1,1,1,3,1,2,9,Security Guard,N,N,N,Y,N
+N,Sameedha Purohit,50,Male,High School,1,1,1,3,1,2,9,Security Guard,N,N,N,Y,N
+Y,Aarti Faraz Kota,55,Male,Primary School,3,1,3,3,3,2,8,Security Guard,N,N,N,Y,N
+N,Komal Desai,23,Male,Primary School,3,1,3,3,3,2,3,Security Guard,N,N,N,Y,N
+N,Yasmin Ramachandran,53,Female,Primary School,3,1,3,4,2,3,8,Security Guard,N,N,N,Y,N
+N,Kiran Vaidya,23,Female,Primary School,3,1,3,3,2,3,3,Security Guard,N,N,N,Y,N
+N,Upasana Sem,50,Female,Primary School,3,3,2,3,2,3,8,Security Guard,N,N,N,Y,N
+N,Nidhi Meka,23,Male,Primary School,3,3,2,4,4,0,3,Security Guard,N,N,N,Y,N
+N,Devika Jani,54,Female,High School,2,1,1,3,1,0,8,Security Guard,N,N,N,Y,N
+N,Bagwati Narayan,23,Male,High School,2,2,2,2,1,0,3,Security Guard,N,N,N,Y,N
+N,Nancy Konda,23,Male,Undergraduation,2,3,3,1,1,0,3,Security Guard,N,N,N,Y,N
+N,Roma Dhiraj Amble,44,Male,Undergraduation,2,3,3,1,1,0,6,Security Guard,N,N,N,Y,N
+N,Rachel Abbas Mangal,53,Female,Undergraduation,2,3,3,1,1,0,8,Security Guard,N,N,N,Y,N
+N,Sushmita Walia,55,Female,Undergraduation,1,3,3,1,1,0,8,Security Guard,N,N,N,Y,N
+N,Mukti Harjo,50,Female,Primary School,3,3,2,4,4,0,8,Security Guard,N,N,N,Y,N
+N,Rita Shere,52,Female,Primary School,3,3,2,4,4,0,8,Security Guard,N,N,N,Y,N
+N,Julie Varma,52,Female,Primary School,3,3,2,2,3,1,9,Security Guard,N,N,N,Y,N
+Y,Yamini Chaudhari,55,Male,Primary School,3,3,2,3,3,1,9,Security Guard,N,N,N,Y,N
+N,Pooja Qabeel Mander,50,Female,High School,2,2,1,2,1,1,9,Security Guard,N,N,N,Y,N
+N,Alpa Munaf Ganguly,52,Female,High School,2,2,1,2,1,3,9,Security Guard,N,N,N,Y,N
+N,Astha Ganesan,52,Female,High School,2,2,1,2,1,1,9,Security Guard,N,N,N,Y,N
+N,Julie Koshy,55,Female,High School,2,2,1,2,1,2,9,Security Guard,N,N,N,Y,N
+N,Amrita Anand Manda,50,Female,High School,2,2,1,2,1,3,9,Security Guard,N,N,N,Y,N
+N,Jyoti Sarna,28,Female,High School,2,2,1,2,1,3,4,Security Guard,N,N,N,Y,N
+N,Bhaagyasree Shere,21,Male,High School,2,2,2,2,1,3,2,Security Guard,N,N,N,Y,N
+N,Kamini Doshi,28,Female,Primary School,3,3,1,3,3,2,4,Security Guard,N,N,N,Y,N
+N,Chandni Balaji Seshadri,28,Male,Primary School,3,3,1,3,3,2,4,Security Guard,N,N,N,Y,N
+N,Ambika Khalsa,28,Female,Primary School,2,3,1,3,3,2,4,Security Guard,N,N,N,Y,N
+N,Kajol Chandran,46,Female,Primary School,2,3,1,3,3,2,9,Security Guard,N,N,N,Y,N
+N,Kalpana Pradeep Narain,46,Male,Primary School,2,3,1,4,2,1,7,Security Guard,N,N,N,Y,N
+N,Vimala Pandey,46,Male,Primary School,2,2,1,4,2,1,7,Security Guard,N,N,N,Y,N
+N,Rachel Loke,46,Female,Primary School,2,2,1,4,2,1,7,Security Guard,N,N,N,Y,N
+N,Rohini Naseer Halder,21,Male,Primary School,3,2,1,4,2,1,2,Security Guard,N,N,N,Y,N
+N,Mridula Aurora,21,Male,Primary School,3,2,1,4,2,1,2,Security Guard,N,N,N,Y,N
+N,Parminder Prashad,47,Female,Primary School,3,2,1,4,2,1,7,Security Guard,N,N,N,Y,N
+N,Bhairavi Sagar,47,Female,Primary School,3,2,1,4,2,1,7,Security Guard,N,N,N,Y,N
+N,Aishwarya Behl,47,Female,Primary School,3,2,3,3,3,3,7,Security Guard,N,N,N,Y,N
+N,Hira Manpreet Datta,21,Female,Primary School,3,2,3,5,3,3,2,Security Guard,N,N,N,Y,N
+N,Madhavi Brock Arya,47,Female,Primary School,3,2,1,4,2,2,7,Security Guard,N,N,N,Y,N
+N,Amrita Qadim Thakkar,47,Female,Primary School,3,2,1,3,2,2,7,Security Guard,N,N,N,Y,N
+N,Krishna Hayre,47,Female,High School,2,2,1,2,3,1,7,Security Guard,N,N,N,Y,N
+N,Trishana Mahal,21,Female,High School,2,2,1,2,3,1,2,Security Guard,N,N,N,Y,N
+N,Divya Narayan,48,Male,High School,2,2,1,2,3,1,7,Security Guard,N,N,N,Y,N
+N,Shanti Rajagopalan,45,Male,High School,2,2,1,2,2,1,7,Security Guard,N,N,N,Y,N
+N,Nitika Mukund Dalal,45,Female,High School,2,2,1,2,2,1,7,Security Guard,N,N,N,Y,N
+N,Vineeta Somnath Sachdev,44,Male,High School,2,2,1,2,2,11,6,Security Guard,N,N,N,Y,N
+N,Lalita More,44,Male,High School,2,2,1,2,2,0,7,Security Guard,N,N,N,Y,N
+N,Kalyani Narang,45,Male,High School,2,2,1,2,2,0,7,Security Guard,N,N,N,Y,N
+N,Esha Agarwal,45,Female,High School,1,2,1,2,2,0,8,Security Guard,N,N,N,Y,N
+N,Riya Bassi,21,Male,High School,1,2,1,1,2,0,1,Security Guard,N,N,N,Y,N
+N,Himani Char,21,Female,High School,1,2,2,1,2,4,1,Security Guard,N,N,N,Y,N
+N,Jyoti Qadim Grover,45,Male,High School,1,2,2,1,2,1,8,Security Guard,N,N,N,Y,N
+N,Juhi Deepesh Chowdhury,21,Male,High School,1,2,2,1,2,6,1,Security Guard,N,N,N,Y,N
+N,Indrani Kalpit Chakrabarti,45,Male,High School,1,1,1,1,2,0,8,Security Guard,N,N,N,Y,N
+N,Hina Kabeer Buch,21,Female,High School,1,1,1,1,3,0,1,Security Guard,N,N,N,Y,N
+N,Ankita Nanda,45,Female,High School,1,1,1,1,3,0,8,Security Guard,N,N,N,Y,N
+N,Kiran Nayar,45,Female,High School,1,1,1,1,3,5,8,Security Guard,N,N,N,Y,N
+N,Madhu Deepesh Randhawa,26,Male,High School,1,1,2,1,3,6,2,Security Guard,N,N,N,Y,N
+N,Basanti Sodhani,22,Male,Undergraduation,1,2,2,1,1,1,1,Security Guard,N,N,N,Y,N
+N,Nagma Chaudhuri,45,Female,Undergraduation,1,2,2,2,1,1,8,Security Guard,N,N,N,Y,N
+N,Padama Aggarwal,26,Male,Undergraduation,2,2,2,2,2,3,2,Security Guard,N,N,N,Y,N
+N,Binita Lanka,45,Male,Undergraduation,2,2,2,2,2,1,8,Security Guard,N,N,N,Y,N
+N,Ambika Sidhu,22,Female,Undergraduation,2,1,2,2,2,1,1,Security Guard,N,N,N,Y,N
+N,Indrani Pranab Kade,44,Male,Undergraduation,2,1,2,2,2,1,7,Security Guard,N,N,N,Y,N
+N,Mukti Khanna,26,Male,Post Graduation,1,2,1,2,2,1,4,Security Guard,N,N,N,Y,N
+N,Anjana Din,45,Female,Primary School,3,4,1,4,2,1,8,Security Guard,N,N,N,Y,N
+N,Narmada Ehsaan Srinivas,22,Male,High School,1,1,1,1,3,1,1,Security Guard,N,N,N,Y,N
+N,Pamela Raju Raval,45,Female,High School,1,1,1,2,2,1,8,Security Guard,N,N,N,Y,N
+N,Astha Rana,22,Female,High School,1,1,1,2,2,2,1,Security Guard,N,N,N,Y,N
+N,Sara Anil Sane,45,Male,High School,1,1,1,2,2,2,8,Security Guard,N,N,N,Y,N
+N,Aarushi Devendra Randhawa,45,Female,High School,1,2,1,2,2,2,8,Security Guard,N,N,N,Y,N
+N,Ruchi Chowdhury,48,Male,Undergraduation,2,1,2,2,2,2,8,Security Guard,N,N,N,Y,N
+N,Ritika Pradeep Mittal,24,Female,Post Graduation,1,2,1,2,2,2,1,Security Guard,N,N,N,Y,N
+N,Aishwarya Ramnarine,30,Female,Undergraduation,2,1,2,2,2,3,7,Security Guard,N,N,N,Y,N
+N,Sara Biren Khanna,27,Female,Undergraduation,2,1,2,2,2,3,1,Security Guard,N,N,N,Y,N
+N,Payal Iyer,48,Female,High School,1,2,1,2,2,3,6,Security Guard,N,N,N,Y,N
+N,Bhairavi Pradhan,27,Female,High School,1,2,1,2,2,0,1,Security Guard,N,N,N,Y,N
+N,Sweta Karpe,34,Male,High School,1,2,1,2,2,0,5,Security Guard,N,N,N,Y,N
+N,Anshu Monin Narasimhan,30,Female,Primary School,3,4,1,4,2,0,8,Security Guard,N,N,N,Y,N
+N,Urmi Charlie Singhal,49,Female,Primary School,3,4,1,4,3,0,6,Security Guard,N,N,N,Y,N
+N,Fatima Dugar,41,Female,Primary School,3,4,3,4,3,0,8,Security Guard,N,N,N,Y,N
+N,Madhavi Suraj Sankaran,41,Male,Primary School,3,4,3,4,3,0,7,Security Guard,N,N,N,Y,N
+N,Riddhi Zahir Bhasin,48,Female,Primary School,3,4,3,4,4,0,6,Security Guard,N,N,N,Y,N
+N,Laveena Kant,27,Female,Primary School,3,2,3,4,4,0,1,Security Guard,N,N,N,Y,N
+N,Mukti Padmanabhan,41,Female,Primary School,2,2,1,4,4,0,7,Security Guard,N,N,N,Y,N
+N,Namita Talwar,27,Female,Primary School,2,1,1,4,4,1,1,Security Guard,N,N,N,Y,N
+N,Radha Chauhan,41,Female,Primary School,3,1,1,4,3,1,7,Security Guard,N,N,N,Y,N
+N,Vineeta Ujwal Shukla,40,Female,Primary School,5,1,1,4,3,1,6,Security Guard,N,N,N,Y,N
+N,Padmini Oommen,48,Female,Primary School,5,1,1,5,2,3,6,Security Guard,N,N,N,Y,N
+N,Radha Bal,40,Female,Primary School,3,1,2,3,3,1,7,Security Guard,N,N,N,Y,N
+N,Madhavi Dinesh Sunder,27,Female,Primary School,4,1,1,3,3,2,2,Security Guard,N,N,N,Y,N
+N,Nancy More,40,Female,High School,2,2,1,2,1,3,7,Security Guard,N,N,N,Y,N
+N,Nupoor Vala,40,Female,High School,2,2,1,2,1,3,5,Security Guard,N,N,N,Y,N
+N,Devika Aarif Dora,34,Female,High School,2,2,1,2,1,3,5,Security Guard,N,N,N,Y,N
+N,Bhairavi Brock Hari,40,Female,High School,2,3,1,2,2,2,4,Security Guard,N,N,N,Y,N
+N,Rachel Pranay Naidu,47,Female,High School,2,3,1,2,2,2,6,Security Guard,N,N,N,Y,N
+N,Padama Harbhajan Mogul,47,Female,Primary School,4,1,1,3,3,2,6,BPO,N,N,N,Y,N
+N,Anusha Toor,40,Female,Primary School,4,3,1,3,3,2,7,BPO,N,N,N,Y,N
+N,Vineeta Sushant Butala,27,Female,Primary School,4,3,1,3,3,1,2,BPO,N,N,N,Y,N
+N,Hema Radhakrishnan,26,Female,Primary School,4,3,1,3,3,1,2,BPO,N,N,N,Y,N
+N,Nupoor Deep Biyani,48,Female,Primary School,3,3,1,3,2,1,6,BPO,N,N,N,Y,N
+N,Radha David Ratta,38,Female,Primary School,3,3,1,3,2,1,7,BPO,N,N,N,Y,N
+N,Aarushi Kailash Sane,34,Male,Primary School,3,3,3,3,2,1,5,BPO,N,N,N,Y,N
+N,Julie Luthra,38,Female,Primary School,3,3,2,3,2,1,6,BPO,N,N,N,Y,N
+N,Fatima Aarif Nadig,26,Female,Primary School,5,3,2,3,2,1,2,BPO,N,N,N,Y,N
+N,Nishi Wagle,34,Male,Primary School,5,3,2,5,2,3,5,BPO,N,N,N,Y,N
+Y,Pamela Dash,38,Female,High School,2,3,1,2,2,3,5,BPO,N,N,N,Y,N
+Y,Anshula Srinivas,30,Female,High School,2,3,1,3,2,2,5,BPO,N,N,N,Y,N
+Y,Tejaswani Wafiq Kaur,48,Female,High School,2,3,1,3,2,2,6,BPO,N,N,N,Y,N
+Y,Aditi Thaman,38,Female,High School,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,Binita Malhotra,48,Female,High School,2,3,1,3,2,1,6,BPO,N,N,N,Y,N
+Y,Lata Pradeep Bajwa,38,Female,High School,2,3,3,3,2,1,8,BPO,N,N,N,Y,N
+Y,Tejaswani Raj,38,Female,High School,2,3,3,3,1,1,8,BPO,N,N,N,Y,N
+N,Rosey Ramesh,29,Female,Primary School,5,3,2,3,3,1,4,BPO,N,N,N,Y,N
+N,Lalita Dora,31,Female,Primary School,5,3,2,3,3,2,10,BPO,N,N,N,Y,N
+N,Monica Pranab Sahota,31,Female,Primary School,5,3,2,3,3,0,11,BPO,N,N,N,Y,N
+N,Manjari Tabeed Kar,29,Male,Primary School,5,2,2,3,3,0,4,BPO,N,N,N,Y,N
+N,Leela Mathew,29,Female,Primary School,5,2,2,3,3,0,4,BPO,N,N,N,Y,N
+N,Amrita Shere,29,Female,Primary School,3,2,2,3,5,0,4,BPO,N,N,N,Y,N
+N,Hira Guha,31,Female,Primary School,3,2,2,5,5,4,7,BPO,N,N,N,Y,N
+N,Zeenat Batta,29,Female,Primary School,3,2,4,3,5,1,4,BPO,N,N,N,Y,N
+N,Nagma Owais Persad,32,Female,Primary School,3,2,4,5,3,6,7,BPO,N,N,N,Y,N
+N,Nagma Vivek Dhawan,32,Female,Primary School,3,2,4,3,5,0,7,BPO,N,N,N,Y,N
+N,Meghana Baldev Sinha,29,Female,Primary School,2,2,4,3,4,0,4,BPO,N,N,N,Y,N
+N,Nupoor Ramroop,47,Male,Primary School,2,2,1,4,4,0,6,BPO,N,N,N,Y,N
+N,Trishana Mustafa Deshpande,61,Female,Primary School,2,2,1,4,2,5,6,BPO,N,N,N,Y,N
+N,Gunjan Mishra,34,Female,Primary School,2,2,1,4,2,6,3,BPO,N,N,N,Y,N
+N,Urmi Mahabir,61,Female,Primary School,2,2,1,3,3,1,12,BPO,N,N,N,Y,N
+Y,Sona Babu,34,Female,High School,2,3,3,2,1,1,3,BPO,N,N,N,Y,N
+Y,Mayawati Kuruvilla,34,Male,High School,2,2,3,2,1,3,3,BPO,N,N,N,Y,N
+Y,Geetanjali Aadish Saran,45,Female,High School,2,2,2,2,1,1,12,BPO,N,N,N,Y,N
+N,Seema Raghavan Varkey,61,Female,High School,2,2,2,2,1,1,12,BPO,N,N,N,Y,N
+N,Bhaagyasree Gaurav Divan,61,Male,High School,2,2,2,2,1,1,12,BPO,N,N,N,Y,N
+Y,Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,BPO,N,N,N,Y,N
+N,Aruna Dar,61,Female,Undergraduation,1,1,1,2,2,1,12,BPO,N,N,N,Y,N
+N,Neha Sridhar,63,Male,Undergraduation,1,1,1,2,2,1,12,BPO,N,N,N,Y,N
+Y,Ruchi Elias Gokhale,45,Male,Undergraduation,1,1,1,2,2,1,11,BPO,N,N,N,Y,N
+Y,Shweta Kothari,45,Female,Undergraduation,1,1,1,2,2,2,11,BPO,N,N,N,Y,N
+Y,Namita Ratti,39,Female,Undergraduation,1,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,BPO,N,N,N,Y,N
+N,Nalini Eddie Bhattacharyya,63,Female,Undergraduation,1,1,1,1,2,2,11,BPO,N,N,N,Y,N
+Y,Neela Aadil Chana,39,Female,Undergraduation,2,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,Nikita Chand,45,Female,High School,2,2,2,2,2,3,12,BPO,N,N,N,Y,N
+Y,Neha Bawa,41,Female,High School,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,Anshula Nigam,29,Female,High School,2,2,2,2,2,3,1,BPO,N,N,N,Y,N
+Y,Mini Gopal,41,Female,High School,2,2,2,3,2,0,2,BPO,N,N,N,Y,N
+N,Priyanka Munaf Bir,63,Female,High School,2,2,2,3,2,0,12,BPO,N,N,N,Y,N
+N,Chhaya Zahir Raghavan,29,Female,Primary School,1,2,1,4,3,0,2,BPO,N,N,N,Y,N
+N,Shanti Mann,41,Female,Primary School,1,2,2,4,3,0,1,BPO,N,N,N,Y,N
+N,Rakhi Akhil Agate,45,Female,Primary School,1,2,1,4,3,0,12,BPO,N,N,N,Y,N
+N,Anshu Ratti,29,Female,Primary School,1,2,1,2,3,1,1,BPO,N,N,N,Y,N
+N,Aarti Ehsaan Pandit,63,Male,Primary School,1,2,3,2,2,1,12,BPO,N,N,N,Y,N
+N,Kamini Mander,41,Female,Primary School,1,2,3,2,2,1,1,BPO,N,N,N,Y,N
+N,Babita Sankaran,42,Female,Primary School,1,1,1,2,2,1,5,BPO,N,N,N,Y,N
+N,Ananya Gupta,42,Female,Primary School,1,1,1,2,2,1,5,BPO,N,N,N,Y,N
+N,Anusha Dani,37,Male,Primary School,3,1,1,2,2,2,5,BPO,N,N,N,Y,N
+N,Sona Chaudhry,29,Male,Primary School,3,1,1,2,2,2,2,BPO,N,N,N,Y,N
+N,Indira Rampersaud,31,Female,Primary School,3,3,2,2,2,2,6,BPO,N,N,N,Y,N
+Y,Jasmin Jacob,20,Female,High School,2,2,2,3,2,1,1,BPO,N,N,N,Y,N
+Y,Amolika Devendra Memon,45,Female,High School,2,2,3,3,2,1,12,BPO,N,N,N,Y,N
+Y,Nutan Bail,31,Female,High School,2,2,3,3,2,13,6,BPO,N,N,N,Y,N
+Y,Richa Wagle,31,Female,High School,2,3,3,2,2,3,6,BPO,N,N,N,Y,N
+Y,Rita Ravel,21,Female,High School,2,3,4,2,2,3,2,BPO,N,N,N,Y,N
+N,Mona Rege,63,Female,High School,2,3,2,2,2,3,12,BPO,N,N,N,Y,N
+N,Radhika Taneja,37,Female,Primary School,3,3,2,4,2,3,6,BPO,N,N,N,Y,N
+N,Babita Munshi,31,Female,Primary School,3,3,2,3,2,3,7,BPO,N,N,N,Y,N
+N,Alka Ekbal Boase,31,Female,Primary School,4,3,1,3,2,3,7,BPO,N,N,N,Y,N
+N,Upasana Ramanathan,20,Female,Primary School,4,3,2,2,3,1,1,BPO,N,N,N,Y,N
+N,Esha Kunda,21,Female,Primary School,4,3,2,2,3,1,2,BPO,N,N,N,Y,N
+N,Esha Mehra,21,Female,Primary School,4,3,2,2,3,1,2,BPO,N,N,N,Y,N
+N,Lata Wafiq Maraj,20,Female,Primary School,4,3,1,4,3,0,1,BPO,N,N,N,Y,N
+N,Samita Vijay,37,Female,Primary School,5,3,2,4,3,0,11,BPO,N,N,N,Y,N
+N,Vijaya Vani,40,Female,Primary School,5,3,1,4,3,0,12,BPO,N,N,N,Y,N
+Y,Vani jeyakumar,24,Female,Undergraduation,2,1,1,1,2,0,2,BPO,N,N,N,Y,N
+Y,Vairali K,22,Female,Undergraduation,2,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,Vaishnavi Janani,40,Female,Undergraduation,2,1,1,1,1,2,9,BPO,N,N,N,Y,N
+N,Sujatha Ramani,63,Female,Undergraduation,2,1,1,1,1,2,12,BPO,N,N,N,Y,N
+Y,Sujathi rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,Jitendram,24,Male,Undergraduation,1,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,Surya Kumari,37,Female,Post Graduation,1,1,2,1,2,4,9,BPO,N,N,N,Y,N
+N,Soojitha K,63,Female,Post Graduation,1,1,2,1,3,2,12,BPO,N,N,N,Y,N
+Y,Vandhana Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,BPO,N,N,N,Y,N
+Y,Varna Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,BPO,N,N,N,Y,N
+Y,Balambika,24,Female,Post Graduation,2,1,2,1,1,4,2,BPO,N,N,N,Y,N
+Y,Bagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,BPO,N,N,N,Y,N
+Y,Baghya Lakshmi,24,Female,Undergraduation,1,2,1,1,1,4,3,BPO,N,N,N,Y,N
+Y,Triloka varshini,37,Female,Undergraduation,1,2,1,1,2,4,8,BPO,N,N,N,Y,N
+N,Varasidhi K,37,Female,Primary School,5,3,1,3,2,4,7,BPO,N,N,N,Y,N
+N,Megamani,63,Female,Primary School,3,3,2,4,2,1,12,BPO,N,N,N,Y,N
+N,Chandra Kala,40,Female,Primary School,3,3,2,4,2,1,6,BPO,N,N,N,Y,N
+N,Soorya Kala,37,Female,Primary School,3,3,2,4,2,1,6,BPO,N,N,N,Y,N
+N,Narendhiran,28,Male,Primary School,3,3,2,4,3,1,3,BPO,N,N,N,Y,N
+N,Manushree R,32,Female,Primary School,3,3,2,4,3,1,6,BPO,N,N,N,Y,N
+N,Kalai Nayagam,28,Male,Primary School,3,3,2,3,3,1,3,BPO,N,N,N,Y,N
+N,Regna Ramya,32,Female,Primary School,3,2,2,3,3,1,3,BPO,N,N,N,Y,N
+Y,Raji Raman,24,Female,High School,2,3,2,2,2,1,3,BPO,N,N,N,Y,N
+Y,Lakshmi Vasantham,28,Female,High School,2,3,2,2,1,1,3,BPO,N,N,N,Y,N
+Y,Vasanthi Vijay,32,Female,High School,2,3,2,2,1,3,3,BPO,N,N,N,Y,N
+Y,Pradeepan ,19,Male,High School,2,3,2,2,1,3,2,BPO,N,N,N,Y,N
+Y,Menaka Ravi,24,Female,High School,2,3,2,2,1,2,3,BPO,N,N,N,Y,N
+Y,Suleka Raju,24,Female,High School,2,3,2,2,1,2,3,BPO,N,N,N,Y,N
+Y,Chitra Babu,24,Female,High School,2,3,2,2,1,2,2,BPO,N,N,N,Y,N
+Y,Jeyanthi Natarajan,22,Female,High School,3,3,1,2,1,2,2,BPO,N,N,N,Y,N
+Y,Dayanidhi Kumar,32,Female,High School,3,3,1,2,1,4,3,BPO,N,N,N,Y,N
+Y,Vageswari Kannan,28,Female,High School,3,3,1,1,1,2,3,BPO,N,N,N,Y,N
+Y,Lakshmi Raman,22,Female,High School,3,3,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,Kashi Kumari,22,Female,High School,3,2,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,Manoshi Gupta,28,Female,High School,2,2,1,1,2,1,3,BPO,N,N,N,Y,N
+Y,Ravi Kurram,18,Male,High School,2,2,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,Mala Pillai,19,Female,High School,1,2,1,1,2,2,2,BPO,N,N,N,Y,N
+Y,Rose Ramani,20,Female,High School,1,2,1,1,1,2,4,BPO,N,N,N,Y,N
+Y,Velvizhi Iyer,20,Female,High School,1,2,1,1,1,2,4,BPO,N,N,N,Y,N
+Y,Virat Pratap Nadkarni,30,Male,High School,2,2,3,2,2,1,4,BPO,N,N,N,Y,N
+Y,Manpreet Date,31,Male,High School,2,2,3,2,2,1,5,BPO,N,N,N,Y,N
+Y,Amir Meda,32,Male,High School,2,2,3,2,2,1,6,BPO,N,N,N,Y,N
+Y,Pradeep Kumar Sarna,33,Male,High School,2,2,3,2,2,1,6,BPO,N,N,N,Y,N
+Y,Atul Pratap Brahmbhatt,34,Male,High School,2,2,2,2,2,1,7,BPO,N,N,N,Y,N
+Y,Baalkrishan Kumar Mann,28,Male,High School,2,2,2,2,3,1,3,BPO,N,N,N,Y,N
+Y,Suresh Sid Pradhan,33,Male,Undergraduation,1,2,2,1,2,1,5,BPO,N,N,N,Y,N
+Y,Lalit Jamshed Meka,33,Male,Undergraduation,1,2,2,1,2,3,10,BPO,N,N,N,Y,N
+Y,Satish Singh Kata,33,Male,Undergraduation,1,2,2,1,2,1,6,BPO,N,N,N,Y,N
+Y,Abhinav Bhai Gagrani,35,Male,Undergraduation,2,2,2,1,2,2,9,BPO,N,N,N,Y,N
+Y,Vijay Pravin Sarma,28,Male,Undergraduation,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,Umesh Naik,28,Male,High School,2,2,2,2,3,3,4,BPO,N,N,N,Y,N
+Y,Elias Nadig,35,Male,High School,2,2,2,2,3,3,8,BPO,N,N,N,Y,N
+Y,Kamlesh Chitranjan Mohan,35,Male,High School,3,2,2,2,3,2,8,BPO,N,N,N,Y,N
+Y,Karim Upadhyay,35,Male,High School,3,2,2,3,2,2,7,BPO,N,N,N,Y,N
+Y,Biren Biyani,28,Male,High School,3,2,2,3,2,2,4,BPO,N,N,N,Y,N
+Y,Balaji Karnik,41,Male,High School,3,2,2,3,2,2,7,BPO,N,N,N,Y,N
+N,Ghanshyam Natarajan,41,Male,Primary School,4,3,2,3,3,1,4,BPO,N,N,N,Y,N
+N,Rajendra Mohanty,41,Male,Primary School,3,4,3,4,3,1,4,BPO,N,N,N,Y,N
+N,Devendra Venkat Kohli,41,Male,Primary School,4,2,3,4,2,1,8,BPO,N,N,N,Y,N
+Y,Jaswant Bhai Chohan,41,Male,High School,3,2,2,3,2,1,8,BPO,N,N,N,Y,N
+N,Iqbal Bhai Badal,28,Male,High School,2,4,1,3,2,1,2,BPO,N,N,N,Y,N
+Y,Kalyan Mand,40,Male,High School,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,Naseer Pratap Deo,40,Male,High School,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,Akhil Khalsa,40,Male,High School,2,3,1,3,2,3,6,BPO,N,N,N,Y,N
+Y,Vijay Swaminathan,28,Male,Undergraduation,2,2,2,2,2,3,3,BPO,N,N,N,Y,N
+Y,Raghavan Bhai Nadkarni,40,Male,Undergraduation,2,2,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,Atul Prasad Nagarajan,40,Male,Undergraduation,2,2,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,Atul Majumdar,40,Male,Undergraduation,1,3,1,2,2,1,6,BPO,N,N,N,Y,N
+Y,Bahadur Pratap Dixit,40,Male,Undergraduation,1,3,1,2,2,1,6,BPO,N,N,N,Y,N
+Y,Jawahar Pranay Sagar,38,Male,Undergraduation,2,3,1,2,2,1,11,BPO,N,N,N,Y,N
+Y,Rahim Dev Sangha,38,Male,Undergraduation,2,3,1,1,2,1,8,BPO,N,N,N,Y,N
+Y,Satish Lal Srinivasan,28,Male,Undergraduation,2,1,1,1,2,1,3,BPO,N,N,N,Y,N
+Y,Baldev Tank,38,Male,Undergraduation,1,1,2,1,2,11,8,BPO,N,N,N,Y,N
+Y,Habib Ramesh,28,Male,Undergraduation,1,1,2,1,2,0,1,BPO,N,N,N,Y,N
+Y,Raghavan Dev Seshadri,38,Male,Undergraduation,1,1,2,1,1,0,9,BPO,N,N,N,Y,N
+Y,Naseer Ram,28,Male,Undergraduation,1,1,2,1,1,0,1,BPO,N,N,N,Y,N
+Y,Manpreet Morar,28,Male,Undergraduation,2,1,2,1,1,0,4,BPO,N,N,N,Y,N
+Y,Chinmay Kumar Vasa,38,Male,Undergraduation,2,1,2,1,1,4,3,BPO,N,N,N,Y,N
+Y,Satishwar Elias Apte,38,Male,Undergraduation,2,1,2,1,1,1,3,BPO,N,N,N,Y,N
+Y,Gauransh Prasad Deshpande,28,Male,Post Graduation,1,2,1,2,2,6,4,BPO,N,N,N,Y,N
+Y,Faisal Somani,38,Male,High School,2,3,1,3,2,0,6,BPO,N,N,N,Y,N
+Y,Arun Hari,38,Male,High School,2,3,2,3,2,0,2,BPO,N,N,N,Y,N
+Y,Mohan Lal Prasad,38,Male,High School,3,3,2,2,2,0,7,BPO,N,N,N,Y,N
+Y,Ehsaan Raj Sha,40,Male,High School,3,3,2,2,2,5,7,BPO,N,N,N,Y,N
+Y,Moti Raj Hegde,40,Male,High School,3,3,2,2,1,6,9,BPO,N,N,N,Y,N
+Y,Devendra Nagy,40,Male,High School,3,3,2,2,1,1,9,BPO,N,N,N,Y,N
+Y,"Aniruddh Nawab, Ganesan",40,Male,High School,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,Qabool Iyengar,28,Male,High School,3,3,2,2,1,3,3,BPO,N,N,N,Y,N
+Y,Rupesh Wagle,21,Male,High School,3,3,2,2,1,1,3,BPO,N,N,N,Y,N
+Y,Kalpit Bhai Lata,40,Male,High School,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,Radhe Raj Bera,40,Male,High School,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,Jamshed Hrishikesh Kamdar,40,Male,High School,3,3,2,1,1,1,4,BPO,N,N,N,Y,N
+Y,Mustafa Singh De,21,Male,High School,3,3,2,1,1,1,3,BPO,N,N,N,Y,N
+Y,Ishat Dev Sharaf,40,Male,High School,3,3,2,1,1,1,7,BPO,N,N,N,Y,N
+Y,Baber Palla,40,Male,Undergraduation,1,2,1,3,1,1,7,BPO,N,N,N,Y,N
+Y,Jagat Swamy,26,Male,Undergraduation,1,2,1,3,1,2,3,BPO,N,N,N,Y,N
+Y,Manish Lanka,44,Male,Undergraduation,1,2,1,3,1,2,7,BPO,N,N,N,Y,N
+Y,Lalit Chander,28,Male,Undergraduation,1,2,1,2,1,2,12,BPO,N,N,N,Y,N
+N,Obaid Krish,61,Male,Primary School,3,2,2,3,4,2,14,BPO,N,N,N,Y,N
+N,Mowgli Venkataraman,62,Male,Primary School,3,3,2,4,2,2,19,BPO,N,N,N,Y,N
+N,Karim Mitesh Doctor,61,Male,Primary School,4,3,2,4,2,3,16,BPO,N,N,N,Y,N
+Y,Naval Jacob,28,Male,Undergraduation,1,2,2,2,1,3,8,BPO,N,N,N,Y,N
+Y,Binoya Rao Soni,28,Male,Undergraduation,1,3,3,2,1,3,7,BPO,N,N,N,Y,N
+Y,Aatif Oak,23,Male,Undergraduation,1,3,3,1,1,0,15,BPO,N,N,N,Y,N
+Y,Ehsaan Gala,53,Male,Undergraduation,2,3,3,1,1,0,5,BPO,N,N,N,Y,N
+Y,David Bhai Patel,53,Male,High School,3,2,2,1,1,0,19,BPO,N,N,N,Y,N
+N,Chitranjan Apte,61,Male,High School,3,2,2,1,1,0,13,BPO,N,N,N,Y,N
+Y,Ghalib Chad,53,Male,High School,3,2,2,1,1,0,6,BPO,N,N,N,Y,N
+N,Nayan Bhai Palan,61,Male,High School,3,2,3,1,1,0,17,BPO,N,N,N,Y,N
+N,Raju Raval,61,Male,Primary School,4,3,2,4,4,0,13,BPO,N,N,N,Y,N
+N,Biren Kohli,32,Male,Primary School,4,3,2,4,4,0,7,BPO,N,N,N,Y,N
+Y,Rajendra Malpani,53,Male,High School,3,2,3,1,2,0,7,BPO,N,N,N,Y,N
+N,Albert Aniruddh Gokhale,61,Male,High School,3,2,3,1,2,1,30,BPO,N,N,N,Y,N
+N,Ricky Pratap Master,61,Male,High School,3,2,3,1,2,1,20,BPO,N,N,N,Y,N
+N,Nirmal Yogesh Chowdhury,64,Male,High School,3,2,3,1,2,1,25,BPO,N,N,N,Y,N
+Y,Arjun Ram Naik,53,Male,High School,3,2,2,1,2,3,8,BPO,N,N,N,Y,N
+N,Eddie Ram Masih,32,Male,Primary School,4,3,2,4,1,1,7,BPO,N,N,N,Y,N
+N,Shashank Lal Edwin,64,Male,Primary School,4,3,2,4,1,2,30,BPO,N,N,N,Y,N
+N,Sai Pratap Borra,57,Male,Primary School,3,2,2,3,2,3,9,BPO,N,N,N,Y,N
+N,Anees Rastogi,64,Male,Primary School,3,2,2,3,2,3,23,BPO,N,N,N,Y,N
+N,Brock Jhaveri,32,Male,Primary School,3,2,2,3,2,3,6,BPO,N,N,N,Y,N
+N,Chinmay Darpan Ramkissoon,57,Male,Primary School,3,2,2,4,1,2,9,BPO,N,N,N,Y,N
+N,Dinesh Rupal Acharya,64,Male,Primary School,3,2,2,4,1,2,22,BPO,N,N,N,Y,N
+N,Ehsaan Qadim Kari,64,Male,Primary School,3,2,2,5,1,2,21,BPO,N,N,N,Y,N
+N,Parveen Chandra Dugar,57,Male,Primary School,3,2,2,5,1,2,20,BPO,N,N,N,Y,N
+N,Rahim Kar,57,Male,Primary School,3,2,4,5,3,1,21,BPO,N,N,N,Y,N
+N,Brock Viswanathan,44,Male,Primary School,2,2,4,5,3,1,7,BPO,N,N,N,Y,N
+N,Chitranjan Rao Bera,64,Male,Primary School,2,1,4,5,3,1,20,BPO,N,N,N,Y,N
+N,Rashid Din,44,Male,Primary School,2,1,4,4,3,1,8,BPO,N,N,N,Y,N
+N,Baalkrishan Sarraf,64,Male,Primary School,4,1,4,4,3,1,19,BPO,N,N,N,Y,N
+N,Ratan Kalla,44,Male,Primary School,4,1,4,3,3,1,9,BPO,N,N,N,Y,N
+N,Omar Prasad Sant,64,Male,Primary School,3,1,4,3,3,1,18,BPO,N,N,N,Y,N
+N,Ajay Saurabh Bhattacharyya,70,Male,Primary School,3,1,4,3,2,3,17,BPO,N,N,N,Y,N
+N,Mitesh Bijoy Pradhan,26,Male,Primary School,3,1,3,3,2,3,3,BPO,N,N,N,Y,N
+N,Rupesh Ram Parekh,57,Male,Primary School,3,1,3,3,3,2,9,BPO,N,N,N,Y,N
+N,Ishat Gajendra Varma,48,Male,Primary School,3,1,3,3,3,2,29,BPO,N,N,N,Y,N
+N,Aslam Raj Sandhu,57,Male,Primary School,3,1,3,3,3,1,11,BPO,N,N,N,Y,N
+N,Ganesh Harbhajan Masih,57,Male,Primary School,3,1,3,3,3,1,13,BPO,N,N,N,Y,N
+N,Manish Lal Amble,51,Male,Primary School,3,1,3,3,3,1,8,BPO,N,N,N,Y,N
+N,Mani Ramam,51,Male,Primary School,3,1,3,3,3,1,7,BPO,N,N,N,Y,N
+Y,Niyati Jagdish Prakash,28,Female,High School,3,2,2,1,3,1,7,BPO,N,N,N,Y,N
+Y,Prabha Yash Ramnarine,49,Male,High School,2,2,2,1,3,11,29,BPO,N,N,N,Y,N
+Y,Padmini Pravin Mall,28,Female,High School,2,2,1,1,3,0,3,BPO,N,N,N,Y,N
+Y,Sushmita Murty,50,Male,High School,2,2,2,1,3,0,23,BPO,N,N,N,Y,N
+N,Sushmita Kashyap,62,Female,High School,2,2,1,1,3,0,22,BPO,N,N,N,Y,N
+Y,Leelawati Dada,28,Male,High School,2,2,2,1,1,0,11,BPO,N,N,N,Y,N
+Y,Amolika Ratan Talwar,28,Female,High School,2,2,1,1,1,4,10,BPO,N,N,N,Y,N
+N,Zara Amir Luthra,62,Female,High School,2,2,1,1,1,1,34,BPO,N,N,N,Y,N
+Y,Esha Tripathi,26,Male,High School,2,2,2,1,1,6,1,BPO,N,N,N,Y,N
+Y,Aisha Kothari,44,Male,High School,2,2,2,2,1,0,6,BPO,N,N,N,Y,N
+Y,Naina Jack Rattan,50,Male,High School,2,2,2,2,1,0,8,BPO,N,N,N,Y,N
+N,Prabha Wason,60,Male,High School,2,2,2,2,1,0,7,BPO,N,N,N,Y,N
+N,Shanti Rajagopal,62,Female,High School,2,2,1,2,1,5,34,BPO,N,N,N,Y,N
+N,Rita Ratta,59,Female,High School,1,2,1,2,1,6,6,BPO,N,N,N,Y,N
+Y,Sona Mitter,23,Female,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,Heena Puri,25,Male,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,Nikita Seshadri,25,Female,High School,1,2,1,2,1,3,4,BPO,N,N,N,Y,N
+Y,Padama Darpan Pal,25,Male,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,Ambika Siddharth Mistry,50,Female,High School,1,2,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,Vineeta Varma,25,Female,High School,1,1,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,Anusha Naseer Deo,54,Female,High School,1,1,1,2,1,1,10,BPO,N,N,N,Y,N
+Y,Nandini Savant,25,Male,High School,1,1,1,3,1,1,4,BPO,N,N,N,Y,N
+Y,Upasana Sarna,25,Male,High School,1,1,2,3,1,1,4,BPO,N,N,N,Y,N
+N,Aabha Gole,59,Female,High School,1,1,1,3,1,1,9,BPO,N,N,N,Y,N
+Y,Nalini Jobin Dar,25,Female,High School,1,1,1,3,1,2,3,BPO,N,N,N,Y,N
+Y,Akhila Kunda,52,Female,High School,1,1,1,3,1,2,9,BPO,N,N,N,Y,N
+Y,Sameedha Purohit,50,Male,High School,1,1,1,3,1,2,9,BPO,N,N,N,Y,N
+N,Aarti Faraz Kota,55,Male,Primary School,3,1,3,3,3,2,8,BPO,N,N,N,Y,N
+N,Komal Desai,23,Male,Primary School,3,1,3,3,3,2,3,BPO,N,N,N,Y,N
+N,Yasmin Ramachandran,53,Female,Primary School,3,1,3,4,2,3,8,BPO,N,N,N,Y,N
+N,Kiran Vaidya,23,Female,Primary School,3,1,3,3,2,3,3,BPO,N,N,N,Y,N
+N,Upasana Sem,50,Female,Primary School,3,3,2,3,2,3,8,BPO,N,N,N,Y,N
+N,Nidhi Meka,23,Male,Primary School,3,3,2,4,4,0,3,BPO,N,N,N,Y,N
+Y,Devika Jani,54,Female,High School,2,1,1,3,1,0,8,BPO,N,N,N,Y,N
+Y,Bagwati Narayan,23,Male,High School,2,2,2,2,1,0,3,BPO,N,N,N,Y,N
+Y,Nancy Konda,23,Male,Undergraduation,2,3,3,1,1,0,3,BPO,N,N,N,Y,N
+Y,Roma Dhiraj Amble,44,Male,Undergraduation,2,3,3,1,1,0,6,BPO,N,N,N,Y,N
+Y,Rachel Abbas Mangal,53,Female,Undergraduation,2,3,3,1,1,0,8,BPO,N,N,N,Y,N
+N,Sushmita Walia,55,Female,Undergraduation,1,3,3,1,1,0,8,BPO,N,N,N,Y,N
+N,Mukti Harjo,50,Female,Primary School,3,3,2,4,4,0,8,BPO,N,N,N,Y,N
+N,Rita Shere,52,Female,Primary School,3,3,2,4,4,0,8,BPO,N,N,N,Y,N
+N,Julie Varma,52,Female,Primary School,3,3,2,2,3,1,9,BPO,N,N,N,Y,N
+N,Yamini Chaudhari,55,Male,Primary School,3,3,2,3,3,1,9,BPO,N,N,N,Y,N
+Y,Pooja Qabeel Mander,50,Female,High School,2,2,1,2,1,1,9,BPO,N,N,N,Y,N
+Y,Alpa Munaf Ganguly,52,Female,High School,2,2,1,2,1,3,9,BPO,N,N,N,Y,N
+Y,Astha Ganesan,52,Female,High School,2,2,1,2,1,1,9,BPO,N,N,N,Y,N
+N,Julie Koshy,55,Female,High School,2,2,1,2,1,2,9,BPO,N,N,N,Y,N
+Y,Amrita Anand Manda,50,Female,High School,2,2,1,2,1,3,9,BPO,N,N,N,Y,N
+Y,Jyoti Sarna,28,Female,High School,2,2,1,2,1,3,4,BPO,N,N,N,Y,N
+Y,Bhaagyasree Shere,21,Male,High School,2,2,2,2,1,3,2,BPO,N,N,N,Y,N
+N,Kamini Doshi,28,Female,Primary School,3,3,1,3,3,2,4,BPO,N,N,N,Y,N
+N,Chandni Balaji Seshadri,28,Male,Primary School,3,3,1,3,3,2,4,BPO,N,N,N,Y,N
+N,Ambika Khalsa,28,Female,Primary School,2,3,1,3,3,2,4,BPO,N,N,N,Y,N
+N,Kajol Chandran,46,Female,Primary School,2,3,1,3,3,2,9,BPO,N,N,N,Y,N
+N,Kalpana Pradeep Narain,46,Male,Primary School,2,3,1,4,2,1,7,BPO,N,N,N,Y,N
+N,Vimala Pandey,46,Male,Primary School,2,2,1,4,2,1,7,BPO,N,N,N,Y,N
+N,Rachel Loke,46,Female,Primary School,2,2,1,4,2,1,7,BPO,N,N,N,Y,N
+N,Rohini Naseer Halder,21,Male,Primary School,3,2,1,4,2,1,2,BPO,N,N,N,Y,N
+N,Mridula Aurora,21,Male,Primary School,3,2,1,4,2,1,2,BPO,N,N,N,Y,N
+N,Parminder Prashad,47,Female,Primary School,3,2,1,4,2,1,7,BPO,N,N,N,Y,N
+N,Bhairavi Sagar,47,Female,Primary School,3,2,1,4,2,1,7,BPO,N,N,N,Y,N
+N,Aishwarya Behl,47,Female,Primary School,3,2,3,3,3,3,7,BPO,N,N,N,Y,N
+N,Hira Manpreet Datta,21,Female,Primary School,3,2,3,5,3,3,2,BPO,N,N,N,Y,N
+N,Madhavi Brock Arya,47,Female,Primary School,3,2,1,4,2,2,7,BPO,N,N,N,Y,N
+N,Amrita Qadim Thakkar,47,Female,Primary School,3,2,1,3,2,2,7,BPO,N,N,N,Y,N
+Y,Krishna Hayre,47,Female,High School,2,2,1,2,3,1,7,BPO,N,N,N,Y,N
+Y,Trishana Mahal,21,Female,High School,2,2,1,2,3,1,2,BPO,N,N,N,Y,N
+Y,Divya Narayan,48,Male,High School,2,2,1,2,3,1,7,BPO,N,N,N,Y,N
+Y,Shanti Rajagopalan,45,Male,High School,2,2,1,2,2,1,7,BPO,N,N,N,Y,N
+Y,Nitika Mukund Dalal,45,Female,High School,2,2,1,2,2,1,7,BPO,N,N,N,Y,N
+Y,Vineeta Somnath Sachdev,44,Male,High School,2,2,1,2,2,11,6,BPO,N,N,N,Y,N
+Y,Lalita More,44,Male,High School,2,2,1,2,2,0,7,BPO,N,N,N,Y,N
+Y,Kalyani Narang,45,Male,High School,2,2,1,2,2,0,7,BPO,N,N,N,Y,N
+Y,Esha Agarwal,45,Female,High School,1,2,1,2,2,0,8,BPO,N,N,N,Y,N
+Y,Riya Bassi,21,Male,High School,1,2,1,1,2,0,1,BPO,N,N,N,Y,N
+Y,Himani Char,21,Female,High School,1,2,2,1,2,4,1,BPO,N,N,N,Y,N
+Y,Jyoti Qadim Grover,45,Male,High School,1,2,2,1,2,1,8,BPO,N,N,N,Y,N
+Y,Juhi Deepesh Chowdhury,21,Male,High School,1,2,2,1,2,6,1,BPO,N,N,N,Y,N
+Y,Indrani Kalpit Chakrabarti,45,Male,High School,1,1,1,1,2,0,8,BPO,N,N,N,Y,N
+Y,Hina Kabeer Buch,21,Female,High School,1,1,1,1,3,0,1,BPO,N,N,N,Y,N
+Y,Ankita Nanda,45,Female,High School,1,1,1,1,3,0,8,BPO,N,N,N,Y,N
+Y,Kiran Nayar,45,Female,High School,1,1,1,1,3,5,8,BPO,N,N,N,Y,N
+Y,Madhu Deepesh Randhawa,26,Male,High School,1,1,2,1,3,6,2,BPO,N,N,N,Y,N
+Y,Basanti Sodhani,22,Male,Undergraduation,1,2,2,1,1,1,1,BPO,N,N,N,Y,N
+Y,Nagma Chaudhuri,45,Female,Undergraduation,1,2,2,2,1,1,8,BPO,N,N,N,Y,N
+Y,Padama Aggarwal,26,Male,Undergraduation,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,Binita Lanka,45,Male,Undergraduation,2,2,2,2,2,1,8,BPO,N,N,N,Y,N
+Y,Ambika Sidhu,22,Female,Undergraduation,2,1,2,2,2,1,1,BPO,N,N,N,Y,N
+Y,Indrani Pranab Kade,44,Male,Undergraduation,2,1,2,2,2,1,7,BPO,N,N,N,Y,N
+Y,Mukti Khanna,26,Male,Post Graduation,1,2,1,2,2,1,4,BPO,N,N,N,Y,N
+N,Anjana Din,45,Female,Primary School,3,4,1,4,2,1,8,BPO,N,N,N,Y,N
+Y,Narmada Ehsaan Srinivas,22,Male,High School,1,1,1,1,3,1,1,BPO,N,N,N,Y,N
+Y,Pamela Raju Raval,45,Female,High School,1,1,1,2,2,1,8,BPO,N,N,N,Y,N
+Y,Astha Rana,22,Female,High School,1,1,1,2,2,2,1,BPO,N,N,N,Y,N
+Y,Sara Anil Sane,45,Male,High School,1,1,1,2,2,2,8,BPO,N,N,N,Y,N
+Y,Aarushi Devendra Randhawa,45,Female,High School,1,2,1,2,2,2,8,BPO,N,N,N,Y,N
+Y,Ruchi Chowdhury,48,Male,Undergraduation,2,1,2,2,2,2,8,BPO,N,N,N,Y,N
+Y,Ritika Pradeep Mittal,24,Female,Post Graduation,1,2,1,2,2,2,1,BPO,N,N,N,Y,N
+Y,Aishwarya Ramnarine,30,Female,Undergraduation,2,1,2,2,2,3,7,BPO,N,N,N,Y,N
+Y,Sara Biren Khanna,27,Female,Undergraduation,2,1,2,2,2,3,1,BPO,N,N,N,Y,N
+Y,Payal Iyer,48,Female,High School,1,2,1,2,2,3,6,BPO,N,N,N,Y,N
+Y,Bhairavi Pradhan,27,Female,High School,1,2,1,2,2,0,1,BPO,N,N,N,Y,N
+Y,Sweta Karpe,34,Male,High School,1,2,1,2,2,0,5,BPO,N,N,N,Y,N
+N,Anshu Monin Narasimhan,30,Female,Primary School,3,4,1,4,2,0,8,BPO,N,N,N,Y,N
+N,Urmi Charlie Singhal,49,Female,Primary School,3,4,1,4,3,0,6,BPO,N,N,N,Y,N
+N,Fatima Dugar,41,Female,Primary School,3,4,3,4,3,0,8,BPO,N,N,N,Y,N
+N,Madhavi Suraj Sankaran,41,Male,Primary School,3,4,3,4,3,0,7,BPO,N,N,N,Y,N
+N,Riddhi Zahir Bhasin,48,Female,Primary School,3,4,3,4,4,0,6,BPO,N,N,N,Y,N
+N,Laveena Kant,27,Female,Primary School,3,2,3,4,4,0,1,BPO,N,N,N,Y,N
+N,Mukti Padmanabhan,41,Female,Primary School,2,2,1,4,4,0,7,BPO,N,N,N,Y,N
+N,Namita Talwar,27,Female,Primary School,2,1,1,4,4,1,1,BPO,N,N,N,Y,N
+N,Radha Chauhan,41,Female,Primary School,3,1,1,4,3,1,7,BPO,N,N,N,Y,N
+N,Vineeta Ujwal Shukla,40,Female,Primary School,5,1,1,4,3,1,6,BPO,N,N,N,Y,N
+N,Padmini Oommen,48,Female,Primary School,5,1,1,5,2,3,6,BPO,N,N,N,Y,N
+N,Radha Bal,40,Female,Primary School,3,1,2,3,3,1,7,BPO,N,N,N,Y,N
+N,Madhavi Dinesh Sunder,27,Female,Primary School,4,1,1,3,3,2,2,BPO,N,N,N,Y,N
+Y,Nancy More,40,Female,High School,2,2,1,2,1,3,7,BPO,N,N,N,Y,N
+Y,Nupoor Vala,40,Female,High School,2,2,1,2,1,3,5,BPO,N,N,N,Y,N
+Y,Devika Aarif Dora,34,Female,High School,2,2,1,2,1,3,5,BPO,N,N,N,Y,N
+Y,Bhairavi Brock Hari,40,Female,High School,2,3,1,2,2,2,4,BPO,N,N,N,Y,N
+Y,Rachel Pranay Naidu,47,Female,High School,2,3,1,2,2,2,6,BPO,N,N,N,Y,N
+N,Padama Harbhajan Mogul,47,Female,Primary School,4,1,1,3,3,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Anusha Toor,40,Female,Primary School,4,3,1,3,3,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vineeta Sushant Butala,27,Female,Primary School,4,3,1,3,3,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Hema Radhakrishnan,26,Female,Primary School,4,3,1,3,3,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nupoor Deep Biyani,48,Female,Primary School,3,3,1,3,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Radha David Ratta,38,Female,Primary School,3,3,1,3,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aarushi Kailash Sane,34,Male,Primary School,3,3,3,3,2,1,5,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Julie Luthra,38,Female,Primary School,3,3,2,3,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Fatima Aarif Nadig,26,Female,Primary School,5,3,2,3,2,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nishi Wagle,34,Male,Primary School,5,3,2,5,2,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Pamela Dash,38,Female,High School,2,3,1,2,2,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Anshula Srinivas,30,Female,High School,2,3,1,3,2,2,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Tejaswani Wafiq Kaur,48,Female,High School,2,3,1,3,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Aditi Thaman,38,Female,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Binita Malhotra,48,Female,High School,2,3,1,3,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Lata Pradeep Bajwa,38,Female,High School,2,3,3,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Tejaswani Raj,38,Female,High School,2,3,3,3,1,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rosey Ramesh,29,Female,Primary School,5,3,2,3,3,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Lalita Dora,31,Female,Primary School,5,3,2,3,3,2,10,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Monica Pranab Sahota,31,Female,Primary School,5,3,2,3,3,0,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Manjari Tabeed Kar,29,Male,Primary School,5,2,2,3,3,0,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Leela Mathew,29,Female,Primary School,5,2,2,3,3,0,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Amrita Shere,29,Female,Primary School,3,2,2,3,5,0,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Hira Guha,31,Female,Primary School,3,2,2,5,5,4,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Zeenat Batta,29,Female,Primary School,3,2,4,3,5,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nagma Owais Persad,32,Female,Primary School,3,2,4,5,3,6,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nagma Vivek Dhawan,32,Female,Primary School,3,2,4,3,5,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Meghana Baldev Sinha,29,Female,Primary School,2,2,4,3,4,0,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nupoor Ramroop,47,Male,Primary School,2,2,1,4,4,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Trishana Mustafa Deshpande,61,Female,Primary School,2,2,1,4,2,5,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Gunjan Mishra,34,Female,Primary School,2,2,1,4,2,6,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Urmi Mahabir,61,Female,Primary School,2,2,1,3,3,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Sona Babu,34,Female,High School,2,3,3,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Mayawati Kuruvilla,34,Male,High School,2,2,3,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Geetanjali Aadish Saran,45,Female,High School,2,2,2,2,1,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Seema Raghavan Varkey,61,Female,High School,2,2,2,2,1,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Bhaagyasree Gaurav Divan,61,Male,High School,2,2,2,2,1,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aruna Dar,61,Female,Undergraduation,1,1,1,2,2,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Neha Sridhar,63,Male,Undergraduation,1,1,1,2,2,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ruchi Elias Gokhale,45,Male,Undergraduation,1,1,1,2,2,1,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Shweta Kothari,45,Female,Undergraduation,1,1,1,2,2,2,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Namita Ratti,39,Female,Undergraduation,1,1,1,1,2,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nalini Eddie Bhattacharyya,63,Female,Undergraduation,1,1,1,1,2,2,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Neela Aadil Chana,39,Female,Undergraduation,2,1,1,1,2,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nikita Chand,45,Female,High School,2,2,2,2,2,3,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Neha Bawa,41,Female,High School,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Anshula Nigam,29,Female,High School,2,2,2,2,2,3,1,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Mini Gopal,41,Female,High School,2,2,2,3,2,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Priyanka Munaf Bir,63,Female,High School,2,2,2,3,2,0,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Chhaya Zahir Raghavan,29,Female,Primary School,1,2,1,4,3,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Shanti Mann,41,Female,Primary School,1,2,2,4,3,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rakhi Akhil Agate,45,Female,Primary School,1,2,1,4,3,0,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Anshu Ratti,29,Female,Primary School,1,2,1,2,3,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aarti Ehsaan Pandit,63,Male,Primary School,1,2,3,2,2,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kamini Mander,41,Female,Primary School,1,2,3,2,2,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Babita Sankaran,42,Female,Primary School,1,1,1,2,2,1,5,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ananya Gupta,42,Female,Primary School,1,1,1,2,2,1,5,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Anusha Dani,37,Male,Primary School,3,1,1,2,2,2,5,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sona Chaudhry,29,Male,Primary School,3,1,1,2,2,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Indira Rampersaud,31,Female,Primary School,3,3,2,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jasmin Jacob,20,Female,High School,2,2,2,3,2,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Amolika Devendra Memon,45,Female,High School,2,2,3,3,2,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nutan Bail,31,Female,High School,2,2,3,3,2,13,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Richa Wagle,31,Female,High School,2,3,3,2,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Rita Ravel,21,Female,High School,2,3,4,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mona Rege,63,Female,High School,2,3,2,2,2,3,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Radhika Taneja,37,Female,Primary School,3,3,2,4,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Babita Munshi,31,Female,Primary School,3,3,2,3,2,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Alka Ekbal Boase,31,Female,Primary School,4,3,1,3,2,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Upasana Ramanathan,20,Female,Primary School,4,3,2,2,3,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Esha Kunda,21,Female,Primary School,4,3,2,2,3,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Esha Mehra,21,Female,Primary School,4,3,2,2,3,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Lata Wafiq Maraj,20,Female,Primary School,4,3,1,4,3,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Samita Vijay,37,Female,Primary School,5,3,2,4,3,0,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vijaya Vani,40,Female,Primary School,5,3,1,4,3,0,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vani jeyakumar,24,Female,Undergraduation,2,1,1,1,2,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vairali K,22,Female,Undergraduation,2,1,1,1,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vaishnavi Janani,40,Female,Undergraduation,2,1,1,1,1,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sujatha Ramani,63,Female,Undergraduation,2,1,1,1,1,2,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sujathi rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Jitendram,24,Male,Undergraduation,1,1,1,1,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Surya Kumari,37,Female,Post Graduation,1,1,2,1,2,4,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Soojitha K,63,Female,Post Graduation,1,1,2,1,3,2,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vandhana Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Varna Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Balambika,24,Female,Post Graduation,2,1,2,1,1,4,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Bagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Baghya Lakshmi,24,Female,Undergraduation,1,2,1,1,1,4,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Triloka varshini,37,Female,Undergraduation,1,2,1,1,2,4,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Varasidhi K,37,Female,Primary School,5,3,1,3,2,4,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Megamani,63,Female,Primary School,3,3,2,4,2,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Chandra Kala,40,Female,Primary School,3,3,2,4,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Soorya Kala,37,Female,Primary School,3,3,2,4,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Narendhiran,28,Male,Primary School,3,3,2,4,3,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Manushree R,32,Female,Primary School,3,3,2,4,3,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kalai Nayagam,28,Male,Primary School,3,3,2,3,3,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Regna Ramya,32,Female,Primary School,3,2,2,3,3,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Raji Raman,24,Female,High School,2,3,2,2,2,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Lakshmi Vasantham,28,Female,High School,2,3,2,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vasanthi Vijay,32,Female,High School,2,3,2,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Pradeepan ,19,Male,High School,2,3,2,2,1,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Menaka Ravi,24,Female,High School,2,3,2,2,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Suleka Raju,24,Female,High School,2,3,2,2,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Chitra Babu,24,Female,High School,2,3,2,2,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jeyanthi Natarajan,22,Female,High School,3,3,1,2,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Dayanidhi Kumar,32,Female,High School,3,3,1,2,1,4,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vageswari Kannan,28,Female,High School,3,3,1,1,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Lakshmi Raman,22,Female,High School,3,3,1,1,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kashi Kumari,22,Female,High School,3,2,1,1,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Manoshi Gupta,28,Female,High School,2,2,1,1,2,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ravi Kurram,18,Male,High School,2,2,1,1,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mala Pillai,19,Female,High School,1,2,1,1,2,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rose Ramani,20,Female,High School,1,2,1,1,1,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Velvizhi Iyer,20,Female,High School,1,2,1,1,1,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Virat Pratap Nadkarni,30,Male,High School,2,2,3,2,2,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Manpreet Date,31,Male,High School,2,2,3,2,2,1,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Amir Meda,32,Male,High School,2,2,3,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Pradeep Kumar Sarna,33,Male,High School,2,2,3,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Atul Pratap Brahmbhatt,34,Male,High School,2,2,2,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Baalkrishan Kumar Mann,28,Male,High School,2,2,2,2,3,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Suresh Sid Pradhan,33,Male,Undergraduation,1,2,2,1,2,1,5,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Lalit Jamshed Meka,33,Male,Undergraduation,1,2,2,1,2,3,10,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Satish Singh Kata,33,Male,Undergraduation,1,2,2,1,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Abhinav Bhai Gagrani,35,Male,Undergraduation,2,2,2,1,2,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vijay Pravin Sarma,28,Male,Undergraduation,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Umesh Naik,28,Male,High School,2,2,2,2,3,3,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Elias Nadig,35,Male,High School,2,2,2,2,3,3,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kamlesh Chitranjan Mohan,35,Male,High School,3,2,2,2,3,2,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Karim Upadhyay,35,Male,High School,3,2,2,3,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Biren Biyani,28,Male,High School,3,2,2,3,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Balaji Karnik,41,Male,High School,3,2,2,3,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ghanshyam Natarajan,41,Male,Primary School,4,3,2,3,3,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rajendra Mohanty,41,Male,Primary School,3,4,3,4,3,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Devendra Venkat Kohli,41,Male,Primary School,4,2,3,4,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jaswant Bhai Chohan,41,Male,High School,3,2,2,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Iqbal Bhai Badal,28,Male,High School,2,4,1,3,2,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kalyan Mand,40,Male,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Naseer Pratap Deo,40,Male,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Akhil Khalsa,40,Male,High School,2,3,1,3,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vijay Swaminathan,28,Male,Undergraduation,2,2,2,2,2,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Raghavan Bhai Nadkarni,40,Male,Undergraduation,2,2,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Atul Prasad Nagarajan,40,Male,Undergraduation,2,2,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Atul Majumdar,40,Male,Undergraduation,1,3,1,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Bahadur Pratap Dixit,40,Male,Undergraduation,1,3,1,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jawahar Pranay Sagar,38,Male,Undergraduation,2,3,1,2,2,1,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rahim Dev Sangha,38,Male,Undergraduation,2,3,1,1,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Satish Lal Srinivasan,28,Male,Undergraduation,2,1,1,1,2,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Baldev Tank,38,Male,Undergraduation,1,1,2,1,2,11,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Habib Ramesh,28,Male,Undergraduation,1,1,2,1,2,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Raghavan Dev Seshadri,38,Male,Undergraduation,1,1,2,1,1,0,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Naseer Ram,28,Male,Undergraduation,1,1,2,1,1,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Manpreet Morar,28,Male,Undergraduation,2,1,2,1,1,0,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Chinmay Kumar Vasa,38,Male,Undergraduation,2,1,2,1,1,4,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Satishwar Elias Apte,38,Male,Undergraduation,2,1,2,1,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Gauransh Prasad Deshpande,28,Male,Post Graduation,1,2,1,2,2,6,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Faisal Somani,38,Male,High School,2,3,1,3,2,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Arun Hari,38,Male,High School,2,3,2,3,2,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Mohan Lal Prasad,38,Male,High School,3,3,2,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Ehsaan Raj Sha,40,Male,High School,3,3,2,2,2,5,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Moti Raj Hegde,40,Male,High School,3,3,2,2,1,6,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Devendra Nagy,40,Male,High School,3,3,2,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,"Aniruddh Nawab, Ganesan",40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Qabool Iyengar,28,Male,High School,3,3,2,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Rupesh Wagle,21,Male,High School,3,3,2,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kalpit Bhai Lata,40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Radhe Raj Bera,40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Jamshed Hrishikesh Kamdar,40,Male,High School,3,3,2,1,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mustafa Singh De,21,Male,High School,3,3,2,1,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ishat Dev Sharaf,40,Male,High School,3,3,2,1,1,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Baber Palla,40,Male,Undergraduation,1,2,1,3,1,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Jagat Swamy,26,Male,Undergraduation,1,2,1,3,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Manish Lanka,44,Male,Undergraduation,1,2,1,3,1,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Lalit Chander,28,Male,Undergraduation,1,2,1,2,1,2,12,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Obaid Krish,61,Male,Primary School,3,2,2,3,4,2,14,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mowgli Venkataraman,62,Male,Primary School,3,3,2,4,2,2,19,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Karim Mitesh Doctor,61,Male,Primary School,4,3,2,4,2,3,16,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Naval Jacob,28,Male,Undergraduation,1,2,2,2,1,3,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Binoya Rao Soni,28,Male,Undergraduation,1,3,3,2,1,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aatif Oak,23,Male,Undergraduation,1,3,3,1,1,0,15,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ehsaan Gala,53,Male,Undergraduation,2,3,3,1,1,0,5,Super Market Shelf Maintenance,N,N,N,N,Y
+N,David Bhai Patel,53,Male,High School,3,2,2,1,1,0,19,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Chitranjan Apte,61,Male,High School,3,2,2,1,1,0,13,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ghalib Chad,53,Male,High School,3,2,2,1,1,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nayan Bhai Palan,61,Male,High School,3,2,3,1,1,0,17,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Raju Raval,61,Male,Primary School,4,3,2,4,4,0,13,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Biren Kohli,32,Male,Primary School,4,3,2,4,4,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rajendra Malpani,53,Male,High School,3,2,3,1,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Albert Aniruddh Gokhale,61,Male,High School,3,2,3,1,2,1,30,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ricky Pratap Master,61,Male,High School,3,2,3,1,2,1,20,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nirmal Yogesh Chowdhury,64,Male,High School,3,2,3,1,2,1,25,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Arjun Ram Naik,53,Male,High School,3,2,2,1,2,3,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Eddie Ram Masih,32,Male,Primary School,4,3,2,4,1,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Shashank Lal Edwin,64,Male,Primary School,4,3,2,4,1,2,30,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sai Pratap Borra,57,Male,Primary School,3,2,2,3,2,3,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Anees Rastogi,64,Male,Primary School,3,2,2,3,2,3,23,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Brock Jhaveri,32,Male,Primary School,3,2,2,3,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Chinmay Darpan Ramkissoon,57,Male,Primary School,3,2,2,4,1,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Dinesh Rupal Acharya,64,Male,Primary School,3,2,2,4,1,2,22,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ehsaan Qadim Kari,64,Male,Primary School,3,2,2,5,1,2,21,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Parveen Chandra Dugar,57,Male,Primary School,3,2,2,5,1,2,20,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rahim Kar,57,Male,Primary School,3,2,4,5,3,1,21,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Brock Viswanathan,44,Male,Primary School,2,2,4,5,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Chitranjan Rao Bera,64,Male,Primary School,2,1,4,5,3,1,20,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rashid Din,44,Male,Primary School,2,1,4,4,3,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Baalkrishan Sarraf,64,Male,Primary School,4,1,4,4,3,1,19,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ratan Kalla,44,Male,Primary School,4,1,4,3,3,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Omar Prasad Sant,64,Male,Primary School,3,1,4,3,3,1,18,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ajay Saurabh Bhattacharyya,70,Male,Primary School,3,1,4,3,2,3,17,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mitesh Bijoy Pradhan,26,Male,Primary School,3,1,3,3,2,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rupesh Ram Parekh,57,Male,Primary School,3,1,3,3,3,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ishat Gajendra Varma,48,Male,Primary School,3,1,3,3,3,2,29,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aslam Raj Sandhu,57,Male,Primary School,3,1,3,3,3,1,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ganesh Harbhajan Masih,57,Male,Primary School,3,1,3,3,3,1,13,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Manish Lal Amble,51,Male,Primary School,3,1,3,3,3,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mani Ramam,51,Male,Primary School,3,1,3,3,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Niyati Jagdish Prakash,28,Female,High School,3,2,2,1,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Prabha Yash Ramnarine,49,Male,High School,2,2,2,1,3,11,29,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Padmini Pravin Mall,28,Female,High School,2,2,1,1,3,0,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sushmita Murty,50,Male,High School,2,2,2,1,3,0,23,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sushmita Kashyap,62,Female,High School,2,2,1,1,3,0,22,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Leelawati Dada,28,Male,High School,2,2,2,1,1,0,11,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Amolika Ratan Talwar,28,Female,High School,2,2,1,1,1,4,10,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Zara Amir Luthra,62,Female,High School,2,2,1,1,1,1,34,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Esha Tripathi,26,Male,High School,2,2,2,1,1,6,1,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Aisha Kothari,44,Male,High School,2,2,2,2,1,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Naina Jack Rattan,50,Male,High School,2,2,2,2,1,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Prabha Wason,60,Male,High School,2,2,2,2,1,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Shanti Rajagopal,62,Female,High School,2,2,1,2,1,5,34,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rita Ratta,59,Female,High School,1,2,1,2,1,6,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sona Mitter,23,Female,High School,1,2,1,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Heena Puri,25,Male,High School,1,2,1,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nikita Seshadri,25,Female,High School,1,2,1,2,1,3,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Padama Darpan Pal,25,Male,High School,1,2,1,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ambika Siddharth Mistry,50,Female,High School,1,2,1,2,2,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vineeta Varma,25,Female,High School,1,1,1,2,2,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Anusha Naseer Deo,54,Female,High School,1,1,1,2,1,1,10,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nandini Savant,25,Male,High School,1,1,1,3,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Upasana Sarna,25,Male,High School,1,1,2,3,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aabha Gole,59,Female,High School,1,1,1,3,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nalini Jobin Dar,25,Female,High School,1,1,1,3,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Akhila Kunda,52,Female,High School,1,1,1,3,1,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sameedha Purohit,50,Male,High School,1,1,1,3,1,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aarti Faraz Kota,55,Male,Primary School,3,1,3,3,3,2,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Komal Desai,23,Male,Primary School,3,1,3,3,3,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Yasmin Ramachandran,53,Female,Primary School,3,1,3,4,2,3,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kiran Vaidya,23,Female,Primary School,3,1,3,3,2,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Upasana Sem,50,Female,Primary School,3,3,2,3,2,3,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nidhi Meka,23,Male,Primary School,3,3,2,4,4,0,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Devika Jani,54,Female,High School,2,1,1,3,1,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Bagwati Narayan,23,Male,High School,2,2,2,2,1,0,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nancy Konda,23,Male,Undergraduation,2,3,3,1,1,0,3,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Roma Dhiraj Amble,44,Male,Undergraduation,2,3,3,1,1,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rachel Abbas Mangal,53,Female,Undergraduation,2,3,3,1,1,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sushmita Walia,55,Female,Undergraduation,1,3,3,1,1,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mukti Harjo,50,Female,Primary School,3,3,2,4,4,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rita Shere,52,Female,Primary School,3,3,2,4,4,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Julie Varma,52,Female,Primary School,3,3,2,2,3,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Yamini Chaudhari,55,Male,Primary School,3,3,2,3,3,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Pooja Qabeel Mander,50,Female,High School,2,2,1,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Alpa Munaf Ganguly,52,Female,High School,2,2,1,2,1,3,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Astha Ganesan,52,Female,High School,2,2,1,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Julie Koshy,55,Female,High School,2,2,1,2,1,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Amrita Anand Manda,50,Female,High School,2,2,1,2,1,3,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jyoti Sarna,28,Female,High School,2,2,1,2,1,3,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Bhaagyasree Shere,21,Male,High School,2,2,2,2,1,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kamini Doshi,28,Female,Primary School,3,3,1,3,3,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Chandni Balaji Seshadri,28,Male,Primary School,3,3,1,3,3,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ambika Khalsa,28,Female,Primary School,2,3,1,3,3,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kajol Chandran,46,Female,Primary School,2,3,1,3,3,2,9,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kalpana Pradeep Narain,46,Male,Primary School,2,3,1,4,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vimala Pandey,46,Male,Primary School,2,2,1,4,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rachel Loke,46,Female,Primary School,2,2,1,4,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Rohini Naseer Halder,21,Male,Primary School,3,2,1,4,2,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mridula Aurora,21,Male,Primary School,3,2,1,4,2,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Parminder Prashad,47,Female,Primary School,3,2,1,4,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Bhairavi Sagar,47,Female,Primary School,3,2,1,4,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aishwarya Behl,47,Female,Primary School,3,2,3,3,3,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Hira Manpreet Datta,21,Female,Primary School,3,2,3,5,3,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Madhavi Brock Arya,47,Female,Primary School,3,2,1,4,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Amrita Qadim Thakkar,47,Female,Primary School,3,2,1,3,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Krishna Hayre,47,Female,High School,2,2,1,2,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Trishana Mahal,21,Female,High School,2,2,1,2,3,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Divya Narayan,48,Male,High School,2,2,1,2,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Shanti Rajagopalan,45,Male,High School,2,2,1,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nitika Mukund Dalal,45,Female,High School,2,2,1,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vineeta Somnath Sachdev,44,Male,High School,2,2,1,2,2,11,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Lalita More,44,Male,High School,2,2,1,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kalyani Narang,45,Male,High School,2,2,1,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Esha Agarwal,45,Female,High School,1,2,1,2,2,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Riya Bassi,21,Male,High School,1,2,1,1,2,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Himani Char,21,Female,High School,1,2,2,1,2,4,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Jyoti Qadim Grover,45,Male,High School,1,2,2,1,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Juhi Deepesh Chowdhury,21,Male,High School,1,2,2,1,2,6,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Indrani Kalpit Chakrabarti,45,Male,High School,1,1,1,1,2,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Hina Kabeer Buch,21,Female,High School,1,1,1,1,3,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ankita Nanda,45,Female,High School,1,1,1,1,3,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Kiran Nayar,45,Female,High School,1,1,1,1,3,5,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Madhu Deepesh Randhawa,26,Male,High School,1,1,2,1,3,6,2,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Basanti Sodhani,22,Male,Undergraduation,1,2,2,1,1,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Nagma Chaudhuri,45,Female,Undergraduation,1,2,2,2,1,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Padama Aggarwal,26,Male,Undergraduation,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Binita Lanka,45,Male,Undergraduation,2,2,2,2,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ambika Sidhu,22,Female,Undergraduation,2,1,2,2,2,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Indrani Pranab Kade,44,Male,Undergraduation,2,1,2,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mukti Khanna,26,Male,Post Graduation,1,2,1,2,2,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Anjana Din,45,Female,Primary School,3,4,1,4,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Narmada Ehsaan Srinivas,22,Male,High School,1,1,1,1,3,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Pamela Raju Raval,45,Female,High School,1,1,1,2,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Astha Rana,22,Female,High School,1,1,1,2,2,2,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sara Anil Sane,45,Male,High School,1,1,1,2,2,2,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aarushi Devendra Randhawa,45,Female,High School,1,2,1,2,2,2,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ruchi Chowdhury,48,Male,Undergraduation,2,1,2,2,2,2,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Ritika Pradeep Mittal,24,Female,Post Graduation,1,2,1,2,2,2,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Aishwarya Ramnarine,30,Female,Undergraduation,2,1,2,2,2,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sara Biren Khanna,27,Female,Undergraduation,2,1,2,2,2,3,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Payal Iyer,48,Female,High School,1,2,1,2,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Bhairavi Pradhan,27,Female,High School,1,2,1,2,2,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Sweta Karpe,34,Male,High School,1,2,1,2,2,0,5,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Anshu Monin Narasimhan,30,Female,Primary School,3,4,1,4,2,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Urmi Charlie Singhal,49,Female,Primary School,3,4,1,4,3,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Fatima Dugar,41,Female,Primary School,3,4,3,4,3,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Madhavi Suraj Sankaran,41,Male,Primary School,3,4,3,4,3,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Riddhi Zahir Bhasin,48,Female,Primary School,3,4,3,4,4,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Laveena Kant,27,Female,Primary School,3,2,3,4,4,0,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Mukti Padmanabhan,41,Female,Primary School,2,2,1,4,4,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Namita Talwar,27,Female,Primary School,2,1,1,4,4,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Radha Chauhan,41,Female,Primary School,3,1,1,4,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Vineeta Ujwal Shukla,40,Female,Primary School,5,1,1,4,3,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Padmini Oommen,48,Female,Primary School,5,1,1,5,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Radha Bal,40,Female,Primary School,3,1,2,3,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+N,Madhavi Dinesh Sunder,27,Female,Primary School,4,1,1,3,3,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nancy More,40,Female,High School,2,2,1,2,1,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nupoor Vala,40,Female,High School,2,2,1,2,1,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Devika Aarif Dora,34,Female,High School,2,2,1,2,1,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Bhairavi Brock Hari,40,Female,High School,2,3,1,2,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Rachel Pranay Naidu,47,Female,High School,2,3,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
