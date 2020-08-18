@@ -1,0 +1,1483 @@
+﻿JOB_MATCH,S_NAME,S_AGE,S_GENDER,S_EDUCATION,S_UNDERSTANDING_COMM,S_GETTING_ALONG_PEOPLE,S_LIFE_ACT_HOUSE,S_LIFE_ACT_WORK,S_PARTICIPATE_SOCIETY,S_PREV_EMP,S_TOTAL_EXPERIENCE,JOB_DESCRIPTION,J_LANGUAGE,J_COMMUNICATION,J_PROB_SOLVE,J_ATTEN_VIGIL,J_ADAPT_INTERACT
+Y,Anusha Math,29,Female,Undergraduation,2,3,1,3,2,2,5,Marketing ,Y,Y,N,N,N
+Y,Sonali chandra,33,Female,Undergraduation,2,3,3,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,Mayank Kuruvilla,34,Male,Undergraduation,2,2,3,2,1,3,3,Marketing ,Y,Y,N,N,N
+Y,Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,Marketing ,Y,Y,N,N,N
+Y,Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,Amita Nigam,29,Female,Undergraduation,2,2,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+Y,Jasminder Jacob,20,Female,High School,2,2,2,3,2,1,1,Marketing ,Y,Y,N,N,N
+Y,Nutan Vikas,31,Female,Undergraduation,2,2,3,3,2,13,6,Marketing ,Y,Y,N,N,N
+Y,Richa Chaddar,31,Female,Undergraduation,2,3,3,2,2,3,6,Marketing ,Y,Y,N,N,N
+Y,Riwika Patel,21,Female,High School,2,3,4,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,Vani Sundar,24,Female,Undergraduation,2,1,1,1,2,0,2,Marketing ,Y,Y,N,N,N
+Y,Vairali Sundaresan,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,Sujatha rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,Jitendranath V,24,Male,Undergraduation,1,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,Vandhani Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,Vasuda Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,Balambika Jayam,24,Female,Undergraduation,2,1,2,1,1,4,2,Marketing ,Y,Y,N,N,N
+Y,Vagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,Baghya Pradha,24,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,Raji Raman X,24,Female,High School,2,3,2,2,2,1,3,Marketing ,Y,Y,N,N,N
+Y,Lakshmi Vasantham X,28,Female,High School,2,3,2,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,Vasanthi Vijay X,32,Female,Undergraduation,2,3,2,2,1,3,3,Marketing ,Y,Y,N,N,N
+Y,Pradeepan  X,19,Male,High School,2,3,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+Y,Menaka Ravi X,24,Female,Undergraduation,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,Suleka Raju X,24,Female,Undergraduation,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,Chitra Babu X,24,Female,Undergraduation,2,3,2,2,1,2,2,Marketing ,Y,Y,N,N,N
+Y,Manoshi Gupta X,28,Female,High School,2,2,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+Y,Ravi Kurram X,18,Male,High School,2,2,1,1,2,2,4,Marketing ,Y,Y,N,N,N
+Y,Mala Pillai X,19,Female,High School,1,2,1,1,2,2,2,Marketing ,Y,Y,N,N,N
+Y,Rose Ramani X,20,Female,Undergraduation,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,Velvizhi Iyer X,20,Female,High School,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,Virat Pratap Nadkarni X,30,Male,Undergraduation,2,2,3,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,Manpreet Date X,31,Male,Undergraduation,2,2,3,2,2,1,5,Marketing ,Y,Y,N,N,N
+Y,Amir Meda X,32,Male,Undergraduation,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,Pradeep Kumar Sarna X,33,Male,High School,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,Atul Pratap Brahmbhatt X,34,Male,High School,2,2,2,2,2,1,7,Marketing ,Y,Y,N,N,N
+Y,Baalkrishan Kumar Mann X,28,Male,High School,2,2,2,2,3,1,3,Marketing ,Y,Y,N,N,N
+Y,Suresh Sid Pradhan X,33,Male,Undergraduation,1,2,2,1,2,1,5,Marketing ,Y,Y,N,N,N
+Y,Lalit Jamshed Meka X,33,Male,Undergraduation,1,2,2,1,2,3,10,Marketing ,Y,Y,N,N,N
+Y,Satish Singh Kata X,33,Male,Undergraduation,1,2,2,1,2,1,6,Marketing ,Y,Y,N,N,N
+Y,Vijay Pravin Sarma X,28,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,Umesh Naik C,28,Male,High School,2,2,2,2,3,3,4,Marketing ,Y,Y,N,N,N
+Y,Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Marketing ,Y,Y,N,N,N
+Y,Satish Lal Srinivasan X,28,Male,Undergraduation,2,1,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+Y,Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,Marketing ,Y,Y,N,N,N
+Y,Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,Marketing ,Y,Y,N,N,N
+Y,Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,Marketing ,Y,Y,N,N,N
+Y,Gauransh Prasad Desh,28,Male,Post Graduation,1,2,1,2,2,6,4,Marketing ,Y,Y,N,N,N
+Y,Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+Y,Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,Marketing ,Y,Y,N,N,N
+Y,Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,Marketing ,Y,Y,N,N,N
+Y,Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,Marketing ,Y,Y,N,N,N
+Y,Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,Marketing ,Y,Y,N,N,N
+Y,Padmini Pravin Mall C,28,Female,High School,2,2,1,1,3,0,3,Marketing ,Y,Y,N,N,N
+Y,Leelawati Dada C,28,Male,High School,2,2,2,1,1,0,11,Marketing ,Y,Y,N,N,N
+Y,Amolika Ratan Talwar C,28,Female,High School,2,2,1,1,1,4,10,Marketing ,Y,Y,N,N,N
+Y,Esha Tripathi C,26,Male,High School,2,2,2,1,1,6,1,Marketing ,Y,Y,N,N,N
+Y,Sona Mitter C,23,Female,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Heena Puri C,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Nikita Seshadri C,25,Female,High School,1,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,Padama Darpan Pal C,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Vineeta Varma C,25,Female,High School,1,1,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,Nandini Savant C,25,Male,High School,1,1,1,3,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Upasana Sarna C,25,Male,High School,1,1,2,3,1,1,4,Marketing ,Y,Y,N,N,N
+Y,Nalini Jobin Dar C,25,Female,High School,1,1,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+Y,Bagwati Narayan C,23,Male,High School,2,2,2,2,1,0,3,Marketing ,Y,Y,N,N,N
+Y,Nancy Konda V,23,Male,Undergraduation,2,3,3,1,1,0,3,Marketing ,Y,Y,N,N,N
+Y,Jyoti Sarna V,28,Female,High School,2,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,Bhaagyasree Shere V,21,Male,High School,2,2,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+Y,Trishana Mahal V,26,Female,Undergraduation,2,2,1,2,3,1,2,Marketing ,Y,Y,N,N,N
+Y,Riya Bassi C,26,Male,Undergraduation,1,2,1,1,2,0,1,Marketing ,Y,Y,N,N,N
+Y,Himani Char C,26,Female,Undergraduation,1,2,2,1,2,4,1,Marketing ,Y,Y,N,N,N
+Y,Juhi Deepesh Chowdhury C,26,Male,Undergraduation,1,2,2,1,2,6,1,Marketing ,Y,Y,N,N,N
+Y,Hina Kabeer Buch C,21,Female,High School,1,1,1,1,3,0,1,Marketing ,Y,Y,N,N,N
+Y,Madhu Deepesh Randhawa C,26,Male,High School,1,1,2,1,3,6,2,Marketing ,Y,Y,N,N,N
+Y,Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,Marketing ,Y,Y,N,N,N
+Y,Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,Marketing ,Y,Y,N,N,N
+Y,Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,Narmada Ehsaan Srinivas C,22,Male,High School,1,1,1,1,3,1,1,Marketing ,Y,Y,N,N,N
+Y,Astha Rana C,22,Female,High School,1,1,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+Y,Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+Y,Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,Marketing ,Y,Y,N,N,N
+Y,Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+Y,Bhairavi Pradhan C,27,Female,High School,1,2,1,2,2,0,1,Marketing ,Y,Y,N,N,N
+Y,Sweta Karpe C,34,Male,High School,1,2,1,2,2,0,5,Marketing ,Y,Y,N,N,N
+Y,Devika Aarif Dora C,34,u,High School,2,2,1,2,1,3,5,Marketing ,Y,Y,N,N,N
+Y,Lata Zaad Buch C,26,Female,Undergraduation,1,1,1,2,2,1,3,Teacher,N,N,Y,N,N
+Y,Namita Ratti C,39,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,Kamini Ekbal Bedi C,26,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,Neela Aadil Chana C,39,Female,Undergraduation,2,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,Vani jeyakumar C,24,Female,Undergraduation,2,1,1,1,2,0,2,Teacher,N,N,Y,N,N
+Y,Vairali K C,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,Vaishnavi Janani C,40,Female,Undergraduation,2,1,1,1,1,2,9,Teacher,N,N,Y,N,N
+Y,Sujathi rathinam C,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,Jitendram C,24,Male,Undergraduation,1,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,Surya Kumari C,37,Female,Post Graduation,1,1,2,1,2,4,9,Teacher,N,N,Y,N,N
+Y,Vandhana Vijay C,25,Female,Post Graduation,2,1,2,1,2,2,3,Teacher,N,N,Y,N,N
+Y,Varna Bala C,25,Female,Post Graduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Balambika C,24,Female,Post Graduation,2,1,2,1,1,4,2,Teacher,N,N,Y,N,N
+Y,Bagheswari C,25,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Baghya Lakshmi C,24,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Triloka varshini C,37,Female,Undergraduation,1,2,1,1,2,4,8,Teacher,N,N,Y,N,N
+Y,Suresh Sid Pradhan C,33,Male,Undergraduation,1,2,2,1,2,1,5,Teacher,N,N,Y,N,N
+Y,Lalit Jamshed Meka C,33,Male,Undergraduation,1,2,2,1,2,3,10,Teacher,N,N,Y,N,N
+Y,Satish Singh Kata C,33,Male,Undergraduation,1,2,2,1,2,1,6,Teacher,N,N,Y,N,N
+Y,Abhinav Bhai Gagrani C,35,Male,Undergraduation,2,2,2,1,2,2,9,Teacher,N,N,Y,N,N
+Y,Vijay Pravin Sarma C,28,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+Y,Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Teacher,N,N,Y,N,N
+Y,Raghavan Bhai Nadkarni C,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,Atul Prasad Nagarajan C,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,Atul Majumdar C,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,Bahadur Pratap Dixit C,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,Jawahar Pranay Sagar C,38,Male,Undergraduation,2,3,1,2,2,1,11,Teacher,N,N,Y,N,N
+Y,Rahim Dev Sangha C,38,Male,Undergraduation,2,3,1,1,2,1,8,Teacher,N,N,Y,N,N
+Y,Satish Lal Srinivasan C,28,Male,Undergraduation,2,1,1,1,2,1,3,Teacher,N,N,Y,N,N
+Y,Baldev Tank C,38,Male,Undergraduation,1,1,2,1,2,11,8,Teacher,N,N,Y,N,N
+Y,Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,Teacher,N,N,Y,N,N
+Y,Raghavan Dev Seshadri C,38,Male,Undergraduation,1,1,2,1,1,0,9,Teacher,N,N,Y,N,N
+Y,Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,Teacher,N,N,Y,N,N
+Y,Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,Teacher,N,N,Y,N,N
+Y,Chinmay Kumar Vasa C,38,Male,Undergraduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,Satishwar Elias Apte C,38,Male,Undergraduation,2,1,2,1,1,1,3,Teacher,N,N,Y,N,N
+Y,Gauransh Prasad Deshpande C,28,Male,Post Graduation,1,2,1,2,2,6,4,Teacher,N,N,Y,N,N
+Y,Baber Palla C,40,Male,Undergraduation,1,2,1,3,1,1,7,Teacher,N,N,Y,N,N
+Y,Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,Teacher,N,N,Y,N,N
+Y,Manish Lanka C,44,Male,Undergraduation,1,2,1,3,1,2,7,Teacher,N,N,Y,N,N
+Y,Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,Teacher,N,N,Y,N,N
+Y,Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,Teacher,N,N,Y,N,N
+Y,Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,Teacher,N,N,Y,N,N
+Y,Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,Teacher,N,N,Y,N,N
+Y,Nancy Konda C,23,Male,Undergraduation,2,3,3,1,1,0,3,Teacher,N,N,Y,N,N
+Y,Roma Dhiraj Amble C,44,Male,Undergraduation,2,3,3,1,1,0,6,Teacher,N,N,Y,N,N
+Y,Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,Teacher,N,N,Y,N,N
+Y,Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+Y,Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,Teacher,N,N,Y,N,N
+Y,Indrani Pranab Kade C,44,Male,Undergraduation,2,1,2,2,2,1,7,Teacher,N,N,Y,N,N
+Y,Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,Teacher,N,N,Y,N,N
+Y,Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,Teacher,N,N,Y,N,N
+Y,Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,Teacher,N,N,Y,N,N
+Y,Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,Teacher,N,N,Y,N,N
+Y,Lata Zaad Buch C,26,Female,Undergraduation,1,1,1,2,2,1,3,Executive,N,N,Y,N,N
+Y,Ruchi Elias Gokhale C,45,Male,Undergraduation,1,1,1,2,2,1,11,Executive,N,N,Y,N,N
+Y,Shweta Kothari C,45,Female,Undergraduation,1,1,1,2,2,2,11,Executive,N,N,Y,N,N
+Y,Namita Ratti C,39,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,Kamini Ekbal Bedi C,26,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,Neela Aadil Chana C,39,Female,Undergraduation,2,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,Vani jeyakumar C,24,Female,Undergraduation,2,1,1,1,2,0,2,Executive,N,N,Y,N,N
+Y,Vairali K C,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,Vaishnavi Janani C,40,Female,Undergraduation,2,1,1,1,1,2,9,Executive,N,N,Y,N,N
+Y,Sujathi rathinam C,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,Jitendram C,24,Male,Undergraduation,1,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,Surya Kumari C,37,Female,Post Graduation,1,1,2,1,2,4,9,Executive,N,N,Y,N,N
+Y,Vandhana Vijay C,25,Female,Post Graduation,2,1,2,1,2,2,3,Executive,N,N,Y,N,N
+Y,Varna Bala C,25,Female,Post Graduation,2,1,2,1,1,4,3,Executive,N,N,Y,N,N
+Y,Balambika C,24,Female,Post Graduation,2,1,2,1,1,4,2,Executive,N,N,Y,N,N
+Y,Bagheswari C,25,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,Baghya Lakshmi C,24,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,Triloka varshini C,37,Female,Undergraduation,1,2,1,1,2,4,8,Executive,N,N,Y,N,N
+Y,Suresh Sid Pradhan C,33,Male,Undergraduation,1,2,2,1,2,1,5,Executive,N,N,Y,N,N
+Y,Lalit Jamshed Meka C,33,Male,Undergraduation,1,2,2,1,2,3,10,Executive,N,N,Y,N,N
+Y,Satish Singh Kata C,33,Male,Undergraduation,1,2,2,1,2,1,6,Executive,N,N,Y,N,N
+Y,Abhinav Bhai Gagrani C,35,Male,Undergraduation,2,2,2,1,2,2,9,Executive,N,N,Y,N,N
+Y,Vijay Pravin Sarma C,28,Male,Undergraduation,2,2,2,2,2,3,2,Executive,N,N,Y,N,N
+Y,Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Executive,N,N,Y,N,N
+Y,Raghavan Bhai Nadkarni C,40,Male,Undergraduation,2,2,1,2,2,2,6,Executive,N,N,Y,N,N
+Y,Atul Prasad Nagarajan C,40,Male,Undergraduation,2,2,1,2,2,2,6,Executive,N,N,Y,N,N
+Y,Atul Majumdar C,40,Male,Undergraduation,1,3,1,2,2,1,6,Executive,N,N,Y,N,N
+Y,Bahadur Pratap Dixit C,40,Male,Undergraduation,1,3,1,2,2,1,6,Executive,N,N,Y,N,N
+Y,Jawahar Pranay Sagar C,38,Male,Undergraduation,2,3,1,2,2,1,11,Executive,N,N,Y,N,N
+Y,Rahim Dev Sangha C,38,Male,Undergraduation,2,3,1,1,2,1,8,Executive,N,N,Y,N,N
+Y,Satish Lal Srinivasan C,28,Male,Undergraduation,2,1,1,1,2,1,3,Executive,N,N,Y,N,N
+Y,Baldev Tank C,38,Male,Undergraduation,1,1,2,1,2,11,8,Executive,N,N,Y,N,N
+Y,Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,Executive,N,N,Y,N,N
+Y,Raghavan Dev Seshadri C,38,Male,Undergraduation,1,1,2,1,1,0,9,Executive,N,N,Y,N,N
+Y,Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,Executive,N,N,Y,N,N
+Y,Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,Executive,N,N,Y,N,N
+Y,Chinmay Kumar Vasa C,38,Male,Undergraduation,2,1,2,1,1,4,3,Executive,N,N,Y,N,N
+Y,Satishwar Elias Apte C,38,Male,Undergraduation,2,1,2,1,1,1,3,Executive,N,N,Y,N,N
+Y,Gauransh Prasad Deshpande C,28,Male,Post Graduation,1,2,1,2,2,6,4,Executive,N,N,Y,N,N
+Y,Baber Palla C,40,Male,Undergraduation,1,2,1,3,1,1,7,Executive,N,N,Y,N,N
+Y,Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,Executive,N,N,Y,N,N
+Y,Manish Lanka C,44,Male,Undergraduation,1,2,1,3,1,2,7,Executive,N,N,Y,N,N
+Y,Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,Executive,N,N,Y,N,N
+Y,Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,Executive,N,N,Y,N,N
+Y,Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,Executive,N,N,Y,N,N
+Y,Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,Executive,N,N,Y,N,N
+Y,Ehsaan Gala C,53,Male,Undergraduation,2,3,3,1,1,0,5,Executive,N,N,Y,N,N
+Y,Nancy Konda C,23,Male,Undergraduation,2,3,3,1,1,0,3,Executive,N,N,Y,N,N
+Y,Roma Dhiraj Amble C,44,Male,Undergraduation,2,3,3,1,1,0,6,Executive,N,N,Y,N,N
+Y,Rachel Abbas Mangal C,53,Female,Undergraduation,2,3,3,1,1,0,8,Executive,N,N,Y,N,N
+Y,Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,Executive,N,N,Y,N,N
+Y,Nagma Chaudhuri C,45,Female,Undergraduation,1,2,2,2,1,1,8,Executive,N,N,Y,N,N
+Y,Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Executive,N,N,Y,N,N
+Y,Binita Lanka C,45,Male,Undergraduation,2,2,2,2,2,1,8,Executive,N,N,Y,N,N
+Y,Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,Executive,N,N,Y,N,N
+Y,Indrani Pranab Kade C,44,Male,Undergraduation,2,1,2,2,2,1,7,Executive,N,N,Y,N,N
+Y,Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,Executive,N,N,Y,N,N
+Y,Ruchi Chowdhury C,48,Male,Undergraduation,2,1,2,2,2,2,8,Executive,N,N,Y,N,N
+Y,Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,Executive,N,N,Y,N,N
+Y,Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,Executive,N,N,Y,N,N
+Y,Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,Executive,N,N,Y,N,N
+Y,Aarti Ehsaan Pandit C,63,Male,Primary School,1,2,3,2,2,1,12,Security Guard,N,N,N,Y,N
+Y,Sai Pratap Borra C,57,Male,Primary School,3,2,2,3,2,3,9,Security Guard,N,N,N,Y,N
+Y,Anees Rastogi C,64,Male,Primary School,3,2,2,3,2,3,23,Security Guard,N,N,N,Y,N
+Y,Ehsaan Qadim Kari C,64,Male,Primary School,3,2,2,5,1,2,21,Security Guard,N,N,N,Y,N
+Y,Parveen Chandra Dugar C,57,Male,Primary School,3,2,2,5,1,2,20,Security Guard,N,N,N,Y,N
+Y,Rahim Kar C,57,Male,Primary School,3,2,4,5,3,1,21,Security Guard,N,N,N,Y,N
+Y,Chitranjan Rao Bera C,64,Male,Primary School,2,1,4,5,3,1,20,Security Guard,N,N,N,Y,N
+Y,Omar Prasad Sant C,64,Male,Primary School,3,1,4,3,3,1,18,Security Guard,N,N,N,Y,N
+Y,Ajay Saurabh Bhattacharyya C,70,Male,Primary School,3,1,4,3,2,3,17,Security Guard,N,N,N,Y,N
+Y,Rupesh Ram Parekh C,57,Male,Primary School,3,1,3,3,3,2,9,Security Guard,N,N,N,Y,N
+Y,Ishat Gajendra Varma C,48,Male,Primary School,3,1,3,3,3,2,29,Security Guard,N,N,N,Y,N
+Y,Aslam Raj Sandhu C,57,Male,Primary School,3,1,3,3,3,1,11,Security Guard,N,N,N,Y,N
+Y,Ganesh Harbhajan Masih C,57,Male,Primary School,3,1,3,3,3,1,13,Security Guard,N,N,N,Y,N
+Y,Manish Lal Amble C,51,Male,Primary School,3,1,3,3,3,1,8,Security Guard,N,N,N,Y,N
+Y,Mani Ramam C,51,Male,Primary School,3,1,3,3,3,1,7,Security Guard,N,N,N,Y,N
+Y,Aarti Faraz Kota C,55,Male,Primary School,3,1,3,3,3,2,8,Security Guard,N,N,N,Y,N
+Y,Yamini Chaudhari C,55,Male,Primary School,3,3,2,3,3,1,9,Security Guard,N,N,N,Y,N
+Y,Pamela Dash C,38,Female,High School,2,3,1,2,2,3,5,BPO,N,N,N,Y,N
+Y,Anshula Srinivas C,30,Female,High School,2,3,1,3,2,2,5,BPO,N,N,N,Y,N
+Y,Tejaswani Wafiq Kaur C,48,Female,Undergraduation,2,3,1,3,2,2,6,BPO,N,N,N,Y,N
+Y,Aditi Thaman C,38,Female,Undergraduation,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,Binita Malhotra C,48,Female,Undergraduation,2,3,1,3,2,1,6,BPO,N,N,N,Y,N
+Y,Lata Pradeep Bajwa C,38,Female,Undergraduation,2,3,3,3,2,1,8,BPO,N,N,N,Y,N
+Y,Tejaswani Raj C,38,Female,High School,2,3,3,3,1,1,8,BPO,N,N,N,Y,N
+Y,Sona Babu C,34,Female,High School,2,3,3,2,1,1,3,BPO,N,N,N,Y,N
+Y,Mayawati Kuruvilla C,34,Male,High School,2,2,3,2,1,3,3,BPO,N,N,N,Y,N
+Y,Geetanjali Aadish Saran C,45,Female,High School,2,2,2,2,1,1,12,BPO,N,N,N,Y,N
+Y,Nikita Chand C,26,Female,Undergraduation,1,1,1,2,2,1,3,BPO,N,N,N,Y,N
+Y,Neha Bawa C,45,Male,Undergraduation,1,1,1,2,2,1,11,BPO,N,N,N,Y,N
+Y,Anshula Nigam C,45,Female,Undergraduation,1,1,1,2,2,2,11,BPO,N,N,N,Y,N
+Y,Mini Gopal C,39,Female,Undergraduation,1,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,Jasmin Jacob C,26,Female,Undergraduation,1,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,Amolika Devendra Memon C,39,Female,Undergraduation,2,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,Nutan Bail C,45,Female,High School,2,2,2,2,2,3,12,BPO,N,N,N,Y,N
+Y,Richa Wagle C,41,Female,High School,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,Rita Ravel C,29,Female,Undergraduation,2,2,2,2,2,3,1,BPO,N,N,N,Y,N
+Y,Raji Raman C,41,Female,Undergraduation,2,2,2,3,2,0,2,BPO,N,N,N,Y,N
+Y,Lakshmi Vasantham C,20,Female,Undergraduation,2,2,2,3,2,1,1,BPO,N,N,N,Y,N
+Y,Vasanthi Vijay C,45,Female,High School,2,2,3,3,2,1,12,BPO,N,N,N,Y,N
+Y,Pradeepan  C,31,Female,High School,2,2,3,3,2,13,6,BPO,N,N,N,Y,N
+Y,Menaka Ravi C,31,Female,High School,2,3,3,2,2,3,6,BPO,N,N,N,Y,N
+Y,Suleka Raju C,21,Female,High School,2,3,4,2,2,3,2,BPO,N,N,N,Y,N
+Y,Chitra Babu C,24,Female,Undergraduation,2,1,1,1,2,0,2,BPO,N,N,N,Y,N
+Y,Jeyanthi Natarajan C,22,Female,Undergraduation,2,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,Dayanidhi Kumar C,40,Female,Undergraduation,2,1,1,1,1,2,9,BPO,N,N,N,Y,N
+Y,Virat Pratap Nadkarni C,22,Female,Undergraduation,2,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,Manpreet Date C,24,Male,Undergraduation,1,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,Amir Meda C,37,Female,Post Graduation,1,1,2,1,2,4,9,BPO,N,N,N,Y,N
+Y,Pradeep Kumar Sarna C,25,Female,Post Graduation,2,1,2,1,2,2,3,BPO,N,N,N,Y,N
+Y,Atul Pratap Brahmbhatt C,25,Female,Post Graduation,2,1,2,1,1,4,3,BPO,N,N,N,Y,N
+Y,Baalkrishan Kumar Mann C,24,Female,Post Graduation,2,1,2,1,1,4,2,BPO,N,N,N,Y,N
+Y,Vijay Pravin Sarma C,25,Female,Undergraduation,1,2,1,1,1,4,3,BPO,N,N,N,Y,N
+Y,Umesh Naik C,24,Female,Undergraduation,1,2,1,1,1,4,3,BPO,N,N,N,Y,N
+Y,Elias Nadig C,37,Female,Undergraduation,1,2,1,1,2,4,8,BPO,N,N,N,Y,N
+Y,Kamlesh Chitranjan Mohan C,24,Female,High School,2,3,2,2,2,1,3,BPO,N,N,N,Y,N
+Y,Karim Upadhyay C,28,Female,High School,2,3,2,2,1,1,3,BPO,N,N,N,Y,N
+Y,Biren Biyani C,32,Female,High School,2,3,2,2,1,3,3,BPO,N,N,N,Y,N
+Y,Balaji Karnik C,19,Male,High School,2,3,2,2,1,3,2,BPO,N,N,N,Y,N
+Y,Jaswant Bhai Chohan C,24,Female,Undergraduation,2,3,2,2,1,2,3,BPO,N,N,N,Y,N
+Y,Kalyan Mand C,24,Female,Undergraduation,2,3,2,2,1,2,3,BPO,N,N,N,Y,N
+Y,Naseer Pratap Deo C,24,Female,Undergraduation,2,3,2,2,1,2,2,BPO,N,N,N,Y,N
+Y,Akhil Khalsa C,22,Female,Undergraduation,3,3,1,2,1,2,2,BPO,N,N,N,Y,N
+Y,Vijay Swaminathan C,32,Female,High School,3,3,1,2,1,4,3,BPO,N,N,N,Y,N
+Y,Raghavan Bhai Nadkarni C,28,Female,Undergraduation,3,3,1,1,1,2,3,BPO,N,N,N,Y,N
+Y,Atul Prasad Nagarajan C,22,Female,Undergraduation,3,3,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,Jawahar Pranay Sagar C,22,Female,High School,3,2,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,Faisal Somani C,28,Female,High School,2,2,1,1,2,1,3,BPO,N,N,N,Y,N
+Y,Arun Hari C,18,Male,High School,2,2,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,Mohan Lal Prasad C,19,Female,High School,1,2,1,1,2,2,2,BPO,N,N,N,Y,N
+Y,Ehsaan Raj Sha C,20,Female,High School,1,2,1,1,1,2,4,BPO,N,N,N,Y,N
+Y,Moti Raj Hegde C,20,Female,High School,1,2,1,1,1,2,4,BPO,N,N,N,Y,N
+Y,Devendra Nagy C,30,Male,Undergraduation,2,2,3,2,2,1,4,BPO,N,N,N,Y,N
+Y,"Aniruddh Nawab, Ganesan C",31,Male,Undergraduation,2,2,3,2,2,1,5,BPO,N,N,N,Y,N
+Y,Qabool Iyengar C,32,Male,Undergraduation,2,2,3,2,2,1,6,BPO,N,N,N,Y,N
+Y,Rupesh Wagle C,33,Male,Undergraduation,2,2,3,2,2,1,6,BPO,N,N,N,Y,N
+Y,Kalpit Bhai Lata C,34,Male,High School,2,2,2,2,2,1,7,BPO,N,N,N,Y,N
+Y,Radhe Raj Bera C,28,Male,High School,2,2,2,2,3,1,3,BPO,N,N,N,Y,N
+Y,Aisha Kothari C,33,Male,Undergraduation,1,2,2,1,2,1,5,BPO,N,N,N,Y,N
+Y,Naina Jack Rattan C,33,Male,Undergraduation,1,2,2,1,2,3,10,BPO,N,N,N,Y,N
+Y,Bagwati Narayan C,33,Male,Undergraduation,1,2,2,1,2,1,6,BPO,N,N,N,Y,N
+Y,Pooja Qabeel Mander C,35,Male,Undergraduation,2,2,2,1,2,2,9,BPO,N,N,N,Y,N
+Y,Alpa Munaf Ganguly C,28,Male,Undergraduation,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,Astha Ganesan C,28,Male,High School,2,2,2,2,3,3,4,BPO,N,N,N,Y,N
+Y,Amrita Anand Manda C,35,Male,High School,2,2,2,2,3,3,8,BPO,N,N,N,Y,N
+Y,Jyoti Sarna C,35,Male,High School,3,2,2,2,3,2,8,BPO,N,N,N,Y,N
+Y,Bhaagyasree Shere C,35,Male,High School,3,2,2,3,2,2,7,BPO,N,N,N,Y,N
+Y,Krishna Hayre C,28,Male,High School,3,2,2,3,2,2,4,BPO,N,N,N,Y,N
+Y,Trishana Mahal C,41,Male,High School,3,2,2,3,2,2,7,BPO,N,N,N,Y,N
+Y,Divya Narayan C,41,Male,High School,3,2,2,3,2,1,8,BPO,N,N,N,Y,N
+Y,Shanti Rajagopalan C,40,Male,High School,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,Nitika Mukund Dalal C,40,Male,High School,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,Vineeta Somnath Sachdev C,40,Male,High School,2,3,1,3,2,3,6,BPO,N,N,N,Y,N
+Y,Lalita More C,28,Male,Undergraduation,2,2,2,2,2,3,3,BPO,N,N,N,Y,N
+Y,Kalyani Narang C,40,Male,Undergraduation,2,2,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,Padama Aggarwal C,40,Male,Undergraduation,2,2,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,Binita Lanka C,40,Male,Undergraduation,1,3,1,2,2,1,6,BPO,N,N,N,Y,N
+Y,Nancy More C,40,Male,Undergraduation,1,3,1,2,2,1,6,BPO,N,N,N,Y,N
+Y,Nupoor Vala C,38,Male,Undergraduation,2,3,1,2,2,1,11,BPO,N,N,N,Y,N
+Y,Devika Aarif Dora C,38,Male,Undergraduation,2,3,1,1,2,1,8,BPO,N,N,N,Y,N
+Y,Bhairavi Brock Hari C,28,Male,Undergraduation,2,1,1,1,2,1,3,BPO,N,N,N,Y,N
+Y,Rachel Pranay Naidu C,38,Male,Undergraduation,1,1,2,1,2,11,8,BPO,N,N,N,Y,N
+Y,Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,BPO,N,N,N,Y,N
+Y,Raghavan Dev Seshadri C,38,Male,Undergraduation,1,1,2,1,1,0,9,BPO,N,N,N,Y,N
+Y,Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,BPO,N,N,N,Y,N
+Y,Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,BPO,N,N,N,Y,N
+Y,Chinmay Kumar Vasa C,38,Male,Undergraduation,2,1,2,1,1,4,3,BPO,N,N,N,Y,N
+Y,Satishwar Elias Apte C,38,Male,Undergraduation,2,1,2,1,1,1,3,BPO,N,N,N,Y,N
+Y,Gauransh Prasad Deshpande C,28,Male,Post Graduation,1,2,1,2,2,6,4,BPO,N,N,N,Y,N
+Y,Faisal Somani C,38,Male,High School,2,3,1,3,2,0,6,BPO,N,N,N,Y,N
+Y,Arun Hari C,38,Male,Post Graduation,2,3,2,3,2,0,2,BPO,N,N,N,Y,N
+Y,Mohan Lal Prasad C,38,Male,Post Graduation,3,3,2,2,2,0,7,BPO,N,N,N,Y,N
+Y,Ehsaan Raj Sha C,40,Male,Post Graduation,3,3,2,2,2,5,7,BPO,N,N,N,Y,N
+Y,Moti Raj Hegde C,40,Male,Post Graduation,3,3,2,2,1,6,9,BPO,N,N,N,Y,N
+Y,Devendra Nagy C,40,Male,Post Graduation,3,3,2,2,1,1,9,BPO,N,N,N,Y,N
+Y,"Aniruddh Nawab, Ganesan C",40,Male,Post Graduation,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,Qabool Iyengar C,28,Male,High School,3,3,2,2,1,3,3,BPO,N,N,N,Y,N
+Y,Rupesh Wagle C,21,Male,High School,3,3,2,2,1,1,3,BPO,N,N,N,Y,N
+Y,Kalpit Bhai Lata C,40,Male,Post Graduation,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,Radhe Raj Bera C,40,Male,Post Graduation,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,Jamshed Hrishikesh Kamdar C,40,Male,Post Graduation,3,3,2,1,1,1,4,BPO,N,N,N,Y,N
+Y,Mustafa Singh De C,21,Male,High School,3,3,2,1,1,1,3,BPO,N,N,N,Y,N
+Y,Ishat Dev Sharaf C,40,Male,High School,3,3,2,1,1,1,7,BPO,N,N,N,Y,N
+Y,Baber Palla C,40,Male,Undergraduation,1,2,1,3,1,1,7,BPO,N,N,N,Y,N
+Y,Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,BPO,N,N,N,Y,N
+Y,Manish Lanka C,44,Male,Undergraduation,1,2,1,3,1,2,7,BPO,N,N,N,Y,N
+Y,Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,BPO,N,N,N,Y,N
+Y,Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,BPO,N,N,N,Y,N
+Y,Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,BPO,N,N,N,Y,N
+Y,Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,BPO,N,N,N,Y,N
+Y,Ehsaan Gala C,53,Male,Undergraduation,2,3,3,1,1,0,5,BPO,N,N,N,Y,N
+Y,David Bhai Patel C,53,Male,High School,3,2,2,1,1,0,19,BPO,N,N,N,Y,N
+Y,Ghalib Chad C,53,Male,High School,3,2,2,1,1,0,6,BPO,N,N,N,Y,N
+Y,Rajendra Malpani C,53,Male,High School,3,2,3,1,2,0,7,BPO,N,N,N,Y,N
+Y,Arjun Ram Naik C,53,Male,High School,3,2,2,1,2,3,8,BPO,N,N,N,Y,N
+Y,Niyati Jagdish Prakash C,28,Female,High School,3,2,2,1,3,1,7,BPO,N,N,N,Y,N
+Y,Prabha Yash Ramnarine C,49,Male,High School,2,2,2,1,3,11,29,BPO,N,N,N,Y,N
+Y,Padmini Pravin Mall C,28,Female,High School,2,2,1,1,3,0,3,BPO,N,N,N,Y,N
+Y,Sushmita Murty C,50,Male,High School,2,2,2,1,3,0,23,BPO,N,N,N,Y,N
+Y,Leelawati Dada C,28,Male,High School,2,2,2,1,1,0,11,BPO,N,N,N,Y,N
+Y,Amolika Ratan Talwar C,28,Female,Post Graduation,2,2,1,1,1,4,10,BPO,N,N,N,Y,N
+Y,Esha Tripathi C,26,Male,Post Graduation,2,2,2,1,1,6,1,BPO,N,N,N,Y,N
+Y,Aisha Kothari C,44,Male,Post Graduation,2,2,2,2,1,0,6,BPO,N,N,N,Y,N
+Y,Naina Jack Rattan C,50,Male,High School,2,2,2,2,1,0,8,BPO,N,N,N,Y,N
+Y,Sona Mitter C,23,Female,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,Heena Puri C,25,Male,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,Nikita Seshadri C,25,Female,High School,1,2,1,2,1,3,4,BPO,N,N,N,Y,N
+Y,Padama Darpan Pal C,25,Male,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,Ambika Siddharth Mistry C,50,Female,High School,1,2,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,Vineeta Varma C,25,Female,Undergraduation,1,1,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,Anusha Naseer Deo C,54,Female,Undergraduation,1,1,1,2,1,1,10,BPO,N,N,N,Y,N
+Y,Nandini Savant C,25,Male,Undergraduation,1,1,1,3,1,1,4,BPO,N,N,N,Y,N
+Y,Upasana Sarna C,25,Male,Undergraduation,1,1,2,3,1,1,4,BPO,N,N,N,Y,N
+Y,Nalini Jobin Dar C,25,Female,Undergraduation,1,1,1,3,1,2,3,BPO,N,N,N,Y,N
+Y,Akhila Kunda C,52,Female,Undergraduation,1,1,1,3,1,2,9,BPO,N,N,N,Y,N
+Y,Sameedha Purohit C,50,Male,High School,1,1,1,3,1,2,9,BPO,N,N,N,Y,N
+Y,Devika Jani C,54,Female,High School,2,1,1,3,1,0,8,BPO,N,N,N,Y,N
+Y,Bagwati Narayan C,23,Male,High School,2,2,2,2,1,0,3,BPO,N,N,N,Y,N
+Y,Nancy Konda C,23,Male,Undergraduation,2,3,3,1,1,0,3,BPO,N,N,N,Y,N
+Y,Roma Dhiraj Amble C,44,Male,Undergraduation,2,3,3,1,1,0,6,BPO,N,N,N,Y,N
+Y,Rachel Abbas Mangal C,53,Female,Undergraduation,2,3,3,1,1,0,8,BPO,N,N,N,Y,N
+Y,Pooja Qabeel Mander C,50,Female,High School,2,2,1,2,1,1,9,BPO,N,N,N,Y,N
+Y,Alpa Munaf Ganguly C,52,Female,High School,2,2,1,2,1,3,9,BPO,N,N,N,Y,N
+Y,Astha Ganesan C,52,Female,High School,2,2,1,2,1,1,9,BPO,N,N,N,Y,N
+Y,Amrita Anand Manda C,50,Female,High School,2,2,1,2,1,3,9,BPO,N,N,N,Y,N
+Y,Jyoti Sarna C,28,Female,High School,2,2,1,2,1,3,4,BPO,N,N,N,Y,N
+Y,Bhaagyasree Shere C,21,Male,High School,2,2,2,2,1,3,2,BPO,N,N,N,Y,N
+Y,Krishna Hayre C,47,Female,High School,2,2,1,2,3,1,7,BPO,N,N,N,Y,N
+Y,Trishana Mahal C,21,Female,High School,2,2,1,2,3,1,2,BPO,N,N,N,Y,N
+Y,Divya Narayan C,48,Male,High School,2,2,1,2,3,1,7,BPO,N,N,N,Y,N
+Y,Shanti Rajagopalan C,45,Male,High School,2,2,1,2,2,1,7,BPO,N,N,N,Y,N
+Y,Nitika Mukund Dalal C,45,Female,High School,2,2,1,2,2,1,7,BPO,N,N,N,Y,N
+Y,Vineeta Somnath Sachdev C,44,Male,High School,2,2,1,2,2,11,6,BPO,N,N,N,Y,N
+Y,Lalita More C,44,Male,High School,2,2,1,2,2,0,7,BPO,N,N,N,Y,N
+Y,Kalyani Narang C,45,Male,High School,2,2,1,2,2,0,7,BPO,N,N,N,Y,N
+Y,Esha Agarwal C,45,Female,High School,1,2,1,2,2,0,8,BPO,N,N,N,Y,N
+Y,Riya Bassi C,21,Male,High School,1,2,1,1,2,0,1,BPO,N,N,N,Y,N
+Y,Himani Char C,21,Female,High School,1,2,2,1,2,4,1,BPO,N,N,N,Y,N
+Y,Jyoti Qadim Grover C,45,Male,High School,1,2,2,1,2,1,8,BPO,N,N,N,Y,N
+Y,Juhi Deepesh Chowdhury C,21,Male,High School,1,2,2,1,2,6,1,BPO,N,N,N,Y,N
+Y,Indrani Kalpit Chakrabarti C,45,Male,High School,1,1,1,1,2,0,8,BPO,N,N,N,Y,N
+Y,Hina Kabeer Buch C,21,Female,High School,1,1,1,1,3,0,1,BPO,N,N,N,Y,N
+Y,Ankita Nanda C,45,Female,High School,1,1,1,1,3,0,8,BPO,N,N,N,Y,N
+Y,Kiran Nayar C,45,Female,High School,1,1,1,1,3,5,8,BPO,N,N,N,Y,N
+Y,Madhu Deepesh Randhawa C,26,Male,High School,1,1,2,1,3,6,2,BPO,N,N,N,Y,N
+Y,Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,BPO,N,N,N,Y,N
+Y,Nagma Chaudhuri C,45,Female,Undergraduation,1,2,2,2,1,1,8,BPO,N,N,N,Y,N
+Y,Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,Binita Lanka C,45,Male,Undergraduation,2,2,2,2,2,1,8,BPO,N,N,N,Y,N
+Y,Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,BPO,N,N,N,Y,N
+Y,Indrani Pranab Kade C,44,Male,Undergraduation,2,1,2,2,2,1,7,BPO,N,N,N,Y,N
+Y,Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,Narmada Ehsaan Srinivas C,22,Male,High School,1,1,1,1,3,1,1,BPO,N,N,N,Y,N
+Y,Pamela Raju Raval C,45,Female,High School,1,1,1,2,2,1,8,BPO,N,N,N,Y,N
+Y,Astha Rana C,22,Female,High School,1,1,1,2,2,2,1,BPO,N,N,N,Y,N
+Y,Sara Anil Sane C,45,Male,High School,1,1,1,2,2,2,8,BPO,N,N,N,Y,N
+Y,Aarushi Devendra Randhawa C,45,Female,High School,1,2,1,2,2,2,8,BPO,N,N,N,Y,N
+Y,Ruchi Chowdhury C,48,Male,Undergraduation,2,1,2,2,2,2,8,BPO,N,N,N,Y,N
+Y,Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,BPO,N,N,N,Y,N
+Y,Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,BPO,N,N,N,Y,N
+Y,Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,BPO,N,N,N,Y,N
+Y,Payal Iyer C,48,Female,High School,1,2,1,2,2,3,6,BPO,N,N,N,Y,N
+Y,Bhairavi Pradhan C,27,Female,High School,1,2,1,2,2,0,1,BPO,N,N,N,Y,N
+Y,Sweta Karpe C,34,Male,High School,1,2,1,2,2,0,5,BPO,N,N,N,Y,N
+Y,Nancy More C,40,Female,High School,2,2,1,2,1,3,7,BPO,N,N,N,Y,N
+Y,Nupoor Vala C,40,Female,High School,2,2,1,2,1,3,5,BPO,N,N,N,Y,N
+Y,Devika Aarif Dora C,34,Female,High School,2,2,1,2,1,3,5,BPO,N,N,N,Y,N
+Y,Bhairavi Brock Hari C,40,Female,High School,2,3,1,2,2,2,4,BPO,N,N,N,Y,N
+Y,Rachel Pranay Naidu C,47,Female,High School,2,3,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,Pamela Dash C,38,Female,High School,2,3,1,2,2,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Anshula Srinivas C,30,Female,High School,2,3,1,3,2,2,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Tejaswani Wafiq Kaur C,48,Female,High School,2,3,1,3,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Aditi Thaman C,38,Female,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Binita Malhotra C,48,Female,High School,2,3,1,3,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Lata Pradeep Bajwa C,38,Female,High School,2,3,3,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Tejaswani Raj C,38,Female,High School,2,3,3,3,1,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Sona Babu C,34,Female,High School,2,3,3,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Mayawati Kuruvilla C,34,Male,High School,2,2,3,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Geetanjali Aadish Saran C,45,Female,High School,2,2,2,2,1,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nikita Chand C,45,Female,High School,2,2,2,2,2,3,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Neha Bawa C,41,Female,High School,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Anshula Nigam C,29,Female,High School,2,2,2,2,2,3,1,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Mini Gopal C,41,Female,High School,2,2,2,3,2,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jasmin Jacob C,20,Female,High School,2,2,2,3,2,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Amolika Devendra Memon C,45,Female,High School,2,2,3,3,2,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nutan Bail C,31,Female,High School,2,2,3,3,2,13,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Richa Wagle C,31,Female,High School,2,3,3,2,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Rita Ravel C,21,Female,High School,2,3,4,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Raji Raman C,24,Female,High School,2,3,2,2,2,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Lakshmi Vasantham C,28,Female,High School,2,3,2,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vasanthi Vijay C,32,Female,High School,2,3,2,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Pradeepan  C,19,Male,High School,2,3,2,2,1,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Menaka Ravi C,24,Female,High School,2,3,2,2,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Suleka Raju C,24,Female,High School,2,3,2,2,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Chitra Babu C,24,Female,High School,2,3,2,2,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jeyanthi Natarajan C,22,Female,High School,3,3,1,2,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Dayanidhi Kumar C,32,Female,High School,3,3,1,2,1,4,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Virat Pratap Nadkarni C,30,Male,High School,2,2,3,2,2,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Manpreet Date C,31,Male,High School,2,2,3,2,2,1,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Amir Meda C,32,Male,High School,2,2,3,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Pradeep Kumar Sarna C,33,Male,High School,2,2,3,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Atul Pratap Brahmbhatt C,34,Male,High School,2,2,2,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Baalkrishan Kumar Mann C,28,Male,High School,2,2,2,2,3,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vijay Pravin Sarma C,28,Male,Undergraduation,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Umesh Naik C,28,Male,High School,2,2,2,2,3,3,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Elias Nadig C,35,Male,High School,2,2,2,2,3,3,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kamlesh Chitranjan Mohan C,35,Male,High School,3,2,2,2,3,2,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Karim Upadhyay C,35,Male,High School,3,2,2,3,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Biren Biyani C,28,Male,High School,3,2,2,3,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Balaji Karnik C,41,Male,High School,3,2,2,3,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jaswant Bhai Chohan C,41,Male,High School,3,2,2,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kalyan Mand C,40,Male,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Naseer Pratap Deo C,40,Male,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Akhil Khalsa C,40,Male,High School,2,3,1,3,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Raghavan Bhai Nadkarni C,40,Male,Undergraduation,2,2,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Atul Prasad Nagarajan C,40,Male,Undergraduation,2,2,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jawahar Pranay Sagar C,38,Male,Undergraduation,2,3,1,2,2,1,11,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Faisal Somani C,38,Male,High School,2,3,1,3,2,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Arun Hari C,38,Male,High School,2,3,2,3,2,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Mohan Lal Prasad C,38,Male,High School,3,3,2,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Ehsaan Raj Sha C,40,Male,High School,3,3,2,2,2,5,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Moti Raj Hegde C,40,Male,High School,3,3,2,2,1,6,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Devendra Nagy C,40,Male,High School,3,3,2,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,"Aniruddh Nawab, Ganesan C",40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Qabool Iyengar C,28,Male,High School,3,3,2,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Rupesh Wagle C,21,Male,High School,3,3,2,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kalpit Bhai Lata C,40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Radhe Raj Bera C,40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Aisha Kothari C,44,Male,High School,2,2,2,2,1,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Naina Jack Rattan C,50,Male,High School,2,2,2,2,1,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Bagwati Narayan C,23,Male,High School,2,2,2,2,1,0,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Pooja Qabeel Mander C,50,Female,High School,2,2,1,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Alpa Munaf Ganguly C,52,Female,High School,2,2,1,2,1,3,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Astha Ganesan C,52,Female,High School,2,2,1,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Amrita Anand Manda C,50,Female,High School,2,2,1,2,1,3,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Jyoti Sarna C,28,Female,High School,2,2,1,2,1,3,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Bhaagyasree Shere C,21,Male,High School,2,2,2,2,1,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Krishna Hayre C,47,Female,High School,2,2,1,2,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Trishana Mahal C,21,Female,High School,2,2,1,2,3,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Divya Narayan C,48,Male,High School,2,2,1,2,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Shanti Rajagopalan C,45,Male,High School,2,2,1,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nitika Mukund Dalal C,45,Female,High School,2,2,1,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Vineeta Somnath Sachdev C,44,Male,High School,2,2,1,2,2,11,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Lalita More C,44,Male,High School,2,2,1,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Kalyani Narang C,45,Male,High School,2,2,1,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Binita Lanka C,45,Male,Undergraduation,2,2,2,2,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nancy More C,40,Female,High School,2,2,1,2,1,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Nupoor Vala C,40,Female,High School,2,2,1,2,1,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Devika Aarif Dora C,34,Female,High School,2,2,1,2,1,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Bhairavi Brock Hari C,40,Female,High School,2,3,1,2,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,Rachel Pranay Naidu C,47,Female,High School,2,3,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Anusha Math,29,Female,Undergraduation,2,3,1,3,2,2,5,Marketing ,Y,Y,N,N,N
+Y,AB Sonali chandra,33,Female,Undergraduation,2,3,3,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Mayank Kuruvilla,34,Male,Undergraduation,2,2,3,2,1,3,3,Marketing ,Y,Y,N,N,N
+Y,AB Lata Zaad Buch,26,Female,Undergraduation,1,1,1,2,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Kamini Ekbal Bedi,26,Female,Undergraduation,1,1,1,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Amita Nigam,29,Female,Undergraduation,2,2,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+Y,AB Jasminder Jacob,20,Female,High School,2,2,2,3,2,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Nutan Vikas,31,Female,Undergraduation,2,2,3,3,2,13,6,Marketing ,Y,Y,N,N,N
+Y,AB Richa Chaddar,31,Female,Undergraduation,2,3,3,2,2,3,6,Marketing ,Y,Y,N,N,N
+Y,AB Riwika Patel,21,Female,High School,2,3,4,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Vani Sundar,24,Female,Undergraduation,2,1,1,1,2,0,2,Marketing ,Y,Y,N,N,N
+Y,AB Vairali Sundaresan,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Sujatha rathinam,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Jitendranath V,24,Male,Undergraduation,1,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Vandhani Vijay,25,Female,Post Graduation,2,1,2,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Vasuda Bala,25,Female,Post Graduation,2,1,2,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,AB Balambika Jayam,24,Female,Undergraduation,2,1,2,1,1,4,2,Marketing ,Y,Y,N,N,N
+Y,AB Vagheswari,25,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,AB Baghya Pradha,24,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,AB Raji Raman X,24,Female,High School,2,3,2,2,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Lakshmi Vasantham X,28,Female,High School,2,3,2,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Vasanthi Vijay X,32,Female,Undergraduation,2,3,2,2,1,3,3,Marketing ,Y,Y,N,N,N
+Y,AB Pradeepan  X,19,Male,High School,2,3,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Menaka Ravi X,24,Female,Undergraduation,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Suleka Raju X,24,Female,Undergraduation,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Chitra Babu X,24,Female,Undergraduation,2,3,2,2,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Manoshi Gupta X,28,Female,High School,2,2,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Ravi Kurram X,18,Male,High School,2,2,1,1,2,2,4,Marketing ,Y,Y,N,N,N
+Y,AB Mala Pillai X,19,Female,High School,1,2,1,1,2,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Rose Ramani X,20,Female,Undergraduation,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,AB Velvizhi Iyer X,20,Female,High School,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,AB Virat Pratap Nadkarni X,30,Male,Undergraduation,2,2,3,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Manpreet Date X,31,Male,Undergraduation,2,2,3,2,2,1,5,Marketing ,Y,Y,N,N,N
+Y,AB Amir Meda X,32,Male,Undergraduation,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,AB Pradeep Kumar Sarna X,33,Male,High School,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,AB Atul Pratap Brahmbhatt X,34,Male,High School,2,2,2,2,2,1,7,Marketing ,Y,Y,N,N,N
+Y,AB Baalkrishan Kumar Mann X,28,Male,High School,2,2,2,2,3,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Suresh Sid Pradhan X,33,Male,Undergraduation,1,2,2,1,2,1,5,Marketing ,Y,Y,N,N,N
+Y,AB Lalit Jamshed Meka X,33,Male,Undergraduation,1,2,2,1,2,3,10,Marketing ,Y,Y,N,N,N
+Y,AB Satish Singh Kata X,33,Male,Undergraduation,1,2,2,1,2,1,6,Marketing ,Y,Y,N,N,N
+Y,AB Vijay Pravin Sarma X,28,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Umesh Naik C,28,Male,High School,2,2,2,2,3,3,4,Marketing ,Y,Y,N,N,N
+Y,AB Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Marketing ,Y,Y,N,N,N
+Y,AB Satish Lal Srinivasan X,28,Male,Undergraduation,2,1,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,Marketing ,Y,Y,N,N,N
+Y,AB Gauransh Prasad Desh,28,Male,Post Graduation,1,2,1,2,2,6,4,Marketing ,Y,Y,N,N,N
+Y,AB Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,Marketing ,Y,Y,N,N,N
+Y,AB Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,Marketing ,Y,Y,N,N,N
+Y,AB Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,Marketing ,Y,Y,N,N,N
+Y,AB Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,Marketing ,Y,Y,N,N,N
+Y,AB Padmini Pravin Mall C,28,Female,High School,2,2,1,1,3,0,3,Marketing ,Y,Y,N,N,N
+Y,AB Leelawati Dada C,28,Male,High School,2,2,2,1,1,0,11,Marketing ,Y,Y,N,N,N
+Y,AB Amolika Ratan Talwar C,28,Female,High School,2,2,1,1,1,4,10,Marketing ,Y,Y,N,N,N
+Y,AB Esha Tripathi C,26,Male,High School,2,2,2,1,1,6,1,Marketing ,Y,Y,N,N,N
+Y,AB Sona Mitter C,23,Female,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Heena Puri C,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Nikita Seshadri C,25,Female,High School,1,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,AB Padama Darpan Pal C,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Vineeta Varma C,25,Female,High School,1,1,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Nandini Savant C,25,Male,High School,1,1,1,3,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Upasana Sarna C,25,Male,High School,1,1,2,3,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Nalini Jobin Dar C,25,Female,High School,1,1,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Bagwati Narayan C,23,Male,High School,2,2,2,2,1,0,3,Marketing ,Y,Y,N,N,N
+Y,AB Nancy Konda V,23,Male,Undergraduation,2,3,3,1,1,0,3,Marketing ,Y,Y,N,N,N
+Y,AB Jyoti Sarna V,28,Female,High School,2,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,AB Bhaagyasree Shere V,21,Male,High School,2,2,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Trishana Mahal V,26,Female,Undergraduation,2,2,1,2,3,1,2,Marketing ,Y,Y,N,N,N
+Y,AB Riya Bassi C,26,Male,Undergraduation,1,2,1,1,2,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Himani Char C,26,Female,Undergraduation,1,2,2,1,2,4,1,Marketing ,Y,Y,N,N,N
+Y,AB Juhi Deepesh Chowdhury C,26,Male,Undergraduation,1,2,2,1,2,6,1,Marketing ,Y,Y,N,N,N
+Y,AB Hina Kabeer Buch C,21,Female,High School,1,1,1,1,3,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Madhu Deepesh Randhawa C,26,Male,High School,1,1,2,1,3,6,2,Marketing ,Y,Y,N,N,N
+Y,AB Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Narmada Ehsaan Srinivas C,22,Male,High School,1,1,1,1,3,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Astha Rana C,22,Female,High School,1,1,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+Y,AB Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+Y,AB Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,Marketing ,Y,Y,N,N,N
+Y,AB Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+Y,AB Bhairavi Pradhan C,27,Female,High School,1,2,1,2,2,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Sweta Karpe C,34,Male,High School,1,2,1,2,2,0,5,Marketing ,Y,Y,N,N,N
+Y,AB Devika Aarif Dora C,34,u,High School,2,2,1,2,1,3,5,Marketing ,Y,Y,N,N,N
+Y,AB Lata Zaad Buch C,26,Female,Undergraduation,1,1,1,2,2,1,3,Teacher,N,N,Y,N,N
+Y,AB Namita Ratti C,39,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Kamini Ekbal Bedi C,26,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Neela Aadil Chana C,39,Female,Undergraduation,2,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Vani jeyakumar C,24,Female,Undergraduation,2,1,1,1,2,0,2,Teacher,N,N,Y,N,N
+Y,AB Vairali K C,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,AB Vaishnavi Janani C,40,Female,Undergraduation,2,1,1,1,1,2,9,Teacher,N,N,Y,N,N
+Y,AB Sujathi rathinam C,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,AB Jitendram C,24,Male,Undergraduation,1,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,AB Surya Kumari C,37,Female,Post Graduation,1,1,2,1,2,4,9,Teacher,N,N,Y,N,N
+Y,AB Vandhana Vijay C,25,Female,Post Graduation,2,1,2,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Varna Bala C,25,Female,Post Graduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Balambika C,24,Female,Post Graduation,2,1,2,1,1,4,2,Teacher,N,N,Y,N,N
+Y,AB Bagheswari C,25,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Baghya Lakshmi C,24,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Triloka varshini C,37,Female,Undergraduation,1,2,1,1,2,4,8,Teacher,N,N,Y,N,N
+Y,AB Suresh Sid Pradhan C,33,Male,Undergraduation,1,2,2,1,2,1,5,Teacher,N,N,Y,N,N
+Y,AB Lalit Jamshed Meka C,33,Male,Undergraduation,1,2,2,1,2,3,10,Teacher,N,N,Y,N,N
+Y,AB Satish Singh Kata C,33,Male,Undergraduation,1,2,2,1,2,1,6,Teacher,N,N,Y,N,N
+Y,AB Abhinav Bhai Gagrani C,35,Male,Undergraduation,2,2,2,1,2,2,9,Teacher,N,N,Y,N,N
+Y,AB Vijay Pravin Sarma C,28,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+Y,AB Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Teacher,N,N,Y,N,N
+Y,AB Raghavan Bhai Nadkarni C,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,AB Atul Prasad Nagarajan C,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,AB Atul Majumdar C,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,AB Bahadur Pratap Dixit C,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,AB Jawahar Pranay Sagar C,38,Male,Undergraduation,2,3,1,2,2,1,11,Teacher,N,N,Y,N,N
+Y,AB Rahim Dev Sangha C,38,Male,Undergraduation,2,3,1,1,2,1,8,Teacher,N,N,Y,N,N
+Y,AB Satish Lal Srinivasan C,28,Male,Undergraduation,2,1,1,1,2,1,3,Teacher,N,N,Y,N,N
+Y,AB Baldev Tank C,38,Male,Undergraduation,1,1,2,1,2,11,8,Teacher,N,N,Y,N,N
+Y,AB Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,Teacher,N,N,Y,N,N
+Y,AB Raghavan Dev Seshadri C,38,Male,Undergraduation,1,1,2,1,1,0,9,Teacher,N,N,Y,N,N
+Y,AB Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,Teacher,N,N,Y,N,N
+Y,AB Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,Teacher,N,N,Y,N,N
+Y,AB Chinmay Kumar Vasa C,38,Male,Undergraduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Satishwar Elias Apte C,38,Male,Undergraduation,2,1,2,1,1,1,3,Teacher,N,N,Y,N,N
+Y,AB Gauransh Prasad Deshpande C,28,Male,Post Graduation,1,2,1,2,2,6,4,Teacher,N,N,Y,N,N
+Y,AB Baber Palla C,40,Male,Undergraduation,1,2,1,3,1,1,7,Teacher,N,N,Y,N,N
+Y,AB Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,Teacher,N,N,Y,N,N
+Y,AB Manish Lanka C,44,Male,Undergraduation,1,2,1,3,1,2,7,Teacher,N,N,Y,N,N
+Y,AB Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,Teacher,N,N,Y,N,N
+Y,AB Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,Teacher,N,N,Y,N,N
+Y,AB Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,Teacher,N,N,Y,N,N
+Y,AB Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,Teacher,N,N,Y,N,N
+Y,AB Nancy Konda C,23,Male,Undergraduation,2,3,3,1,1,0,3,Teacher,N,N,Y,N,N
+Y,AB Roma Dhiraj Amble C,44,Male,Undergraduation,2,3,3,1,1,0,6,Teacher,N,N,Y,N,N
+Y,AB Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,Teacher,N,N,Y,N,N
+Y,AB Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+Y,AB Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,Teacher,N,N,Y,N,N
+Y,AB Indrani Pranab Kade C,44,Male,Undergraduation,2,1,2,2,2,1,7,Teacher,N,N,Y,N,N
+Y,AB Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,Teacher,N,N,Y,N,N
+Y,AB Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,Teacher,N,N,Y,N,N
+Y,AB Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,Teacher,N,N,Y,N,N
+Y,AB Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,Teacher,N,N,Y,N,N
+Y,AB Lata Zaad Buch C,26,Female,Undergraduation,1,1,1,2,2,1,3,Executive,N,N,Y,N,N
+Y,AB Ruchi Elias Gokhale C,45,Male,Undergraduation,1,1,1,2,2,1,11,Executive,N,N,Y,N,N
+Y,AB Shweta Kothari C,45,Female,Undergraduation,1,1,1,2,2,2,11,Executive,N,N,Y,N,N
+Y,AB Namita Ratti C,39,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Kamini Ekbal Bedi C,26,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Neela Aadil Chana C,39,Female,Undergraduation,2,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Vani jeyakumar C,24,Female,Undergraduation,2,1,1,1,2,0,2,Executive,N,N,Y,N,N
+Y,AB Vairali K C,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,AB Vaishnavi Janani C,40,Female,Undergraduation,2,1,1,1,1,2,9,Executive,N,N,Y,N,N
+Y,AB Sujathi rathinam C,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,AB Jitendram C,24,Male,Undergraduation,1,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,AB Surya Kumari C,37,Female,Post Graduation,1,1,2,1,2,4,9,Executive,N,N,Y,N,N
+Y,AB Vandhana Vijay C,25,Female,Post Graduation,2,1,2,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Varna Bala C,25,Female,Post Graduation,2,1,2,1,1,4,3,Executive,N,N,Y,N,N
+Y,AB Balambika C,24,Female,Post Graduation,2,1,2,1,1,4,2,Executive,N,N,Y,N,N
+Y,AB Bagheswari C,25,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,AB Baghya Lakshmi C,24,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,AB Triloka varshini C,37,Female,Undergraduation,1,2,1,1,2,4,8,Executive,N,N,Y,N,N
+Y,AB Suresh Sid Pradhan C,33,Male,Undergraduation,1,2,2,1,2,1,5,Executive,N,N,Y,N,N
+Y,AB Lalit Jamshed Meka C,33,Male,Undergraduation,1,2,2,1,2,3,10,Executive,N,N,Y,N,N
+Y,AB Satish Singh Kata C,33,Male,Undergraduation,1,2,2,1,2,1,6,Executive,N,N,Y,N,N
+Y,AB Abhinav Bhai Gagrani C,35,Male,Undergraduation,2,2,2,1,2,2,9,Executive,N,N,Y,N,N
+Y,AB Vijay Pravin Sarma C,28,Male,Undergraduation,2,2,2,2,2,3,2,Executive,N,N,Y,N,N
+Y,AB Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Executive,N,N,Y,N,N
+Y,AB Raghavan Bhai Nadkarni C,40,Male,Undergraduation,2,2,1,2,2,2,6,Executive,N,N,Y,N,N
+Y,AB Atul Prasad Nagarajan C,40,Male,Undergraduation,2,2,1,2,2,2,6,Executive,N,N,Y,N,N
+Y,AB Atul Majumdar C,40,Male,Undergraduation,1,3,1,2,2,1,6,Executive,N,N,Y,N,N
+Y,AB Bahadur Pratap Dixit C,40,Male,Undergraduation,1,3,1,2,2,1,6,Executive,N,N,Y,N,N
+Y,AB Jawahar Pranay Sagar C,38,Male,Undergraduation,2,3,1,2,2,1,11,Executive,N,N,Y,N,N
+Y,AB Rahim Dev Sangha C,38,Male,Undergraduation,2,3,1,1,2,1,8,Executive,N,N,Y,N,N
+Y,AB Satish Lal Srinivasan C,28,Male,Undergraduation,2,1,1,1,2,1,3,Executive,N,N,Y,N,N
+Y,AB Baldev Tank C,38,Male,Undergraduation,1,1,2,1,2,11,8,Executive,N,N,Y,N,N
+Y,AB Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,Executive,N,N,Y,N,N
+Y,AB Raghavan Dev Seshadri C,38,Male,Undergraduation,1,1,2,1,1,0,9,Executive,N,N,Y,N,N
+Y,AB Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,Executive,N,N,Y,N,N
+Y,AB Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,Executive,N,N,Y,N,N
+Y,AB Chinmay Kumar Vasa C,38,Male,Undergraduation,2,1,2,1,1,4,3,Executive,N,N,Y,N,N
+Y,AB Satishwar Elias Apte C,38,Male,Undergraduation,2,1,2,1,1,1,3,Executive,N,N,Y,N,N
+Y,AB Gauransh Prasad Deshpande C,28,Male,Post Graduation,1,2,1,2,2,6,4,Executive,N,N,Y,N,N
+Y,AB Baber Palla C,40,Male,Undergraduation,1,2,1,3,1,1,7,Executive,N,N,Y,N,N
+Y,AB Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,Executive,N,N,Y,N,N
+Y,AB Manish Lanka C,44,Male,Undergraduation,1,2,1,3,1,2,7,Executive,N,N,Y,N,N
+Y,AB Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,Executive,N,N,Y,N,N
+Y,AB Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,Executive,N,N,Y,N,N
+Y,AB Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,Executive,N,N,Y,N,N
+Y,AB Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,Executive,N,N,Y,N,N
+Y,AB Ehsaan Gala C,53,Male,Undergraduation,2,3,3,1,1,0,5,Executive,N,N,Y,N,N
+Y,AB Nancy Konda C,23,Male,Undergraduation,2,3,3,1,1,0,3,Executive,N,N,Y,N,N
+Y,AB Roma Dhiraj Amble C,44,Male,Undergraduation,2,3,3,1,1,0,6,Executive,N,N,Y,N,N
+Y,AB Rachel Abbas Mangal C,53,Female,Undergraduation,2,3,3,1,1,0,8,Executive,N,N,Y,N,N
+Y,AB Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,Executive,N,N,Y,N,N
+Y,AB Nagma Chaudhuri C,45,Female,Undergraduation,1,2,2,2,1,1,8,Executive,N,N,Y,N,N
+Y,AB Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Executive,N,N,Y,N,N
+Y,AB Binita Lanka C,45,Male,Undergraduation,2,2,2,2,2,1,8,Executive,N,N,Y,N,N
+Y,AB Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,Executive,N,N,Y,N,N
+Y,AB Indrani Pranab Kade C,44,Male,Undergraduation,2,1,2,2,2,1,7,Executive,N,N,Y,N,N
+Y,AB Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,Executive,N,N,Y,N,N
+Y,AB Ruchi Chowdhury C,48,Male,Undergraduation,2,1,2,2,2,2,8,Executive,N,N,Y,N,N
+Y,AB Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,Executive,N,N,Y,N,N
+Y,AB Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,Executive,N,N,Y,N,N
+Y,AB Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,Executive,N,N,Y,N,N
+Y,AB Aarti Ehsaan Pandit C,63,Male,Primary School,1,2,3,2,2,1,12,Security Guard,N,N,N,Y,N
+Y,AB Sai Pratap Borra C,57,Male,Primary School,3,2,2,3,2,3,9,Security Guard,N,N,N,Y,N
+Y,AB Anees Rastogi C,64,Male,Primary School,3,2,2,3,2,3,23,Security Guard,N,N,N,Y,N
+Y,AB Ehsaan Qadim Kari C,64,Male,Primary School,3,2,2,5,1,2,21,Security Guard,N,N,N,Y,N
+Y,AB Parveen Chandra Dugar C,57,Male,Primary School,3,2,2,5,1,2,20,Security Guard,N,N,N,Y,N
+Y,AB Rahim Kar C,57,Male,Primary School,3,2,4,5,3,1,21,Security Guard,N,N,N,Y,N
+Y,AB Chitranjan Rao Bera C,64,Male,Primary School,2,1,4,5,3,1,20,Security Guard,N,N,N,Y,N
+Y,AB Omar Prasad Sant C,64,Male,Primary School,3,1,4,3,3,1,18,Security Guard,N,N,N,Y,N
+Y,AB Ajay Saurabh Bhattacharyya C,70,Male,Primary School,3,1,4,3,2,3,17,Security Guard,N,N,N,Y,N
+Y,AB Rupesh Ram Parekh C,57,Male,Primary School,3,1,3,3,3,2,9,Security Guard,N,N,N,Y,N
+Y,AB Ishat Gajendra Varma C,48,Male,Primary School,3,1,3,3,3,2,29,Security Guard,N,N,N,Y,N
+Y,AB Aslam Raj Sandhu C,57,Male,Primary School,3,1,3,3,3,1,11,Security Guard,N,N,N,Y,N
+Y,AB Ganesh Harbhajan Masih C,57,Male,Primary School,3,1,3,3,3,1,13,Security Guard,N,N,N,Y,N
+Y,AB Manish Lal Amble C,51,Male,Primary School,3,1,3,3,3,1,8,Security Guard,N,N,N,Y,N
+Y,AB Mani Ramam C,51,Male,Primary School,3,1,3,3,3,1,7,Security Guard,N,N,N,Y,N
+Y,AB Aarti Faraz Kota C,55,Male,Primary School,3,1,3,3,3,2,8,Security Guard,N,N,N,Y,N
+Y,AB Yamini Chaudhari C,55,Male,Primary School,3,3,2,3,3,1,9,Security Guard,N,N,N,Y,N
+Y,AB Pamela Dash C,38,Female,High School,2,3,1,2,2,3,5,BPO,N,N,N,Y,N
+Y,AB Anshula Srinivas C,30,Female,High School,2,3,1,3,2,2,5,BPO,N,N,N,Y,N
+Y,AB Tejaswani Wafiq Kaur C,48,Female,Undergraduation,2,3,1,3,2,2,6,BPO,N,N,N,Y,N
+Y,AB Aditi Thaman C,38,Female,Undergraduation,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,AB Binita Malhotra C,48,Female,Undergraduation,2,3,1,3,2,1,6,BPO,N,N,N,Y,N
+Y,AB Lata Pradeep Bajwa C,38,Female,Undergraduation,2,3,3,3,2,1,8,BPO,N,N,N,Y,N
+Y,AB Tejaswani Raj C,38,Female,High School,2,3,3,3,1,1,8,BPO,N,N,N,Y,N
+Y,AB Sona Babu C,34,Female,High School,2,3,3,2,1,1,3,BPO,N,N,N,Y,N
+Y,AB Mayawati Kuruvilla C,34,Male,High School,2,2,3,2,1,3,3,BPO,N,N,N,Y,N
+Y,AB Geetanjali Aadish Saran C,45,Female,High School,2,2,2,2,1,1,12,BPO,N,N,N,Y,N
+Y,AB Nikita Chand C,26,Female,Undergraduation,1,1,1,2,2,1,3,BPO,N,N,N,Y,N
+Y,AB Neha Bawa C,45,Male,Undergraduation,1,1,1,2,2,1,11,BPO,N,N,N,Y,N
+Y,AB Anshula Nigam C,45,Female,Undergraduation,1,1,1,2,2,2,11,BPO,N,N,N,Y,N
+Y,AB Mini Gopal C,39,Female,Undergraduation,1,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,AB Jasmin Jacob C,26,Female,Undergraduation,1,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,AB Amolika Devendra Memon C,39,Female,Undergraduation,2,1,1,1,2,2,3,BPO,N,N,N,Y,N
+Y,AB Nutan Bail C,45,Female,High School,2,2,2,2,2,3,12,BPO,N,N,N,Y,N
+Y,AB Richa Wagle C,41,Female,High School,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,AB Rita Ravel C,29,Female,Undergraduation,2,2,2,2,2,3,1,BPO,N,N,N,Y,N
+Y,AB Raji Raman C,41,Female,Undergraduation,2,2,2,3,2,0,2,BPO,N,N,N,Y,N
+Y,AB Lakshmi Vasantham C,20,Female,Undergraduation,2,2,2,3,2,1,1,BPO,N,N,N,Y,N
+Y,AB Vasanthi Vijay C,45,Female,High School,2,2,3,3,2,1,12,BPO,N,N,N,Y,N
+Y,AB Pradeepan  C,31,Female,High School,2,2,3,3,2,13,6,BPO,N,N,N,Y,N
+Y,AB Menaka Ravi C,31,Female,High School,2,3,3,2,2,3,6,BPO,N,N,N,Y,N
+Y,AB Suleka Raju C,21,Female,High School,2,3,4,2,2,3,2,BPO,N,N,N,Y,N
+Y,AB Chitra Babu C,24,Female,Undergraduation,2,1,1,1,2,0,2,BPO,N,N,N,Y,N
+Y,AB Jeyanthi Natarajan C,22,Female,Undergraduation,2,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,AB Dayanidhi Kumar C,40,Female,Undergraduation,2,1,1,1,1,2,9,BPO,N,N,N,Y,N
+Y,AB Virat Pratap Nadkarni C,22,Female,Undergraduation,2,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,AB Manpreet Date C,24,Male,Undergraduation,1,1,1,1,1,2,2,BPO,N,N,N,Y,N
+Y,AB Amir Meda C,37,Female,Post Graduation,1,1,2,1,2,4,9,BPO,N,N,N,Y,N
+Y,AB Pradeep Kumar Sarna C,25,Female,Post Graduation,2,1,2,1,2,2,3,BPO,N,N,N,Y,N
+Y,AB Atul Pratap Brahmbhatt C,25,Female,Post Graduation,2,1,2,1,1,4,3,BPO,N,N,N,Y,N
+Y,AB Baalkrishan Kumar Mann C,24,Female,Post Graduation,2,1,2,1,1,4,2,BPO,N,N,N,Y,N
+Y,AB Vijay Pravin Sarma C,25,Female,Undergraduation,1,2,1,1,1,4,3,BPO,N,N,N,Y,N
+Y,AB Umesh Naik C,24,Female,Undergraduation,1,2,1,1,1,4,3,BPO,N,N,N,Y,N
+Y,AB Elias Nadig C,37,Female,Undergraduation,1,2,1,1,2,4,8,BPO,N,N,N,Y,N
+Y,AB Kamlesh Chitranjan Mohan C,24,Female,High School,2,3,2,2,2,1,3,BPO,N,N,N,Y,N
+Y,AB Karim Upadhyay C,28,Female,High School,2,3,2,2,1,1,3,BPO,N,N,N,Y,N
+Y,AB Biren Biyani C,32,Female,High School,2,3,2,2,1,3,3,BPO,N,N,N,Y,N
+Y,AB Balaji Karnik C,19,Male,High School,2,3,2,2,1,3,2,BPO,N,N,N,Y,N
+Y,AB Jaswant Bhai Chohan C,24,Female,Undergraduation,2,3,2,2,1,2,3,BPO,N,N,N,Y,N
+Y,AB Kalyan Mand C,24,Female,Undergraduation,2,3,2,2,1,2,3,BPO,N,N,N,Y,N
+Y,AB Naseer Pratap Deo C,24,Female,Undergraduation,2,3,2,2,1,2,2,BPO,N,N,N,Y,N
+Y,AB Akhil Khalsa C,22,Female,Undergraduation,3,3,1,2,1,2,2,BPO,N,N,N,Y,N
+Y,AB Vijay Swaminathan C,32,Female,High School,3,3,1,2,1,4,3,BPO,N,N,N,Y,N
+Y,AB Raghavan Bhai Nadkarni C,28,Female,Undergraduation,3,3,1,1,1,2,3,BPO,N,N,N,Y,N
+Y,AB Atul Prasad Nagarajan C,22,Female,Undergraduation,3,3,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,AB Jawahar Pranay Sagar C,22,Female,High School,3,2,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,AB Faisal Somani C,28,Female,High School,2,2,1,1,2,1,3,BPO,N,N,N,Y,N
+Y,AB Arun Hari C,18,Male,High School,2,2,1,1,2,2,4,BPO,N,N,N,Y,N
+Y,AB Mohan Lal Prasad C,19,Female,High School,1,2,1,1,2,2,2,BPO,N,N,N,Y,N
+Y,AB Ehsaan Raj Sha C,20,Female,High School,1,2,1,1,1,2,4,BPO,N,N,N,Y,N
+Y,AB Moti Raj Hegde C,20,Female,High School,1,2,1,1,1,2,4,BPO,N,N,N,Y,N
+Y,AB Devendra Nagy C,30,Male,Undergraduation,2,2,3,2,2,1,4,BPO,N,N,N,Y,N
+Y,"AB Aniruddh Nawab, Ganesan C",31,Male,Undergraduation,2,2,3,2,2,1,5,BPO,N,N,N,Y,N
+Y,AB Qabool Iyengar C,32,Male,Undergraduation,2,2,3,2,2,1,6,BPO,N,N,N,Y,N
+Y,AB Rupesh Wagle C,33,Male,Undergraduation,2,2,3,2,2,1,6,BPO,N,N,N,Y,N
+Y,AB Kalpit Bhai Lata C,34,Male,High School,2,2,2,2,2,1,7,BPO,N,N,N,Y,N
+Y,AB Radhe Raj Bera C,28,Male,High School,2,2,2,2,3,1,3,BPO,N,N,N,Y,N
+Y,AB Aisha Kothari C,33,Male,Undergraduation,1,2,2,1,2,1,5,BPO,N,N,N,Y,N
+Y,AB Naina Jack Rattan C,33,Male,Undergraduation,1,2,2,1,2,3,10,BPO,N,N,N,Y,N
+Y,AB Bagwati Narayan C,33,Male,Undergraduation,1,2,2,1,2,1,6,BPO,N,N,N,Y,N
+Y,AB Pooja Qabeel Mander C,35,Male,Undergraduation,2,2,2,1,2,2,9,BPO,N,N,N,Y,N
+Y,AB Alpa Munaf Ganguly C,28,Male,Undergraduation,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,AB Astha Ganesan C,28,Male,High School,2,2,2,2,3,3,4,BPO,N,N,N,Y,N
+Y,AB Amrita Anand Manda C,35,Male,High School,2,2,2,2,3,3,8,BPO,N,N,N,Y,N
+Y,AB Jyoti Sarna C,35,Male,High School,3,2,2,2,3,2,8,BPO,N,N,N,Y,N
+Y,AB Bhaagyasree Shere C,35,Male,High School,3,2,2,3,2,2,7,BPO,N,N,N,Y,N
+Y,AB Krishna Hayre C,28,Male,High School,3,2,2,3,2,2,4,BPO,N,N,N,Y,N
+Y,AB Trishana Mahal C,41,Male,High School,3,2,2,3,2,2,7,BPO,N,N,N,Y,N
+Y,AB Divya Narayan C,41,Male,High School,3,2,2,3,2,1,8,BPO,N,N,N,Y,N
+Y,AB Shanti Rajagopalan C,40,Male,High School,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,AB Nitika Mukund Dalal C,40,Male,High School,2,3,1,3,2,1,8,BPO,N,N,N,Y,N
+Y,AB Vineeta Somnath Sachdev C,40,Male,High School,2,3,1,3,2,3,6,BPO,N,N,N,Y,N
+Y,AB Lalita More C,28,Male,Undergraduation,2,2,2,2,2,3,3,BPO,N,N,N,Y,N
+Y,AB Kalyani Narang C,40,Male,Undergraduation,2,2,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,AB Padama Aggarwal C,40,Male,Undergraduation,2,2,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,AB Binita Lanka C,40,Male,Undergraduation,1,3,1,2,2,1,6,BPO,N,N,N,Y,N
+Y,AB Nancy More C,40,Male,Undergraduation,1,3,1,2,2,1,6,BPO,N,N,N,Y,N
+Y,AB Nupoor Vala C,38,Male,Undergraduation,2,3,1,2,2,1,11,BPO,N,N,N,Y,N
+Y,AB Devika Aarif Dora C,38,Male,Undergraduation,2,3,1,1,2,1,8,BPO,N,N,N,Y,N
+Y,AB Bhairavi Brock Hari C,28,Male,Undergraduation,2,1,1,1,2,1,3,BPO,N,N,N,Y,N
+Y,AB Rachel Pranay Naidu C,38,Male,Undergraduation,1,1,2,1,2,11,8,BPO,N,N,N,Y,N
+Y,AB Habib Ramesh C,28,Male,Undergraduation,1,1,2,1,2,0,1,BPO,N,N,N,Y,N
+Y,AB Raghavan Dev Seshadri C,38,Male,Undergraduation,1,1,2,1,1,0,9,BPO,N,N,N,Y,N
+Y,AB Naseer Ram C,28,Male,Undergraduation,1,1,2,1,1,0,1,BPO,N,N,N,Y,N
+Y,AB Manpreet Morar C,28,Male,Undergraduation,2,1,2,1,1,0,4,BPO,N,N,N,Y,N
+Y,AB Chinmay Kumar Vasa C,38,Male,Undergraduation,2,1,2,1,1,4,3,BPO,N,N,N,Y,N
+Y,AB Satishwar Elias Apte C,38,Male,Undergraduation,2,1,2,1,1,1,3,BPO,N,N,N,Y,N
+Y,AB Gauransh Prasad Deshpande C,28,Male,Post Graduation,1,2,1,2,2,6,4,BPO,N,N,N,Y,N
+Y,AB Faisal Somani C,38,Male,High School,2,3,1,3,2,0,6,BPO,N,N,N,Y,N
+Y,AB Arun Hari C,38,Male,Post Graduation,2,3,2,3,2,0,2,BPO,N,N,N,Y,N
+Y,AB Mohan Lal Prasad C,38,Male,Post Graduation,3,3,2,2,2,0,7,BPO,N,N,N,Y,N
+Y,AB Ehsaan Raj Sha C,40,Male,Post Graduation,3,3,2,2,2,5,7,BPO,N,N,N,Y,N
+Y,AB Moti Raj Hegde C,40,Male,Post Graduation,3,3,2,2,1,6,9,BPO,N,N,N,Y,N
+Y,AB Devendra Nagy C,40,Male,Post Graduation,3,3,2,2,1,1,9,BPO,N,N,N,Y,N
+Y,"AB Aniruddh Nawab, Ganesan C",40,Male,Post Graduation,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,AB Qabool Iyengar C,28,Male,High School,3,3,2,2,1,3,3,BPO,N,N,N,Y,N
+Y,AB Rupesh Wagle C,21,Male,High School,3,3,2,2,1,1,3,BPO,N,N,N,Y,N
+Y,AB Kalpit Bhai Lata C,40,Male,Post Graduation,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,AB Radhe Raj Bera C,40,Male,Post Graduation,3,3,2,2,1,1,4,BPO,N,N,N,Y,N
+Y,AB Jamshed Hrishikesh Kamdar C,40,Male,Post Graduation,3,3,2,1,1,1,4,BPO,N,N,N,Y,N
+Y,AB Mustafa Singh De C,21,Male,High School,3,3,2,1,1,1,3,BPO,N,N,N,Y,N
+Y,AB Ishat Dev Sharaf C,40,Male,High School,3,3,2,1,1,1,7,BPO,N,N,N,Y,N
+Y,AB Baber Palla C,40,Male,Undergraduation,1,2,1,3,1,1,7,BPO,N,N,N,Y,N
+Y,AB Jagat Swamy C,26,Male,Undergraduation,1,2,1,3,1,2,3,BPO,N,N,N,Y,N
+Y,AB Manish Lanka C,44,Male,Undergraduation,1,2,1,3,1,2,7,BPO,N,N,N,Y,N
+Y,AB Lalit Chander C,28,Male,Undergraduation,1,2,1,2,1,2,12,BPO,N,N,N,Y,N
+Y,AB Naval Jacob C,28,Male,Undergraduation,1,2,2,2,1,3,8,BPO,N,N,N,Y,N
+Y,AB Binoya Rao Soni C,28,Male,Undergraduation,1,3,3,2,1,3,7,BPO,N,N,N,Y,N
+Y,AB Aatif Oak C,23,Male,Undergraduation,1,3,3,1,1,0,15,BPO,N,N,N,Y,N
+Y,AB Ehsaan Gala C,53,Male,Undergraduation,2,3,3,1,1,0,5,BPO,N,N,N,Y,N
+Y,AB David Bhai Patel C,53,Male,High School,3,2,2,1,1,0,19,BPO,N,N,N,Y,N
+Y,AB Ghalib Chad C,53,Male,High School,3,2,2,1,1,0,6,BPO,N,N,N,Y,N
+Y,AB Rajendra Malpani C,53,Male,High School,3,2,3,1,2,0,7,BPO,N,N,N,Y,N
+Y,AB Arjun Ram Naik C,53,Male,High School,3,2,2,1,2,3,8,BPO,N,N,N,Y,N
+Y,AB Niyati Jagdish Prakash C,28,Female,High School,3,2,2,1,3,1,7,BPO,N,N,N,Y,N
+Y,AB Prabha Yash Ramnarine C,49,Male,High School,2,2,2,1,3,11,29,BPO,N,N,N,Y,N
+Y,AB Padmini Pravin Mall C,28,Female,High School,2,2,1,1,3,0,3,BPO,N,N,N,Y,N
+Y,AB Sushmita Murty C,50,Male,High School,2,2,2,1,3,0,23,BPO,N,N,N,Y,N
+Y,AB Leelawati Dada C,28,Male,High School,2,2,2,1,1,0,11,BPO,N,N,N,Y,N
+Y,AB Amolika Ratan Talwar C,28,Female,Post Graduation,2,2,1,1,1,4,10,BPO,N,N,N,Y,N
+Y,AB Esha Tripathi C,26,Male,Post Graduation,2,2,2,1,1,6,1,BPO,N,N,N,Y,N
+Y,AB Aisha Kothari C,44,Male,Post Graduation,2,2,2,2,1,0,6,BPO,N,N,N,Y,N
+Y,AB Naina Jack Rattan C,50,Male,High School,2,2,2,2,1,0,8,BPO,N,N,N,Y,N
+Y,AB Sona Mitter C,23,Female,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,AB Heena Puri C,25,Male,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,AB Nikita Seshadri C,25,Female,High School,1,2,1,2,1,3,4,BPO,N,N,N,Y,N
+Y,AB Padama Darpan Pal C,25,Male,High School,1,2,1,2,1,1,4,BPO,N,N,N,Y,N
+Y,AB Ambika Siddharth Mistry C,50,Female,High School,1,2,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,AB Vineeta Varma C,25,Female,Undergraduation,1,1,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,AB Anusha Naseer Deo C,54,Female,Undergraduation,1,1,1,2,1,1,10,BPO,N,N,N,Y,N
+Y,AB Nandini Savant C,25,Male,Undergraduation,1,1,1,3,1,1,4,BPO,N,N,N,Y,N
+Y,AB Upasana Sarna C,25,Male,Undergraduation,1,1,2,3,1,1,4,BPO,N,N,N,Y,N
+Y,AB Nalini Jobin Dar C,25,Female,Undergraduation,1,1,1,3,1,2,3,BPO,N,N,N,Y,N
+Y,AB Akhila Kunda C,52,Female,Undergraduation,1,1,1,3,1,2,9,BPO,N,N,N,Y,N
+Y,AB Sameedha Purohit C,50,Male,High School,1,1,1,3,1,2,9,BPO,N,N,N,Y,N
+Y,AB Devika Jani C,54,Female,High School,2,1,1,3,1,0,8,BPO,N,N,N,Y,N
+Y,AB Bagwati Narayan C,23,Male,High School,2,2,2,2,1,0,3,BPO,N,N,N,Y,N
+Y,AB Nancy Konda C,23,Male,Undergraduation,2,3,3,1,1,0,3,BPO,N,N,N,Y,N
+Y,AB Roma Dhiraj Amble C,44,Male,Undergraduation,2,3,3,1,1,0,6,BPO,N,N,N,Y,N
+Y,AB Rachel Abbas Mangal C,53,Female,Undergraduation,2,3,3,1,1,0,8,BPO,N,N,N,Y,N
+Y,AB Pooja Qabeel Mander C,50,Female,High School,2,2,1,2,1,1,9,BPO,N,N,N,Y,N
+Y,AB Alpa Munaf Ganguly C,52,Female,High School,2,2,1,2,1,3,9,BPO,N,N,N,Y,N
+Y,AB Astha Ganesan C,52,Female,High School,2,2,1,2,1,1,9,BPO,N,N,N,Y,N
+Y,AB Amrita Anand Manda C,50,Female,High School,2,2,1,2,1,3,9,BPO,N,N,N,Y,N
+Y,AB Jyoti Sarna C,28,Female,High School,2,2,1,2,1,3,4,BPO,N,N,N,Y,N
+Y,AB Bhaagyasree Shere C,21,Male,High School,2,2,2,2,1,3,2,BPO,N,N,N,Y,N
+Y,AB Krishna Hayre C,47,Female,High School,2,2,1,2,3,1,7,BPO,N,N,N,Y,N
+Y,AB Trishana Mahal C,21,Female,High School,2,2,1,2,3,1,2,BPO,N,N,N,Y,N
+Y,AB Divya Narayan C,48,Male,High School,2,2,1,2,3,1,7,BPO,N,N,N,Y,N
+Y,AB Shanti Rajagopalan C,45,Male,High School,2,2,1,2,2,1,7,BPO,N,N,N,Y,N
+Y,AB Nitika Mukund Dalal C,45,Female,High School,2,2,1,2,2,1,7,BPO,N,N,N,Y,N
+Y,AB Vineeta Somnath Sachdev C,44,Male,High School,2,2,1,2,2,11,6,BPO,N,N,N,Y,N
+Y,AB Lalita More C,44,Male,High School,2,2,1,2,2,0,7,BPO,N,N,N,Y,N
+Y,AB Kalyani Narang C,45,Male,High School,2,2,1,2,2,0,7,BPO,N,N,N,Y,N
+Y,AB Esha Agarwal C,45,Female,High School,1,2,1,2,2,0,8,BPO,N,N,N,Y,N
+Y,AB Riya Bassi C,21,Male,High School,1,2,1,1,2,0,1,BPO,N,N,N,Y,N
+Y,AB Himani Char C,21,Female,High School,1,2,2,1,2,4,1,BPO,N,N,N,Y,N
+Y,AB Jyoti Qadim Grover C,45,Male,High School,1,2,2,1,2,1,8,BPO,N,N,N,Y,N
+Y,AB Juhi Deepesh Chowdhury C,21,Male,High School,1,2,2,1,2,6,1,BPO,N,N,N,Y,N
+Y,AB Indrani Kalpit Chakrabarti C,45,Male,High School,1,1,1,1,2,0,8,BPO,N,N,N,Y,N
+Y,AB Hina Kabeer Buch C,21,Female,High School,1,1,1,1,3,0,1,BPO,N,N,N,Y,N
+Y,AB Ankita Nanda C,45,Female,High School,1,1,1,1,3,0,8,BPO,N,N,N,Y,N
+Y,AB Kiran Nayar C,45,Female,High School,1,1,1,1,3,5,8,BPO,N,N,N,Y,N
+Y,AB Madhu Deepesh Randhawa C,26,Male,High School,1,1,2,1,3,6,2,BPO,N,N,N,Y,N
+Y,AB Basanti Sodhani C,22,Male,Undergraduation,1,2,2,1,1,1,1,BPO,N,N,N,Y,N
+Y,AB Nagma Chaudhuri C,45,Female,Undergraduation,1,2,2,2,1,1,8,BPO,N,N,N,Y,N
+Y,AB Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,BPO,N,N,N,Y,N
+Y,AB Binita Lanka C,45,Male,Undergraduation,2,2,2,2,2,1,8,BPO,N,N,N,Y,N
+Y,AB Ambika Sidhu C,22,Female,Undergraduation,2,1,2,2,2,1,1,BPO,N,N,N,Y,N
+Y,AB Indrani Pranab Kade C,44,Male,Undergraduation,2,1,2,2,2,1,7,BPO,N,N,N,Y,N
+Y,AB Mukti Khanna C,26,Male,Post Graduation,1,2,1,2,2,1,4,BPO,N,N,N,Y,N
+Y,AB Narmada Ehsaan Srinivas C,22,Male,High School,1,1,1,1,3,1,1,BPO,N,N,N,Y,N
+Y,AB Pamela Raju Raval C,45,Female,High School,1,1,1,2,2,1,8,BPO,N,N,N,Y,N
+Y,AB Astha Rana C,22,Female,High School,1,1,1,2,2,2,1,BPO,N,N,N,Y,N
+Y,AB Sara Anil Sane C,45,Male,High School,1,1,1,2,2,2,8,BPO,N,N,N,Y,N
+Y,AB Aarushi Devendra Randhawa C,45,Female,High School,1,2,1,2,2,2,8,BPO,N,N,N,Y,N
+Y,AB Ruchi Chowdhury C,48,Male,Undergraduation,2,1,2,2,2,2,8,BPO,N,N,N,Y,N
+Y,AB Ritika Pradeep Mittal C,24,Female,Post Graduation,1,2,1,2,2,2,1,BPO,N,N,N,Y,N
+Y,AB Aishwarya Ramnarine C,30,Female,Undergraduation,2,1,2,2,2,3,7,BPO,N,N,N,Y,N
+Y,AB Sara Biren Khanna C,27,Female,Undergraduation,2,1,2,2,2,3,1,BPO,N,N,N,Y,N
+Y,AB Payal Iyer C,48,Female,High School,1,2,1,2,2,3,6,BPO,N,N,N,Y,N
+Y,AB Bhairavi Pradhan C,27,Female,High School,1,2,1,2,2,0,1,BPO,N,N,N,Y,N
+Y,AB Sweta Karpe C,34,Male,High School,1,2,1,2,2,0,5,BPO,N,N,N,Y,N
+Y,AB Nancy More C,40,Female,High School,2,2,1,2,1,3,7,BPO,N,N,N,Y,N
+Y,AB Nupoor Vala C,40,Female,High School,2,2,1,2,1,3,5,BPO,N,N,N,Y,N
+Y,AB Devika Aarif Dora C,34,Female,High School,2,2,1,2,1,3,5,BPO,N,N,N,Y,N
+Y,AB Bhairavi Brock Hari C,40,Female,High School,2,3,1,2,2,2,4,BPO,N,N,N,Y,N
+Y,AB Rachel Pranay Naidu C,47,Female,High School,2,3,1,2,2,2,6,BPO,N,N,N,Y,N
+Y,AB Pamela Dash C,38,Female,High School,2,3,1,2,2,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Anshula Srinivas C,30,Female,High School,2,3,1,3,2,2,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Tejaswani Wafiq Kaur C,48,Female,High School,2,3,1,3,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Aditi Thaman C,38,Female,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Binita Malhotra C,48,Female,High School,2,3,1,3,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Lata Pradeep Bajwa C,38,Female,High School,2,3,3,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Tejaswani Raj C,38,Female,High School,2,3,3,3,1,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Sona Babu C,34,Female,High School,2,3,3,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Mayawati Kuruvilla C,34,Male,High School,2,2,3,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Geetanjali Aadish Saran C,45,Female,High School,2,2,2,2,1,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Nikita Chand C,45,Female,High School,2,2,2,2,2,3,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Neha Bawa C,41,Female,High School,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Anshula Nigam C,29,Female,High School,2,2,2,2,2,3,1,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Mini Gopal C,41,Female,High School,2,2,2,3,2,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Jasmin Jacob C,20,Female,High School,2,2,2,3,2,1,1,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Amolika Devendra Memon C,45,Female,High School,2,2,3,3,2,1,12,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Nutan Bail C,31,Female,High School,2,2,3,3,2,13,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Richa Wagle C,31,Female,High School,2,3,3,2,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Rita Ravel C,21,Female,High School,2,3,4,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Raji Raman C,24,Female,High School,2,3,2,2,2,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Lakshmi Vasantham C,28,Female,High School,2,3,2,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Vasanthi Vijay C,32,Female,High School,2,3,2,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Pradeepan  C,19,Male,High School,2,3,2,2,1,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Menaka Ravi C,24,Female,High School,2,3,2,2,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Suleka Raju C,24,Female,High School,2,3,2,2,1,2,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Chitra Babu C,24,Female,High School,2,3,2,2,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Jeyanthi Natarajan C,22,Female,High School,3,3,1,2,1,2,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Dayanidhi Kumar C,32,Female,High School,3,3,1,2,1,4,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Virat Pratap Nadkarni C,30,Male,High School,2,2,3,2,2,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Manpreet Date C,31,Male,High School,2,2,3,2,2,1,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Amir Meda C,32,Male,High School,2,2,3,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Pradeep Kumar Sarna C,33,Male,High School,2,2,3,2,2,1,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Atul Pratap Brahmbhatt C,34,Male,High School,2,2,2,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Baalkrishan Kumar Mann C,28,Male,High School,2,2,2,2,3,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Vijay Pravin Sarma C,28,Male,Undergraduation,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Umesh Naik C,28,Male,High School,2,2,2,2,3,3,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Elias Nadig C,35,Male,High School,2,2,2,2,3,3,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Kamlesh Chitranjan Mohan C,35,Male,High School,3,2,2,2,3,2,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Karim Upadhyay C,35,Male,High School,3,2,2,3,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Biren Biyani C,28,Male,High School,3,2,2,3,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Balaji Karnik C,41,Male,High School,3,2,2,3,2,2,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Jaswant Bhai Chohan C,41,Male,High School,3,2,2,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Kalyan Mand C,40,Male,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Naseer Pratap Deo C,40,Male,High School,2,3,1,3,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Akhil Khalsa C,40,Male,High School,2,3,1,3,2,3,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Vijay Swaminathan C,28,Male,Undergraduation,2,2,2,2,2,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Raghavan Bhai Nadkarni C,40,Male,Undergraduation,2,2,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Atul Prasad Nagarajan C,40,Male,Undergraduation,2,2,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Jawahar Pranay Sagar C,38,Male,Undergraduation,2,3,1,2,2,1,11,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Faisal Somani C,38,Male,High School,2,3,1,3,2,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Arun Hari C,38,Male,High School,2,3,2,3,2,0,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Mohan Lal Prasad C,38,Male,High School,3,3,2,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Ehsaan Raj Sha C,40,Male,High School,3,3,2,2,2,5,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Moti Raj Hegde C,40,Male,High School,3,3,2,2,1,6,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Devendra Nagy C,40,Male,High School,3,3,2,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,"AB Aniruddh Nawab, Ganesan C",40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Qabool Iyengar C,28,Male,High School,3,3,2,2,1,3,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Rupesh Wagle C,21,Male,High School,3,3,2,2,1,1,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Kalpit Bhai Lata C,40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Radhe Raj Bera C,40,Male,High School,3,3,2,2,1,1,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Aisha Kothari C,44,Male,High School,2,2,2,2,1,0,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Naina Jack Rattan C,50,Male,High School,2,2,2,2,1,0,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Bagwati Narayan C,23,Male,High School,2,2,2,2,1,0,3,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Pooja Qabeel Mander C,50,Female,High School,2,2,1,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Alpa Munaf Ganguly C,52,Female,High School,2,2,1,2,1,3,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Astha Ganesan C,52,Female,High School,2,2,1,2,1,1,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Amrita Anand Manda C,50,Female,High School,2,2,1,2,1,3,9,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Jyoti Sarna C,28,Female,High School,2,2,1,2,1,3,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Bhaagyasree Shere C,21,Male,High School,2,2,2,2,1,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Krishna Hayre C,47,Female,High School,2,2,1,2,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Trishana Mahal C,21,Female,High School,2,2,1,2,3,1,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Divya Narayan C,48,Male,High School,2,2,1,2,3,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Shanti Rajagopalan C,45,Male,High School,2,2,1,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Nitika Mukund Dalal C,45,Female,High School,2,2,1,2,2,1,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Vineeta Somnath Sachdev C,44,Male,High School,2,2,1,2,2,11,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Lalita More C,44,Male,High School,2,2,1,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Kalyani Narang C,45,Male,High School,2,2,1,2,2,0,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Padama Aggarwal C,26,Male,Undergraduation,2,2,2,2,2,3,2,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Binita Lanka C,45,Male,Undergraduation,2,2,2,2,2,1,8,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Nancy More C,40,Female,High School,2,2,1,2,1,3,7,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Nupoor Vala C,40,Female,High School,2,2,1,2,1,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Devika Aarif Dora C,34,Female,High School,2,2,1,2,1,3,5,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Bhairavi Brock Hari C,40,Female,High School,2,3,1,2,2,2,4,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Rachel Pranay Naidu C,47,Female,High School,2,3,1,2,2,2,6,Super Market Shelf Maintenance,N,N,N,N,Y
+Y,AB Anusha Ma ST,29,Female,Undergraduation,2,3,1,3,2,2,5,Marketing ,Y,Y,N,N,N
+Y,AB Sonali ch ST,33,Female,Undergraduation,2,3,3,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Mayank Ku ST,34,Male,Undergraduation,2,2,3,2,1,3,3,Marketing ,Y,Y,N,N,N
+Y,AB Lata Zaad ST,26,Female,Undergraduation,1,1,1,2,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Kamini Ek ST,26,Female,Undergraduation,1,1,1,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Amita Nig ST,29,Female,Undergraduation,2,2,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+Y,AB Jasminder ST,20,Female,High School,2,2,2,3,2,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Nutan Vik ST,31,Female,Undergraduation,2,2,3,3,2,13,6,Marketing ,Y,Y,N,N,N
+Y,AB Richa Cha ST,31,Female,Undergraduation,2,3,3,2,2,3,6,Marketing ,Y,Y,N,N,N
+Y,AB Riwika Pa ST,21,Female,High School,2,3,4,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Vani Sund ST,24,Female,Undergraduation,2,1,1,1,2,0,2,Marketing ,Y,Y,N,N,N
+Y,AB Vairali S ST,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Sujatha r ST,22,Female,Undergraduation,2,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Jitendran ST,24,Male,Undergraduation,1,1,1,1,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Vandhani  ST,25,Female,Post Graduation,2,1,2,1,2,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Vasuda Ba ST,25,Female,Post Graduation,2,1,2,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,AB Balambika ST,24,Female,Undergraduation,2,1,2,1,1,4,2,Marketing ,Y,Y,N,N,N
+Y,AB Vagheswar ST,25,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,AB Baghya Pr ST,24,Female,Undergraduation,1,2,1,1,1,4,3,Marketing ,Y,Y,N,N,N
+Y,AB Raji Rama ST,24,Female,High School,2,3,2,2,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Lakshmi V ST,28,Female,High School,2,3,2,2,1,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Vasanthi  ST,32,Female,Undergraduation,2,3,2,2,1,3,3,Marketing ,Y,Y,N,N,N
+Y,AB Pradeepan ST,19,Male,High School,2,3,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Menaka Ra ST,24,Female,Undergraduation,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Suleka Ra ST,24,Female,Undergraduation,2,3,2,2,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Chitra Ba ST,24,Female,Undergraduation,2,3,2,2,1,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Manoshi G ST,28,Female,High School,2,2,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Ravi Kurr ST,18,Male,High School,2,2,1,1,2,2,4,Marketing ,Y,Y,N,N,N
+Y,AB Mala Pill ST,19,Female,High School,1,2,1,1,2,2,2,Marketing ,Y,Y,N,N,N
+Y,AB Rose Rama ST,20,Female,Undergraduation,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,AB Velvizhi  ST,20,Female,High School,1,2,1,1,1,2,4,Marketing ,Y,Y,N,N,N
+Y,AB Virat Pra ST,30,Male,Undergraduation,2,2,3,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Manpreet  ST,31,Male,Undergraduation,2,2,3,2,2,1,5,Marketing ,Y,Y,N,N,N
+Y,AB Amir Meda ST,32,Male,Undergraduation,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,AB Pradeep K ST,33,Male,High School,2,2,3,2,2,1,6,Marketing ,Y,Y,N,N,N
+Y,AB Atul Prat ST,34,Male,High School,2,2,2,2,2,1,7,Marketing ,Y,Y,N,N,N
+Y,AB Baalkrish ST,28,Male,High School,2,2,2,2,3,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Suresh Si ST,33,Male,Undergraduation,1,2,2,1,2,1,5,Marketing ,Y,Y,N,N,N
+Y,AB Lalit Jam ST,33,Male,Undergraduation,1,2,2,1,2,3,10,Marketing ,Y,Y,N,N,N
+Y,AB Satish Si ST,33,Male,Undergraduation,1,2,2,1,2,1,6,Marketing ,Y,Y,N,N,N
+Y,AB Vijay Pra ST,28,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Umesh Nai ST,28,Male,High School,2,2,2,2,3,3,4,Marketing ,Y,Y,N,N,N
+Y,AB Vijay Swa ST,28,Male,Undergraduation,2,2,2,2,2,3,3,Marketing ,Y,Y,N,N,N
+Y,AB Satish La ST,28,Male,Undergraduation,2,1,1,1,2,1,3,Marketing ,Y,Y,N,N,N
+Y,AB Habib Ram ST,28,Male,Undergraduation,1,1,2,1,2,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Naseer Ra ST,28,Male,Undergraduation,1,1,2,1,1,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Manpreet  ST,28,Male,Undergraduation,2,1,2,1,1,0,4,Marketing ,Y,Y,N,N,N
+Y,AB Gauransh  ST,28,Male,Post Graduation,1,2,1,2,2,6,4,Marketing ,Y,Y,N,N,N
+Y,AB Jagat Swa ST,26,Male,Undergraduation,1,2,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Lalit Cha ST,28,Male,Undergraduation,1,2,1,2,1,2,12,Marketing ,Y,Y,N,N,N
+Y,AB Naval Jac ST,28,Male,Undergraduation,1,2,2,2,1,3,8,Marketing ,Y,Y,N,N,N
+Y,AB Binoya Ra ST,28,Male,Undergraduation,1,3,3,2,1,3,7,Marketing ,Y,Y,N,N,N
+Y,AB Aatif Oak ST,23,Male,Undergraduation,1,3,3,1,1,0,15,Marketing ,Y,Y,N,N,N
+Y,AB Padmini P ST,28,Female,High School,2,2,1,1,3,0,3,Marketing ,Y,Y,N,N,N
+Y,AB Leelawati ST,28,Male,High School,2,2,2,1,1,0,11,Marketing ,Y,Y,N,N,N
+Y,AB Amolika R ST,28,Female,High School,2,2,1,1,1,4,10,Marketing ,Y,Y,N,N,N
+Y,AB Esha Trip ST,26,Male,High School,2,2,2,1,1,6,1,Marketing ,Y,Y,N,N,N
+Y,AB Sona Mitt ST,23,Female,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Heena Pur ST,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Nikita Se ST,25,Female,High School,1,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,AB Padama Da ST,25,Male,High School,1,2,1,2,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Vineeta V ST,25,Female,High School,1,1,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Nandini S ST,25,Male,High School,1,1,1,3,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Upasana S ST,25,Male,High School,1,1,2,3,1,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Nalini Jo ST,25,Female,High School,1,1,1,3,1,2,3,Marketing ,Y,Y,N,N,N
+Y,AB Bagwati N ST,23,Male,High School,2,2,2,2,1,0,3,Marketing ,Y,Y,N,N,N
+Y,AB Nancy Kon ST,23,Male,Undergraduation,2,3,3,1,1,0,3,Marketing ,Y,Y,N,N,N
+Y,AB Jyoti Sar ST,28,Female,High School,2,2,1,2,1,3,4,Marketing ,Y,Y,N,N,N
+Y,AB Bhaagyasr ST,21,Male,High School,2,2,2,2,1,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Trishana  ST,26,Female,Undergraduation,2,2,1,2,3,1,2,Marketing ,Y,Y,N,N,N
+Y,AB Riya Bass ST,26,Male,Undergraduation,1,2,1,1,2,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Himani Ch ST,26,Female,Undergraduation,1,2,2,1,2,4,1,Marketing ,Y,Y,N,N,N
+Y,AB Juhi Deep ST,26,Male,Undergraduation,1,2,2,1,2,6,1,Marketing ,Y,Y,N,N,N
+Y,AB Hina Kabe ST,21,Female,High School,1,1,1,1,3,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Madhu Dee ST,26,Male,High School,1,1,2,1,3,6,2,Marketing ,Y,Y,N,N,N
+Y,AB Basanti S ST,22,Male,Undergraduation,1,2,2,1,1,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Padama Ag ST,26,Male,Undergraduation,2,2,2,2,2,3,2,Marketing ,Y,Y,N,N,N
+Y,AB Ambika Si ST,22,Female,Undergraduation,2,1,2,2,2,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Mukti Kha ST,26,Male,Post Graduation,1,2,1,2,2,1,4,Marketing ,Y,Y,N,N,N
+Y,AB Narmada E ST,22,Male,High School,1,1,1,1,3,1,1,Marketing ,Y,Y,N,N,N
+Y,AB Astha Ran ST,22,Female,High School,1,1,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+Y,AB Ritika Pr ST,24,Female,Post Graduation,1,2,1,2,2,2,1,Marketing ,Y,Y,N,N,N
+Y,AB Aishwarya ST,30,Female,Undergraduation,2,1,2,2,2,3,7,Marketing ,Y,Y,N,N,N
+Y,AB Sara Bire ST,27,Female,Undergraduation,2,1,2,2,2,3,1,Marketing ,Y,Y,N,N,N
+Y,AB Bhairavi  ST,27,Female,High School,1,2,1,2,2,0,1,Marketing ,Y,Y,N,N,N
+Y,AB Sweta Kar ST,34,Male,High School,1,2,1,2,2,0,5,Marketing ,Y,Y,N,N,N
+Y,AB Devika Aa ST,34,u,High School,2,2,1,2,1,3,5,Marketing ,Y,Y,N,N,N
+Y,AB Lata Zaad ST,26,Female,Undergraduation,1,1,1,2,2,1,3,Teacher,N,N,Y,N,N
+Y,AB Namita Ra ST,39,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Kamini Ek ST,26,Female,Undergraduation,1,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Neela Aad ST,39,Female,Undergraduation,2,1,1,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Vani jeya ST,24,Female,Undergraduation,2,1,1,1,2,0,2,Teacher,N,N,Y,N,N
+Y,AB Vairali K ST,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,AB Vaishnavi ST,40,Female,Undergraduation,2,1,1,1,1,2,9,Teacher,N,N,Y,N,N
+Y,AB Sujathi r ST,22,Female,Undergraduation,2,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,AB Jitendram ST,24,Male,Undergraduation,1,1,1,1,1,2,2,Teacher,N,N,Y,N,N
+Y,AB Surya Kum ST,37,Female,Post Graduation,1,1,2,1,2,4,9,Teacher,N,N,Y,N,N
+Y,AB Vandhana  ST,25,Female,Post Graduation,2,1,2,1,2,2,3,Teacher,N,N,Y,N,N
+Y,AB Varna Bal ST,25,Female,Post Graduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Balambika ST,24,Female,Post Graduation,2,1,2,1,1,4,2,Teacher,N,N,Y,N,N
+Y,AB Bagheswar ST,25,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Baghya La ST,24,Female,Undergraduation,1,2,1,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Triloka v ST,37,Female,Undergraduation,1,2,1,1,2,4,8,Teacher,N,N,Y,N,N
+Y,AB Suresh Si ST,33,Male,Undergraduation,1,2,2,1,2,1,5,Teacher,N,N,Y,N,N
+Y,AB Lalit Jam ST,33,Male,Undergraduation,1,2,2,1,2,3,10,Teacher,N,N,Y,N,N
+Y,AB Satish Si ST,33,Male,Undergraduation,1,2,2,1,2,1,6,Teacher,N,N,Y,N,N
+Y,AB Abhinav B ST,35,Male,Undergraduation,2,2,2,1,2,2,9,Teacher,N,N,Y,N,N
+Y,AB Vijay Pra ST,28,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+Y,AB Vijay Swa ST,28,Male,Undergraduation,2,2,2,2,2,3,3,Teacher,N,N,Y,N,N
+Y,AB Raghavan  ST,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,AB Atul Pras ST,40,Male,Undergraduation,2,2,1,2,2,2,6,Teacher,N,N,Y,N,N
+Y,AB Atul Maju ST,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,AB Bahadur P ST,40,Male,Undergraduation,1,3,1,2,2,1,6,Teacher,N,N,Y,N,N
+Y,AB Jawahar P ST,38,Male,Undergraduation,2,3,1,2,2,1,11,Teacher,N,N,Y,N,N
+Y,AB Rahim Dev ST,38,Male,Undergraduation,2,3,1,1,2,1,8,Teacher,N,N,Y,N,N
+Y,AB Satish La ST,28,Male,Undergraduation,2,1,1,1,2,1,3,Teacher,N,N,Y,N,N
+Y,AB Baldev Ta ST,38,Male,Undergraduation,1,1,2,1,2,11,8,Teacher,N,N,Y,N,N
+Y,AB Habib Ram ST,28,Male,Undergraduation,1,1,2,1,2,0,1,Teacher,N,N,Y,N,N
+Y,AB Raghavan  ST,38,Male,Undergraduation,1,1,2,1,1,0,9,Teacher,N,N,Y,N,N
+Y,AB Naseer Ra ST,28,Male,Undergraduation,1,1,2,1,1,0,1,Teacher,N,N,Y,N,N
+Y,AB Manpreet  ST,28,Male,Undergraduation,2,1,2,1,1,0,4,Teacher,N,N,Y,N,N
+Y,AB Chinmay K ST,38,Male,Undergraduation,2,1,2,1,1,4,3,Teacher,N,N,Y,N,N
+Y,AB Satishwar ST,38,Male,Undergraduation,2,1,2,1,1,1,3,Teacher,N,N,Y,N,N
+Y,AB Gauransh  ST,28,Male,Post Graduation,1,2,1,2,2,6,4,Teacher,N,N,Y,N,N
+Y,AB Baber Pal ST,40,Male,Undergraduation,1,2,1,3,1,1,7,Teacher,N,N,Y,N,N
+Y,AB Jagat Swa ST,26,Male,Undergraduation,1,2,1,3,1,2,3,Teacher,N,N,Y,N,N
+Y,AB Manish La ST,44,Male,Undergraduation,1,2,1,3,1,2,7,Teacher,N,N,Y,N,N
+Y,AB Lalit Cha ST,28,Male,Undergraduation,1,2,1,2,1,2,12,Teacher,N,N,Y,N,N
+Y,AB Naval Jac ST,28,Male,Undergraduation,1,2,2,2,1,3,8,Teacher,N,N,Y,N,N
+Y,AB Binoya Ra ST,28,Male,Undergraduation,1,3,3,2,1,3,7,Teacher,N,N,Y,N,N
+Y,AB Aatif Oak ST,23,Male,Undergraduation,1,3,3,1,1,0,15,Teacher,N,N,Y,N,N
+Y,AB Nancy Kon ST,23,Male,Undergraduation,2,3,3,1,1,0,3,Teacher,N,N,Y,N,N
+Y,AB Roma Dhir ST,44,Male,Undergraduation,2,3,3,1,1,0,6,Teacher,N,N,Y,N,N
+Y,AB Basanti S ST,22,Male,Undergraduation,1,2,2,1,1,1,1,Teacher,N,N,Y,N,N
+Y,AB Padama Ag ST,26,Male,Undergraduation,2,2,2,2,2,3,2,Teacher,N,N,Y,N,N
+Y,AB Ambika Si ST,22,Female,Undergraduation,2,1,2,2,2,1,1,Teacher,N,N,Y,N,N
+Y,AB Indrani P ST,44,Male,Undergraduation,2,1,2,2,2,1,7,Teacher,N,N,Y,N,N
+Y,AB Mukti Kha ST,26,Male,Post Graduation,1,2,1,2,2,1,4,Teacher,N,N,Y,N,N
+Y,AB Ritika Pr ST,24,Female,Post Graduation,1,2,1,2,2,2,1,Teacher,N,N,Y,N,N
+Y,AB Aishwarya ST,30,Female,Undergraduation,2,1,2,2,2,3,7,Teacher,N,N,Y,N,N
+Y,AB Sara Bire ST,27,Female,Undergraduation,2,1,2,2,2,3,1,Teacher,N,N,Y,N,N
+Y,AB Lata Zaad ST,26,Female,Undergraduation,1,1,1,2,2,1,3,Executive,N,N,Y,N,N
+Y,AB Ruchi Eli ST,45,Male,Undergraduation,1,1,1,2,2,1,11,Executive,N,N,Y,N,N
+Y,AB Shweta Ko ST,45,Female,Undergraduation,1,1,1,2,2,2,11,Executive,N,N,Y,N,N
+Y,AB Namita Ra ST,39,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Kamini Ek ST,26,Female,Undergraduation,1,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Neela Aad ST,39,Female,Undergraduation,2,1,1,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Vani jeya ST,24,Female,Undergraduation,2,1,1,1,2,0,2,Executive,N,N,Y,N,N
+Y,AB Vairali K ST,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,AB Vaishnavi ST,40,Female,Undergraduation,2,1,1,1,1,2,9,Executive,N,N,Y,N,N
+Y,AB Sujathi r ST,22,Female,Undergraduation,2,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,AB Jitendram ST,24,Male,Undergraduation,1,1,1,1,1,2,2,Executive,N,N,Y,N,N
+Y,AB Surya Kum ST,37,Female,Post Graduation,1,1,2,1,2,4,9,Executive,N,N,Y,N,N
+Y,AB Vandhana  ST,25,Female,Post Graduation,2,1,2,1,2,2,3,Executive,N,N,Y,N,N
+Y,AB Varna Bal ST,25,Female,Post Graduation,2,1,2,1,1,4,3,Executive,N,N,Y,N,N
+Y,AB Balambika ST,24,Female,Post Graduation,2,1,2,1,1,4,2,Executive,N,N,Y,N,N
+Y,AB Bagheswar ST,25,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,AB Baghya La ST,24,Female,Undergraduation,1,2,1,1,1,4,3,Executive,N,N,Y,N,N
+Y,AB Triloka v ST,37,Female,Undergraduation,1,2,1,1,2,4,8,Executive,N,N,Y,N,N
+Y,AB Suresh Si ST,33,Male,Undergraduation,1,2,2,1,2,1,5,Executive,N,N,Y,N,N
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
