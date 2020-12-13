@@ -1,0 +1,1 @@
+Extracting tabular data from PDF documents with styling information retained.
