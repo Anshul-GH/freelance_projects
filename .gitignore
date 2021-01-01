@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# add _debug folder to be ignored
+*_debug
+*_debug/*
