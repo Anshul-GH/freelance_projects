@@ -1,0 +1,1 @@
+approach to extract PDF table data with styling
