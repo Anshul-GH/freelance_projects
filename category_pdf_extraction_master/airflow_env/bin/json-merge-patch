@@ -1,0 +1,7 @@
+#!/home/anshul/code/freelance_projects/category_pdf_extraction_master/airflow_env/bin/python
+import json_merge_patch.cli
+json_merge_patch.cli.main()
+
+
+
+
