@@ -29,9 +29,6 @@ class CleanseRules:
     def apply(self, data, operations):
         pass
 
-    # def row_clean_column(row):
-    #     pass
-
     def rule_replace_single_char_across(self, data, **kwargs):
         """This function will find the 'to_char' and replace the same with
         'from_char' within all the columns of the dataframe.
