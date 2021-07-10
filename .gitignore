@@ -131,3 +131,11 @@ dmypy.json
 # add _debug folder to be ignored
 *_debug
 *_debug/*
+
+# vscode files
+.vscode
+.vscode/
+.vscode/*
+vscode
+vscode/*
+settings.json
